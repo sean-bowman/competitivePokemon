@@ -3,6 +3,9 @@
 .claude*
 CLAUDE.md
 
+# Internal project notes (not for publication)
+objectives.md
+
 # Python
 __pycache__/
 *.py[cod]
