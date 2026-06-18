@@ -1,0 +1,49 @@
+{
+  "name": "Meganium",
+  "fetched": "2026-04-19",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Meganium",
+  "base_form": {
+    "type": "Grass",
+    "ability_options": ["Overgrow", "Leaf Guard"],
+    "base_stats": {"hp": 80, "atk": 82, "def": 100, "spatk": 83, "spdef": 100, "speed": 80, "bst": 525}
+  },
+  "mega_form": {
+    "name": "Mega Meganium",
+    "item": "Meganiumite",
+    "type": "Grass/Fairy",
+    "ability": "Mega Sol",
+    "ability_description": "Even when the sunlight has not turned harsh, the Pokemon can use its moves as if the weather were harsh sunlight.",
+    "base_stats": {"hp": 80, "atk": 92, "def": 115, "spatk": 143, "spdef": 115, "speed": 80, "bst": 625},
+    "notes": "4x weakness to Poison. Dragon immunity via Fairy typing. Fairy STAB on Dazzling Gleam only in Mega form."
+  },
+  "moves": [
+    {"name": "Solar Beam", "pct": 99.071},
+    {"name": "Dazzling Gleam", "pct": 92.570},
+    {"name": "Protect", "pct": 88.854},
+    {"name": "Weather Ball", "pct": 86.997},
+    {"name": "Synthesis", "pct": 13.622},
+    {"name": "Earth Power", "pct": 12.693},
+    {"name": "Giga Drain", "pct": 1.238},
+    {"name": "Heal Pulse", "pct": 0.619}
+  ],
+  "items": [
+    {"name": "Meganiumite", "pct": 96.904},
+    {"name": "Leftovers", "pct": 0.619},
+    {"name": "Sitrus Berry", "pct": 0.310}
+  ],
+  "abilities": [
+    {"name": "Overgrow", "pct": 49.845},
+    {"name": "Leaf Guard", "pct": 32.508},
+    {"name": "Mega Sol", "pct": 17.647}
+  ],
+  "ability_note": "Mega Sol 17.6% reflects the fraction of Meganium that actually Mega Evolved in recorded battles. 96.9% hold Meganiumite but most are on teams where another Pokemon takes the Mega slot — Overgrow/Leaf Guard are the pre-Mega abilities for those sets.",
+  "teammates": [
+    {"name": "Sneasler", "pct": 45.511},
+    {"name": "Basculegion", "pct": 45.201},
+    {"name": "Pelipper", "pct": 44.892},
+    {"name": "Archaludon", "pct": 43.344},
+    {"name": "Incineroar", "pct": 31.269},
+    {"name": "Aerodactyl", "pct": 26.006}
+  ]
+}

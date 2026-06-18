@@ -1,0 +1,125 @@
+{
+  "name": "Dragonite",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "moves": [
+    {
+      "name": "Protect",
+      "pct": 80.822
+    },
+    {
+      "name": "Hurricane",
+      "pct": 52.283
+    },
+    {
+      "name": "Draco Meteor",
+      "pct": 42.922
+    },
+    {
+      "name": "Extreme Speed",
+      "pct": 38.584
+    },
+    {
+      "name": "Tailwind",
+      "pct": 34.247
+    },
+    {
+      "name": "Dragon Pulse",
+      "pct": 22.831
+    },
+    {
+      "name": "Scale Shot",
+      "pct": 18.493
+    },
+    {
+      "name": "Thunder",
+      "pct": 17.808
+    },
+    {
+      "name": "Ice Beam",
+      "pct": 11.644
+    },
+    {
+      "name": "Dragon Claw",
+      "pct": 7.078
+    }
+  ],
+  "items": [
+    {
+      "name": "Dragoninite",
+      "pct": 64.84
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 13.927
+    },
+    {
+      "name": "White Herb",
+      "pct": 4.566
+    },
+    {
+      "name": "Silk Scarf",
+      "pct": 2.968
+    },
+    {
+      "name": "Dragon Fang",
+      "pct": 2.968
+    },
+    {
+      "name": "Leftovers",
+      "pct": 1.37
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 1.37
+    },
+    {
+      "name": "Dragonitite",
+      "pct": 0.913
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 0.913
+    },
+    {
+      "name": "Yache Berry",
+      "pct": 0.913
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Multiscale",
+      "pct": 72.374
+    },
+    {
+      "name": "Inner Focus",
+      "pct": 27.626
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sneasler",
+      "pct": 52.968
+    },
+    {
+      "name": "Basculegion",
+      "pct": 46.347
+    },
+    {
+      "name": "Pelipper",
+      "pct": 42.922
+    },
+    {
+      "name": "Incineroar",
+      "pct": 37.671
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 37.443
+    },
+    {
+      "name": "Archaludon",
+      "pct": 34.703
+    }
+  ]
+}

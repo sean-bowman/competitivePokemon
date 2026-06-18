@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "sourceDoc": "docs/pokemon_champions_overview.md",
+  "lastReviewed": "2026-06-18",
+  "notes": "Hand-curated from the Champions overview. The item pool is expected to expand via live-service updates; treat results as guidance, not hard rules. Verify against the Game8 items list before finalizing.",
+  "rules": {
+    "levelCap": 50,
+    "teamSize": 6,
+    "speciesClause": true,
+    "itemClause": true,
+    "evTotalCap": 508,
+    "evPerStatCap": 252
+  },
+  "items": {
+    "available": [
+      "Choice Scarf",
+      "Focus Sash",
+      "Rocky Helmet",
+      "Damp Rock",
+      "Sitrus Berry",
+      "Lum Berry",
+      "Cheri Berry",
+      "Roseli Berry",
+      "Occa Berry",
+      "Yache Berry",
+      "Chople Berry",
+      "Weakness Policy",
+      "Booster Energy",
+      "Throat Spray",
+      "Safety Goggles",
+      "Loaded Dice",
+      "Scope Lens",
+      "Terrain Extender",
+      "Utility Umbrella",
+      "Charcoal",
+      "Black Sludge",
+      "Mental Herb",
+      "Protective Pads",
+      "Leftovers",
+      "White Herb",
+      "Black Glasses",
+      "Silk Scarf",
+      "Dragon Fang",
+      "Magnet",
+      "Mystic Water",
+      "Dragonitite",
+      "Gardevoirite",
+      "Meganiumite",
+      "Charizardite Y",
+      "Charizardite X",
+      "Aerodactylite",
+      "Tyranitarite",
+      "Garchompite"
+    ],
+    "unavailable": [
+      "Assault Vest",
+      "Life Orb",
+      "Choice Band",
+      "Choice Specs",
+      "Heavy-Duty Boots",
+      "Eviolite"
+    ]
+  },
+  "moveOverrides": {
+    "Incineroar": {
+      "banned": ["Knock Off"],
+      "note": "Incineroar cannot learn Knock Off in Champions despite the move existing for other Pokemon."
+    }
+  }
+}

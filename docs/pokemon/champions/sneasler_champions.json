@@ -1,0 +1,130 @@
+{
+  "name": "Sneasler",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sneasler",
+  "moves": [
+    {
+      "name": "Close Combat",
+      "pct": 99.654
+    },
+    {
+      "name": "Dire Claw",
+      "pct": 97.996
+    },
+    {
+      "name": "Fake Out",
+      "pct": 87.422
+    },
+    {
+      "name": "Protect",
+      "pct": 74.914
+    },
+    {
+      "name": "Coaching",
+      "pct": 19.143
+    },
+    {
+      "name": "Rock Tomb",
+      "pct": 7.256
+    },
+    {
+      "name": "Throat Chop",
+      "pct": 3.594
+    },
+    {
+      "name": "Rock Slide",
+      "pct": 2.903
+    },
+    {
+      "name": "Taunt",
+      "pct": 1.175
+    },
+    {
+      "name": "Gunk Shot",
+      "pct": 1.106
+    }
+  ],
+  "items": [
+    {
+      "name": "White Herb",
+      "pct": 70.56
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 26.054
+    },
+    {
+      "name": "Mental Herb",
+      "pct": 2.073
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 0.415
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 0.138
+    },
+    {
+      "name": "Black Belt",
+      "pct": 0.138
+    },
+    {
+      "name": "Oran Berry",
+      "pct": 0.069
+    },
+    {
+      "name": "Silk Scarf",
+      "pct": 0.069
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 0.069
+    },
+    {
+      "name": "Poison Barb",
+      "pct": 0.069
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Unburden",
+      "pct": 89.91
+    },
+    {
+      "name": "Poison Touch",
+      "pct": 7.118
+    },
+    {
+      "name": "Pressure",
+      "pct": 2.972
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Incineroar",
+      "pct": 46.026
+    },
+    {
+      "name": "Garchomp",
+      "pct": 39.046
+    },
+    {
+      "name": "Kingambit",
+      "pct": 36.075
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 33.241
+    },
+    {
+      "name": "Basculegion",
+      "pct": 25.777
+    },
+    {
+      "name": "Charizard",
+      "pct": 21.631
+    }
+  ]
+}

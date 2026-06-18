@@ -1,0 +1,122 @@
+{
+  "name": "Rotom-Wash",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Rotom-Wash",
+  "moves": [
+    {
+      "name": "Hydro Pump",
+      "pct": 98.249
+    },
+    {
+      "name": "Thunderbolt",
+      "pct": 72.957
+    },
+    {
+      "name": "Protect",
+      "pct": 59.144
+    },
+    {
+      "name": "Will-O-Wisp",
+      "pct": 54.864
+    },
+    {
+      "name": "Volt Switch",
+      "pct": 53.502
+    },
+    {
+      "name": "Electroweb",
+      "pct": 21.206
+    },
+    {
+      "name": "Trick",
+      "pct": 8.949
+    },
+    {
+      "name": "Helping Hand",
+      "pct": 8.171
+    },
+    {
+      "name": "Discharge",
+      "pct": 6.809
+    },
+    {
+      "name": "Eerie Impulse",
+      "pct": 3.307
+    }
+  ],
+  "items": [
+    {
+      "name": "Sitrus Berry",
+      "pct": 39.494
+    },
+    {
+      "name": "Leftovers",
+      "pct": 27.626
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 22.374
+    },
+    {
+      "name": "Magnet",
+      "pct": 3.891
+    },
+    {
+      "name": "Rindo Berry",
+      "pct": 1.946
+    },
+    {
+      "name": "Quick Claw",
+      "pct": 1.751
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 0.778
+    },
+    {
+      "name": "Chesto Berry",
+      "pct": 0.584
+    },
+    {
+      "name": "Choice Specs",
+      "pct": 0.389
+    },
+    {
+      "name": "Mystic Water",
+      "pct": 0.389
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Garchomp",
+      "pct": 63.23
+    },
+    {
+      "name": "Incineroar",
+      "pct": 52.335
+    },
+    {
+      "name": "Sneasler",
+      "pct": 44.942
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 29.377
+    },
+    {
+      "name": "Tyranitar",
+      "pct": 26.265
+    },
+    {
+      "name": "Floette",
+      "pct": 23.152
+    }
+  ]
+}

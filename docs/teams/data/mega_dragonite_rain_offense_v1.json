@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "name": "Mega Dragonite Rain Offense \u2014 v1",
+  "slug": "mega_dragonite_rain_offense_v1",
+  "format": "Pokemon Champions \u2014 Double Battles (VGC)",
+  "winCondition": "Whimsicott Prankster Tailwind + Pelipper Drizzle (Rain) set up on turn 1 \u2192 Mega Dragonite Hurricane (100% accuracy, fast) + Archaludon Electro Shot (instant in Rain) fire simultaneously \u2192 Incineroar Fake Out enables safe Mega Evo \u2192 Basculegion closes late game",
+  "created": "2026-04-14",
+  "updated": "",
+  "metaSnapshot": "meta_stats_2026-04-14.json",
+  "seedReference": "../seeds/mega_dragonite_seed.md",
+  "notes": "",
+  "slots": [
+    {
+      "slot": 1,
+      "role": "Rain attacker (core)",
+      "pokemon": "Mega Dragonite",
+      "item": "Dragonitite",
+      "ability": "Multiscale",
+      "moves": [
+        "Hurricane",
+        "Surf",
+        "Draco Meteor",
+        "Protect"
+      ],
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "nature": "Modest",
+      "notes": ""
+    },
+    {
+      "slot": 2,
+      "role": "Rain setter (core)",
+      "pokemon": "Pelipper",
+      "item": "Focus Sash",
+      "ability": "Drizzle",
+      "moves": [
+        "Hurricane",
+        "Weather Ball",
+        "Protect",
+        "Wide Guard"
+      ],
+      "evs": {
+        "hp": 248,
+        "atk": 0,
+        "def": 8,
+        "spa": 252,
+        "spd": 0,
+        "spe": 0
+      },
+      "nature": "Modest",
+      "notes": ""
+    },
+    {
+      "slot": 3,
+      "role": "Rain attacker 2 (core)",
+      "pokemon": "Archaludon",
+      "item": "Leftovers",
+      "ability": "Stamina",
+      "moves": [
+        "Electro Shot",
+        "Flash Cannon",
+        "Draco Meteor",
+        "Protect"
+      ],
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 252,
+        "spe": 0
+      },
+      "nature": "Calm",
+      "notes": ""
+    },
+    {
+      "slot": 4,
+      "role": "Enabler (core)",
+      "pokemon": "Incineroar",
+      "item": "Chople Berry",
+      "ability": "Intimidate",
+      "moves": [
+        "Fake Out",
+        "Parting Shot",
+        "Flare Blitz",
+        "Throat Chop"
+      ],
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "nature": "Careful",
+      "notes": ""
+    },
+    {
+      "slot": 5,
+      "role": "Speed control / TR disruption (near-core)",
+      "pokemon": "Whimsicott",
+      "item": "Mental Herb",
+      "ability": "Prankster",
+      "moves": [
+        "Tailwind",
+        "Moonblast",
+        "Encore",
+        "Protect"
+      ],
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "Timid",
+      "notes": ""
+    },
+    {
+      "slot": 6,
+      "role": "Flex B \u2014 late game",
+      "pokemon": "Basculegion",
+      "item": "Choice Scarf",
+      "ability": "Adaptability",
+      "moves": [
+        "Last Respects",
+        "Wave Crash",
+        "Aqua Jet",
+        "Flip Turn"
+      ],
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "nature": "Adamant",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "name": "Garchomp",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Garchomp",
+  "moves": [
+    {
+      "name": "Earthquake",
+      "pct": 88.665
+    },
+    {
+      "name": "Dragon Claw",
+      "pct": 85.139
+    },
+    {
+      "name": "Rock Slide",
+      "pct": 72.208
+    },
+    {
+      "name": "Protect",
+      "pct": 67.338
+    },
+    {
+      "name": "Stomping Tantrum",
+      "pct": 50.462
+    },
+    {
+      "name": "Swords Dance",
+      "pct": 6.717
+    },
+    {
+      "name": "Stone Edge",
+      "pct": 6.213
+    },
+    {
+      "name": "Iron Head",
+      "pct": 4.534
+    },
+    {
+      "name": "Poison Jab",
+      "pct": 4.114
+    },
+    {
+      "name": "Bulldoze",
+      "pct": 3.778
+    }
+  ],
+  "items": [
+    {
+      "name": "Choice Scarf",
+      "pct": 29.639
+    },
+    {
+      "name": "White Herb",
+      "pct": 16.877
+    },
+    {
+      "name": "Soft Sand",
+      "pct": 13.266
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 9.908
+    },
+    {
+      "name": "Yache Berry",
+      "pct": 5.626
+    },
+    {
+      "name": "Haban Berry",
+      "pct": 3.862
+    },
+    {
+      "name": "Garchompite",
+      "pct": 3.526
+    },
+    {
+      "name": "Bright Powder",
+      "pct": 3.359
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 3.107
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 2.519
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Rough Skin",
+      "pct": 88.413
+    },
+    {
+      "name": "Sand Veil",
+      "pct": 11.083
+    },
+    {
+      "name": "Sand Force",
+      "pct": 0.504
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Incineroar",
+      "pct": 53.233
+    },
+    {
+      "name": "Sneasler",
+      "pct": 47.439
+    },
+    {
+      "name": "Charizard",
+      "pct": 34.257
+    },
+    {
+      "name": "Rotom-Wash",
+      "pct": 27.288
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 26.28
+    },
+    {
+      "name": "Kingambit",
+      "pct": 22.67
+    }
+  ]
+}

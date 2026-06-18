@@ -1,0 +1,130 @@
+{
+  "name": "Incineroar",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Incineroar",
+  "moves": [
+    {
+      "name": "Fake Out",
+      "pct": 99.025
+    },
+    {
+      "name": "Parting Shot",
+      "pct": 96.041
+    },
+    {
+      "name": "Flare Blitz",
+      "pct": 85.37
+    },
+    {
+      "name": "Throat Chop",
+      "pct": 43.431
+    },
+    {
+      "name": "Darkest Lariat",
+      "pct": 38.669
+    },
+    {
+      "name": "Protect",
+      "pct": 13.941
+    },
+    {
+      "name": "Will-O-Wisp",
+      "pct": 6.139
+    },
+    {
+      "name": "Taunt",
+      "pct": 4.188
+    },
+    {
+      "name": "Helping Hand",
+      "pct": 4.016
+    },
+    {
+      "name": "Snarl",
+      "pct": 2.869
+    }
+  ],
+  "items": [
+    {
+      "name": "Sitrus Berry",
+      "pct": 56.168
+    },
+    {
+      "name": "Chople Berry",
+      "pct": 15.491
+    },
+    {
+      "name": "Shuca Berry",
+      "pct": 12.622
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 4.877
+    },
+    {
+      "name": "Leftovers",
+      "pct": 3.901
+    },
+    {
+      "name": "Passho Berry",
+      "pct": 2.123
+    },
+    {
+      "name": "White Herb",
+      "pct": 0.975
+    },
+    {
+      "name": "Black Glasses",
+      "pct": 0.688
+    },
+    {
+      "name": "Quick Claw",
+      "pct": 0.631
+    },
+    {
+      "name": "Charcoal",
+      "pct": 0.516
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "pct": 98.164
+    },
+    {
+      "name": "Blaze",
+      "pct": 1.779
+    },
+    {
+      "name": "Intimidaci",
+      "pct": 0.057
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sinistcha",
+      "pct": 39.415
+    },
+    {
+      "name": "Sneasler",
+      "pct": 38.21
+    },
+    {
+      "name": "Garchomp",
+      "pct": 36.374
+    },
+    {
+      "name": "Floette",
+      "pct": 22.949
+    },
+    {
+      "name": "Charizard",
+      "pct": 21.113
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 20.941
+    }
+  ]
+}

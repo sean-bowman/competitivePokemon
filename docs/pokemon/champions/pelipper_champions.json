@@ -1,0 +1,130 @@
+{
+  "name": "Pelipper",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Pelipper",
+  "moves": [
+    {
+      "name": "Hurricane",
+      "pct": 97.271
+    },
+    {
+      "name": "Weather Ball",
+      "pct": 86.94
+    },
+    {
+      "name": "Tailwind",
+      "pct": 76.803
+    },
+    {
+      "name": "Protect",
+      "pct": 64.912
+    },
+    {
+      "name": "Wide Guard",
+      "pct": 33.333
+    },
+    {
+      "name": "Muddy Water",
+      "pct": 12.281
+    },
+    {
+      "name": "Icy Wind",
+      "pct": 8.382
+    },
+    {
+      "name": "U-turn",
+      "pct": 6.433
+    },
+    {
+      "name": "Helping Hand",
+      "pct": 3.509
+    },
+    {
+      "name": "Hydro Pump",
+      "pct": 3.314
+    }
+  ],
+  "items": [
+    {
+      "name": "Focus Sash",
+      "pct": 75.049
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 8.967
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 5.653
+    },
+    {
+      "name": "Leftovers",
+      "pct": 2.924
+    },
+    {
+      "name": "Sharp Beak",
+      "pct": 1.559
+    },
+    {
+      "name": "Quick Claw",
+      "pct": 1.365
+    },
+    {
+      "name": "Wacan Berry",
+      "pct": 1.17
+    },
+    {
+      "name": "Mystic Water",
+      "pct": 0.975
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 0.78
+    },
+    {
+      "name": "Mental Herb",
+      "pct": 0.39
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Drizzle",
+      "pct": 98.635
+    },
+    {
+      "name": "Keen Eye",
+      "pct": 0.975
+    },
+    {
+      "name": "Rain Dish",
+      "pct": 0.39
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Basculegion",
+      "pct": 62.378
+    },
+    {
+      "name": "Archaludon",
+      "pct": 57.7
+    },
+    {
+      "name": "Incineroar",
+      "pct": 51.072
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 50.097
+    },
+    {
+      "name": "Sneasler",
+      "pct": 40.156
+    },
+    {
+      "name": "Dragonite",
+      "pct": 36.647
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Charizard",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Charizard",
+  "moves": [
+    {
+      "name": "Protect",
+      "pct": 97.373
+    },
+    {
+      "name": "Heat Wave",
+      "pct": 90.718
+    },
+    {
+      "name": "Solar Beam",
+      "pct": 79.159
+    },
+    {
+      "name": "Weather Ball",
+      "pct": 43.783
+    },
+    {
+      "name": "Overheat",
+      "pct": 25.919
+    },
+    {
+      "name": "Air Slash",
+      "pct": 23.117
+    },
+    {
+      "name": "Flare Blitz",
+      "pct": 5.429
+    },
+    {
+      "name": "Flamethrower",
+      "pct": 4.729
+    },
+    {
+      "name": "Dragon Pulse",
+      "pct": 4.203
+    },
+    {
+      "name": "Dragon Dance",
+      "pct": 3.853
+    }
+  ],
+  "items": [
+    {
+      "name": "Charizardite Y",
+      "pct": 93.695
+    },
+    {
+      "name": "Charizardite X",
+      "pct": 5.079
+    },
+    {
+      "name": "Charcoal",
+      "pct": 0.525
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 0.175
+    },
+    {
+      "name": "Charti Berry",
+      "pct": 0.175
+    },
+    {
+      "name": "Life Orb",
+      "pct": 0.175
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 0.175
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Solar Power",
+      "pct": 42.032
+    },
+    {
+      "name": "Blaze",
+      "pct": 40.455
+    },
+    {
+      "name": "Drought",
+      "pct": 15.587
+    },
+    {
+      "name": "Tough Claws",
+      "pct": 1.926
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Garchomp",
+      "pct": 71.454
+    },
+    {
+      "name": "Incineroar",
+      "pct": 64.448
+    },
+    {
+      "name": "Sneasler",
+      "pct": 54.816
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 48.862
+    },
+    {
+      "name": "Venusaur",
+      "pct": 44.834
+    },
+    {
+      "name": "Kingambit",
+      "pct": 24.518
+    }
+  ]
+}

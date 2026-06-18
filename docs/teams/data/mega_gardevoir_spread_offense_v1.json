@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "name": "Mega Gardevoir Spread Offense \u2014 v1",
+  "slug": "mega_gardevoir_spread_offense_v1",
+  "format": "Pokemon Champions \u2014 Double Battles (VGC)",
+  "winCondition": "Aerodactyl sets Tailwind \u2192 Mega Gardevoir fires Pixilate Hyper Voice as a ~162 effective power spread Fairy move at both opponents \u2192 Garchomp provides Ground/Rock coverage from back or via Rock Slide when paired \u2192 Milotic punishes Intimidate with Competitive +2 SpAtk",
+  "created": "2026-04-15",
+  "updated": "",
+  "metaSnapshot": "meta_stats_2026-04-14.json",
+  "seedReference": "../seeds/mega_gardevoir_seed.md",
+  "notes": "",
+  "slots": [
+    {
+      "slot": 1,
+      "role": "Fairy spread (core)",
+      "pokemon": "Mega Gardevoir",
+      "item": "Gardevoirite",
+      "ability": "Pixilate",
+      "moves": [
+        "Hyper Voice",
+        "Psychic",
+        "Moonblast",
+        "Protect"
+      ],
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 4,
+        "spe": 0
+      },
+      "nature": "Modest",
+      "notes": ""
+    },
+    {
+      "slot": 2,
+      "role": "Ground/Dragon coverage (core)",
+      "pokemon": "Garchomp",
+      "item": "White Herb",
+      "ability": "Rough Skin",
+      "moves": [
+        "Earthquake",
+        "Rock Slide",
+        "Dragon Claw",
+        "Protect"
+      ],
+      "evs": {
+        "hp": 220,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 32
+      },
+      "nature": "Jolly",
+      "notes": ""
+    },
+    {
+      "slot": 3,
+      "role": "Speed control (core)",
+      "pokemon": "Aerodactyl",
+      "item": "Focus Sash",
+      "ability": "Unnerve",
+      "moves": [
+        "Tailwind",
+        "Rock Slide",
+        "Dual Wingbeat",
+        "Protect"
+      ],
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 4,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "Jolly",
+      "notes": ""
+    },
+    {
+      "slot": 4,
+      "role": "Enabler (core)",
+      "pokemon": "Incineroar",
+      "item": "Chople Berry",
+      "ability": "Intimidate",
+      "moves": [
+        "Fake Out",
+        "Parting Shot",
+        "Flare Blitz",
+        "Throat Chop"
+      ],
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "def": 0,
+        "spa": 0,
+        "spd": 252,
+        "spe": 0
+      },
+      "nature": "Careful",
+      "notes": ""
+    },
+    {
+      "slot": 5,
+      "role": "Flex A \u2014 Intimidate punisher",
+      "pokemon": "Milotic",
+      "item": "Leftovers",
+      "ability": "Competitive",
+      "moves": [
+        "Scald",
+        "Ice Beam",
+        "Icy Wind",
+        "Recover"
+      ],
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 252,
+        "spe": 0
+      },
+      "nature": "Calm",
+      "notes": ""
+    },
+    {
+      "slot": 6,
+      "role": "Flex B \u2014 Trick Room counter / speed redundancy",
+      "pokemon": "Whimsicott",
+      "item": "Mental Herb",
+      "ability": "Prankster",
+      "moves": [
+        "Tailwind",
+        "Moonblast",
+        "Encore",
+        "Taunt"
+      ],
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 0,
+        "spa": 4,
+        "spd": 0,
+        "spe": 252
+      },
+      "nature": "Timid",
+      "notes": ""
+    }
+  ]
+}

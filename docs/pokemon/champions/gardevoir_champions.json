@@ -1,0 +1,133 @@
+{
+  "name": "Gardevoir",
+  "fetched": "2026-04-15",
+  "source": "pikalytics_champions",
+  "moves": [
+    {
+      "name": "Protect",
+      "pct": 66.939
+    },
+    {
+      "name": "Hyper Voice",
+      "pct": 63.673
+    },
+    {
+      "name": "Psychic",
+      "pct": 53.878
+    },
+    {
+      "name": "Moonblast",
+      "pct": 44.898
+    },
+    {
+      "name": "Psyshock",
+      "pct": 36.327
+    },
+    {
+      "name": "Trick Room",
+      "pct": 31.837
+    },
+    {
+      "name": "Dazzling Gleam",
+      "pct": 29.388
+    },
+    {
+      "name": "Aura Sphere",
+      "pct": 13.878
+    },
+    {
+      "name": "Calm Mind",
+      "pct": 13.878
+    },
+    {
+      "name": "Icy Wind",
+      "pct": 12.653
+    }
+  ],
+  "items": [
+    {
+      "name": "Gardevoirite",
+      "pct": 65.714
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 29.388
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 1.633
+    },
+    {
+      "name": "Fairy Feather",
+      "pct": 0.816
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 0.816
+    },
+    {
+      "name": "Pa",
+      "pct": 0.408
+    },
+    {
+      "name": "Focus Band",
+      "pct": 0.408
+    },
+    {
+      "name": "White Herb",
+      "pct": 0.408
+    },
+    {
+      "name": "Bright Powder",
+      "pct": 0.408
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Telepathy",
+      "pct": 43.265
+    },
+    {
+      "name": "Trace",
+      "pct": 37.143
+    },
+    {
+      "name": "Pixilate",
+      "pct": 10.204
+    },
+    {
+      "name": "Synchronize",
+      "pct": 8.98
+    },
+    {
+      "name": "Sincron",
+      "pct": 0.408
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Garchomp",
+      "pct": 60.816
+    },
+    {
+      "name": "Incineroar",
+      "pct": 58.367
+    },
+    {
+      "name": "Sneasler",
+      "pct": 31.837
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 29.388
+    },
+    {
+      "name": "Charizard",
+      "pct": 27.347
+    },
+    {
+      "name": "Milotic",
+      "pct": 26.531
+    }
+  ]
+}

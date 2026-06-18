@@ -1,0 +1,134 @@
+{
+  "name": "Kingambit",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Kingambit",
+  "moves": [
+    {
+      "name": "Sucker Punch",
+      "pct": 99.769
+    },
+    {
+      "name": "Protect",
+      "pct": 93.88
+    },
+    {
+      "name": "Kowtow Cleave",
+      "pct": 88.799
+    },
+    {
+      "name": "Iron Head",
+      "pct": 55.658
+    },
+    {
+      "name": "Swords Dance",
+      "pct": 41.224
+    },
+    {
+      "name": "Low Kick",
+      "pct": 16.628
+    },
+    {
+      "name": "Assurance",
+      "pct": 2.079
+    },
+    {
+      "name": "Brick Break",
+      "pct": 0.924
+    },
+    {
+      "name": "Iron Defense",
+      "pct": 0.346
+    },
+    {
+      "name": "Shadow Claw",
+      "pct": 0.231
+    }
+  ],
+  "items": [
+    {
+      "name": "Black Glasses",
+      "pct": 63.741
+    },
+    {
+      "name": "Chople Berry",
+      "pct": 27.136
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 1.386
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 1.386
+    },
+    {
+      "name": "Dread Plate",
+      "pct": 1.27
+    },
+    {
+      "name": "Leftovers",
+      "pct": 1.155
+    },
+    {
+      "name": "Occa Berry",
+      "pct": 0.577
+    },
+    {
+      "name": "Black Belt",
+      "pct": 0.577
+    },
+    {
+      "name": "Shuca Berry",
+      "pct": 0.462
+    },
+    {
+      "name": "King",
+      "pct": 0.346
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Defiant",
+      "pct": 98.152
+    },
+    {
+      "name": "Supreme Overlord",
+      "pct": 1.617
+    },
+    {
+      "name": "Pressure",
+      "pct": 0.115
+    },
+    {
+      "name": "DefiantLevel",
+      "pct": 0.115
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sneasler",
+      "pct": 60.277
+    },
+    {
+      "name": "Incineroar",
+      "pct": 41.917
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 32.217
+    },
+    {
+      "name": "Garchomp",
+      "pct": 31.178
+    },
+    {
+      "name": "Basculegion",
+      "pct": 25.289
+    },
+    {
+      "name": "Froslass",
+      "pct": 19.746
+    }
+  ]
+}

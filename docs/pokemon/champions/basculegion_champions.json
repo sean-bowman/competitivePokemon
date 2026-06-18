@@ -1,0 +1,134 @@
+{
+  "name": "Basculegion",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Basculegion",
+  "moves": [
+    {
+      "name": "Last Respects",
+      "pct": 97.606
+    },
+    {
+      "name": "Wave Crash",
+      "pct": 94.225
+    },
+    {
+      "name": "Aqua Jet",
+      "pct": 86.338
+    },
+    {
+      "name": "Flip Turn",
+      "pct": 74.085
+    },
+    {
+      "name": "Protect",
+      "pct": 28.31
+    },
+    {
+      "name": "Liquidation",
+      "pct": 4.507
+    },
+    {
+      "name": "Icy Wind",
+      "pct": 3.38
+    },
+    {
+      "name": "Ice Fang",
+      "pct": 1.69
+    },
+    {
+      "name": "Phantom Force",
+      "pct": 1.549
+    },
+    {
+      "name": "Shadow Ball",
+      "pct": 1.549
+    }
+  ],
+  "items": [
+    {
+      "name": "Choice Scarf",
+      "pct": 65.493
+    },
+    {
+      "name": "Mystic Water",
+      "pct": 27.324
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 2.817
+    },
+    {
+      "name": "White Herb",
+      "pct": 0.986
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 0.704
+    },
+    {
+      "name": "Spell Tag",
+      "pct": 0.563
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 0.563
+    },
+    {
+      "name": "Leftovers",
+      "pct": 0.423
+    },
+    {
+      "name": "Life Orb",
+      "pct": 0.282
+    },
+    {
+      "name": "Colbur Berry",
+      "pct": 0.282
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Adaptability",
+      "pct": 68.31
+    },
+    {
+      "name": "Swift Swim",
+      "pct": 31.408
+    },
+    {
+      "name": "Adapdability",
+      "pct": 0.141
+    },
+    {
+      "name": "swift Swin",
+      "pct": 0.141
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sneasler",
+      "pct": 52.535
+    },
+    {
+      "name": "Incineroar",
+      "pct": 51.268
+    },
+    {
+      "name": "Pelipper",
+      "pct": 45.07
+    },
+    {
+      "name": "Archaludon",
+      "pct": 34.366
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 34.225
+    },
+    {
+      "name": "Kingambit",
+      "pct": 30.845
+    }
+  ]
+}

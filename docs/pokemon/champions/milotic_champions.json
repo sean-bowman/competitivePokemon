@@ -1,0 +1,129 @@
+{
+  "name": "Milotic",
+  "fetched": "2026-04-15",
+  "source": "pikalytics_champions",
+  "moves": [
+    {
+      "name": "Scald",
+      "pct": 89.259
+    },
+    {
+      "name": "Protect",
+      "pct": 85.926
+    },
+    {
+      "name": "Ice Beam",
+      "pct": 54.074
+    },
+    {
+      "name": "Icy Wind",
+      "pct": 53.333
+    },
+    {
+      "name": "Recover",
+      "pct": 45.556
+    },
+    {
+      "name": "Life Dew",
+      "pct": 18.889
+    },
+    {
+      "name": "Muddy Water",
+      "pct": 13.704
+    },
+    {
+      "name": "Coil",
+      "pct": 7.778
+    },
+    {
+      "name": "Hypnosis",
+      "pct": 7.778
+    },
+    {
+      "name": "Helping Hand",
+      "pct": 7.778
+    }
+  ],
+  "items": [
+    {
+      "name": "Leftovers",
+      "pct": 75.556
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 12.963
+    },
+    {
+      "name": "Mystic Water",
+      "pct": 3.333
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 3.333
+    },
+    {
+      "name": "Wacan Berry",
+      "pct": 1.852
+    },
+    {
+      "name": "Quick Claw",
+      "pct": 0.741
+    },
+    {
+      "name": "Bright Powder",
+      "pct": 0.741
+    },
+    {
+      "name": "Rindo Berry",
+      "pct": 0.741
+    },
+    {
+      "name": "mistic water",
+      "pct": 0.37
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 0.37
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Competitive",
+      "pct": 96.296
+    },
+    {
+      "name": "Marvel Scale",
+      "pct": 3.333
+    },
+    {
+      "name": "Cute Charm",
+      "pct": 0.37
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Incineroar",
+      "pct": 52.963
+    },
+    {
+      "name": "Garchomp",
+      "pct": 50.0
+    },
+    {
+      "name": "Sneasler",
+      "pct": 37.407
+    },
+    {
+      "name": "Charizard",
+      "pct": 36.667
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 30.37
+    },
+    {
+      "name": "Venusaur",
+      "pct": 25.185
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Tyranitar",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Tyranitar",
+  "moves": [
+    {
+      "name": "Rock Slide",
+      "pct": 96.768
+    },
+    {
+      "name": "Protect",
+      "pct": 79.192
+    },
+    {
+      "name": "Knock Off",
+      "pct": 73.333
+    },
+    {
+      "name": "Low Kick",
+      "pct": 61.01
+    },
+    {
+      "name": "Ice Punch",
+      "pct": 14.949
+    },
+    {
+      "name": "Crunch",
+      "pct": 14.747
+    },
+    {
+      "name": "Dragon Dance",
+      "pct": 14.141
+    },
+    {
+      "name": "Stone Edge",
+      "pct": 9.899
+    },
+    {
+      "name": "Earthquake",
+      "pct": 7.273
+    },
+    {
+      "name": "High Horsepower",
+      "pct": 4.646
+    }
+  ],
+  "items": [
+    {
+      "name": "Tyranitarite",
+      "pct": 64.242
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 15.152
+    },
+    {
+      "name": "Chople Berry",
+      "pct": 8.889
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 2.626
+    },
+    {
+      "name": "Leftovers",
+      "pct": 2.222
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 1.616
+    },
+    {
+      "name": "Shuca Berry",
+      "pct": 1.414
+    },
+    {
+      "name": "Quick Claw",
+      "pct": 1.01
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 0.808
+    },
+    {
+      "name": "White Herb",
+      "pct": 0.808
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Sand Stream",
+      "pct": 99.596
+    },
+    {
+      "name": "Unnerve",
+      "pct": 0.404
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sinistcha",
+      "pct": 60.202
+    },
+    {
+      "name": "Incineroar",
+      "pct": 51.515
+    },
+    {
+      "name": "Excadrill",
+      "pct": 47.879
+    },
+    {
+      "name": "Garchomp",
+      "pct": 28.889
+    },
+    {
+      "name": "Sneasler",
+      "pct": 28.485
+    },
+    {
+      "name": "Rotom-Wash",
+      "pct": 27.273
+    }
+  ]
+}

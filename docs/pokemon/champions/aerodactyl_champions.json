@@ -1,0 +1,133 @@
+{
+  "name": "Aerodactyl",
+  "fetched": "2026-04-15",
+  "source": "pikalytics_champions",
+  "moves": [
+    {
+      "name": "Rock Slide",
+      "pct": 99.15
+    },
+    {
+      "name": "Protect",
+      "pct": 94.618
+    },
+    {
+      "name": "Dual Wingbeat",
+      "pct": 93.768
+    },
+    {
+      "name": "Tailwind",
+      "pct": 88.669
+    },
+    {
+      "name": "Wide Guard",
+      "pct": 8.215
+    },
+    {
+      "name": "Iron Head",
+      "pct": 2.833
+    },
+    {
+      "name": "Earthquake",
+      "pct": 2.266
+    },
+    {
+      "name": "Ice Fang",
+      "pct": 2.266
+    },
+    {
+      "name": "Crunch",
+      "pct": 1.416
+    },
+    {
+      "name": "Stone Edge",
+      "pct": 0.85
+    }
+  ],
+  "items": [
+    {
+      "name": "Focus Sash",
+      "pct": 69.122
+    },
+    {
+      "name": "Aerodactylite",
+      "pct": 23.229
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 3.116
+    },
+    {
+      "name": "King",
+      "pct": 1.416
+    },
+    {
+      "name": "White Herb",
+      "pct": 0.567
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 0.567
+    },
+    {
+      "name": "Leftovers",
+      "pct": 0.567
+    },
+    {
+      "name": "Sharp Beak",
+      "pct": 0.567
+    },
+    {
+      "name": "Bright Powder",
+      "pct": 0.283
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 0.283
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Unnerve",
+      "pct": 85.269
+    },
+    {
+      "name": "Pressure",
+      "pct": 7.082
+    },
+    {
+      "name": "Tough Claws",
+      "pct": 5.382
+    },
+    {
+      "name": "Rock Head",
+      "pct": 2.266
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Incineroar",
+      "pct": 58.64
+    },
+    {
+      "name": "Sneasler",
+      "pct": 57.224
+    },
+    {
+      "name": "Floette",
+      "pct": 51.841
+    },
+    {
+      "name": "Garchomp",
+      "pct": 51.558
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 35.977
+    },
+    {
+      "name": "Kingambit",
+      "pct": 32.011
+    }
+  ]
+}

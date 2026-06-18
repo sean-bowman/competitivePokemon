@@ -1,0 +1,1575 @@
+{
+  "source": "https://www.pikalytics.com/champions",
+  "fetched": "2026-04-14",
+  "format": "Pokemon Champions \u2014 Double Battles",
+  "pokemon": [
+    {
+      "rank": "1",
+      "name": "Incineroar",
+      "usage_pct": 54.4,
+      "role_label": "Tempo king",
+      "description": "Intimidate, Fake Out, and Parting Shot still define how high-end teams buy turns.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/incineroar",
+      "pokemon_key": "incineroar",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Incineroar",
+      "moves": [
+        {
+          "name": "Fake Out",
+          "pct": 99.025
+        },
+        {
+          "name": "Parting Shot",
+          "pct": 96.041
+        },
+        {
+          "name": "Flare Blitz",
+          "pct": 85.37
+        },
+        {
+          "name": "Throat Chop",
+          "pct": 43.431
+        },
+        {
+          "name": "Darkest Lariat",
+          "pct": 38.669
+        },
+        {
+          "name": "Protect",
+          "pct": 13.941
+        },
+        {
+          "name": "Will-O-Wisp",
+          "pct": 6.139
+        },
+        {
+          "name": "Taunt",
+          "pct": 4.188
+        },
+        {
+          "name": "Helping Hand",
+          "pct": 4.016
+        },
+        {
+          "name": "Snarl",
+          "pct": 2.869
+        }
+      ],
+      "items": [
+        {
+          "name": "Sitrus Berry",
+          "pct": 56.168
+        },
+        {
+          "name": "Chople Berry",
+          "pct": 15.491
+        },
+        {
+          "name": "Shuca Berry",
+          "pct": 12.622
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 4.877
+        },
+        {
+          "name": "Leftovers",
+          "pct": 3.901
+        },
+        {
+          "name": "Passho Berry",
+          "pct": 2.123
+        },
+        {
+          "name": "White Herb",
+          "pct": 0.975
+        },
+        {
+          "name": "Black Glasses",
+          "pct": 0.688
+        },
+        {
+          "name": "Quick Claw",
+          "pct": 0.631
+        },
+        {
+          "name": "Charcoal",
+          "pct": 0.516
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Intimidate",
+          "pct": 98.164
+        },
+        {
+          "name": "Blaze",
+          "pct": 1.779
+        },
+        {
+          "name": "Intimidaci",
+          "pct": 0.057
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 39.415
+        },
+        {
+          "name": "Sneasler",
+          "pct": 38.21
+        },
+        {
+          "name": "Garchomp",
+          "pct": 36.374
+        },
+        {
+          "name": "Floette",
+          "pct": 22.949
+        },
+        {
+          "name": "Charizard",
+          "pct": 21.113
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 20.941
+        }
+      ]
+    },
+    {
+      "rank": "2",
+      "name": "Sneasler",
+      "usage_pct": 45.1,
+      "role_label": "Fast disruption",
+      "description": "Dire Claw pressure and Fake Out support make it one of the cleanest snowball leads.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/sneasler",
+      "pokemon_key": "sneasler",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sneasler",
+      "moves": [
+        {
+          "name": "Close Combat",
+          "pct": 99.654
+        },
+        {
+          "name": "Dire Claw",
+          "pct": 97.996
+        },
+        {
+          "name": "Fake Out",
+          "pct": 87.422
+        },
+        {
+          "name": "Protect",
+          "pct": 74.914
+        },
+        {
+          "name": "Coaching",
+          "pct": 19.143
+        },
+        {
+          "name": "Rock Tomb",
+          "pct": 7.256
+        },
+        {
+          "name": "Throat Chop",
+          "pct": 3.594
+        },
+        {
+          "name": "Rock Slide",
+          "pct": 2.903
+        },
+        {
+          "name": "Taunt",
+          "pct": 1.175
+        },
+        {
+          "name": "Gunk Shot",
+          "pct": 1.106
+        }
+      ],
+      "items": [
+        {
+          "name": "White Herb",
+          "pct": 70.56
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 26.054
+        },
+        {
+          "name": "Mental Herb",
+          "pct": 2.073
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 0.415
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 0.138
+        },
+        {
+          "name": "Black Belt",
+          "pct": 0.138
+        },
+        {
+          "name": "Oran Berry",
+          "pct": 0.069
+        },
+        {
+          "name": "Silk Scarf",
+          "pct": 0.069
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 0.069
+        },
+        {
+          "name": "Poison Barb",
+          "pct": 0.069
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Unburden",
+          "pct": 89.91
+        },
+        {
+          "name": "Poison Touch",
+          "pct": 7.118
+        },
+        {
+          "name": "Pressure",
+          "pct": 2.972
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Incineroar",
+          "pct": 46.026
+        },
+        {
+          "name": "Garchomp",
+          "pct": 39.046
+        },
+        {
+          "name": "Kingambit",
+          "pct": 36.075
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 33.241
+        },
+        {
+          "name": "Basculegion",
+          "pct": 25.777
+        },
+        {
+          "name": "Charizard",
+          "pct": 21.631
+        }
+      ]
+    },
+    {
+      "rank": "3",
+      "name": "Garchomp",
+      "usage_pct": 37.1,
+      "role_label": "Ground pressure",
+      "description": "Flexible speed control and spread damage keep Garchomp central in open-sheet play.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/garchomp",
+      "pokemon_key": "garchomp",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Garchomp",
+      "moves": [
+        {
+          "name": "Earthquake",
+          "pct": 88.665
+        },
+        {
+          "name": "Dragon Claw",
+          "pct": 85.139
+        },
+        {
+          "name": "Rock Slide",
+          "pct": 72.208
+        },
+        {
+          "name": "Protect",
+          "pct": 67.338
+        },
+        {
+          "name": "Stomping Tantrum",
+          "pct": 50.462
+        },
+        {
+          "name": "Swords Dance",
+          "pct": 6.717
+        },
+        {
+          "name": "Stone Edge",
+          "pct": 6.213
+        },
+        {
+          "name": "Iron Head",
+          "pct": 4.534
+        },
+        {
+          "name": "Poison Jab",
+          "pct": 4.114
+        },
+        {
+          "name": "Bulldoze",
+          "pct": 3.778
+        }
+      ],
+      "items": [
+        {
+          "name": "Choice Scarf",
+          "pct": 29.639
+        },
+        {
+          "name": "White Herb",
+          "pct": 16.877
+        },
+        {
+          "name": "Soft Sand",
+          "pct": 13.266
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 9.908
+        },
+        {
+          "name": "Yache Berry",
+          "pct": 5.626
+        },
+        {
+          "name": "Haban Berry",
+          "pct": 3.862
+        },
+        {
+          "name": "Garchompite",
+          "pct": 3.526
+        },
+        {
+          "name": "Bright Powder",
+          "pct": 3.359
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 3.107
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 2.519
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Rough Skin",
+          "pct": 88.413
+        },
+        {
+          "name": "Sand Veil",
+          "pct": 11.083
+        },
+        {
+          "name": "Sand Force",
+          "pct": 0.504
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Incineroar",
+          "pct": 53.233
+        },
+        {
+          "name": "Sneasler",
+          "pct": 47.439
+        },
+        {
+          "name": "Charizard",
+          "pct": 34.257
+        },
+        {
+          "name": "Rotom-Wash",
+          "pct": 27.288
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 26.28
+        },
+        {
+          "name": "Kingambit",
+          "pct": 22.67
+        }
+      ]
+    },
+    {
+      "rank": "4",
+      "name": "Sinistcha",
+      "usage_pct": 34.6,
+      "role_label": "Redirection glue",
+      "description": "Hospitality and Rage Powder turn it into one of the best support anchors in the format.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/sinistcha",
+      "pokemon_key": "sinistcha",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sinistcha",
+      "moves": [
+        {
+          "name": "Matcha Gotcha",
+          "pct": 99.369
+        },
+        {
+          "name": "Rage Powder",
+          "pct": 97.207
+        },
+        {
+          "name": "Trick Room",
+          "pct": 66.306
+        },
+        {
+          "name": "Life Dew",
+          "pct": 53.063
+        },
+        {
+          "name": "Strength Sap",
+          "pct": 31.982
+        },
+        {
+          "name": "Protect",
+          "pct": 31.892
+        },
+        {
+          "name": "Shadow Ball",
+          "pct": 13.243
+        },
+        {
+          "name": "Imprison",
+          "pct": 2.162
+        },
+        {
+          "name": "Calm Mind",
+          "pct": 1.171
+        },
+        {
+          "name": "Scald",
+          "pct": 1.081
+        }
+      ],
+      "items": [
+        {
+          "name": "Sitrus Berry",
+          "pct": 57.477
+        },
+        {
+          "name": "Leftovers",
+          "pct": 15.495
+        },
+        {
+          "name": "Occa Berry",
+          "pct": 6.847
+        },
+        {
+          "name": "Mental Herb",
+          "pct": 6.126
+        },
+        {
+          "name": "Colbur Berry",
+          "pct": 3.243
+        },
+        {
+          "name": "Coba Berry",
+          "pct": 2.162
+        },
+        {
+          "name": "Kasib Berry",
+          "pct": 1.892
+        },
+        {
+          "name": "Bright Powder",
+          "pct": 1.892
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 1.712
+        },
+        {
+          "name": "Quick Claw",
+          "pct": 1.081
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Hospitality",
+          "pct": 98.919
+        },
+        {
+          "name": "Heatproof",
+          "pct": 1.081
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Incineroar",
+          "pct": 61.892
+        },
+        {
+          "name": "Sneasler",
+          "pct": 43.333
+        },
+        {
+          "name": "Floette",
+          "pct": 26.937
+        },
+        {
+          "name": "Tyranitar",
+          "pct": 26.847
+        },
+        {
+          "name": "Kingambit",
+          "pct": 25.135
+        },
+        {
+          "name": "Pelipper",
+          "pct": 23.153
+        }
+      ]
+    },
+    {
+      "rank": "5",
+      "name": "Kingambit",
+      "usage_pct": 27.0,
+      "role_label": "Late-game cleaner",
+      "description": "Priority and huge dark damage give balance teams a reliable closer.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/kingambit",
+      "pokemon_key": "kingambit",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Kingambit",
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "pct": 99.769
+        },
+        {
+          "name": "Protect",
+          "pct": 93.88
+        },
+        {
+          "name": "Kowtow Cleave",
+          "pct": 88.799
+        },
+        {
+          "name": "Iron Head",
+          "pct": 55.658
+        },
+        {
+          "name": "Swords Dance",
+          "pct": 41.224
+        },
+        {
+          "name": "Low Kick",
+          "pct": 16.628
+        },
+        {
+          "name": "Assurance",
+          "pct": 2.079
+        },
+        {
+          "name": "Brick Break",
+          "pct": 0.924
+        },
+        {
+          "name": "Iron Defense",
+          "pct": 0.346
+        },
+        {
+          "name": "Shadow Claw",
+          "pct": 0.231
+        }
+      ],
+      "items": [
+        {
+          "name": "Black Glasses",
+          "pct": 63.741
+        },
+        {
+          "name": "Chople Berry",
+          "pct": 27.136
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 1.386
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 1.386
+        },
+        {
+          "name": "Dread Plate",
+          "pct": 1.27
+        },
+        {
+          "name": "Leftovers",
+          "pct": 1.155
+        },
+        {
+          "name": "Occa Berry",
+          "pct": 0.577
+        },
+        {
+          "name": "Black Belt",
+          "pct": 0.577
+        },
+        {
+          "name": "Shuca Berry",
+          "pct": 0.462
+        },
+        {
+          "name": "King",
+          "pct": 0.346
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Defiant",
+          "pct": 98.152
+        },
+        {
+          "name": "Supreme Overlord",
+          "pct": 1.617
+        },
+        {
+          "name": "Pressure",
+          "pct": 0.115
+        },
+        {
+          "name": "DefiantLevel",
+          "pct": 0.115
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sneasler",
+          "pct": 60.277
+        },
+        {
+          "name": "Incineroar",
+          "pct": 41.917
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 32.217
+        },
+        {
+          "name": "Garchomp",
+          "pct": 31.178
+        },
+        {
+          "name": "Basculegion",
+          "pct": 25.289
+        },
+        {
+          "name": "Froslass",
+          "pct": 19.746
+        }
+      ]
+    },
+    {
+      "rank": "6",
+      "name": "Basculegion",
+      "usage_pct": 22.1,
+      "role_label": "Rain payoff",
+      "description": "Adaptability nukes and endgame priority punish passive positioning immediately.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/basculegion",
+      "pokemon_key": "basculegion",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Basculegion",
+      "moves": [
+        {
+          "name": "Last Respects",
+          "pct": 97.606
+        },
+        {
+          "name": "Wave Crash",
+          "pct": 94.225
+        },
+        {
+          "name": "Aqua Jet",
+          "pct": 86.338
+        },
+        {
+          "name": "Flip Turn",
+          "pct": 74.085
+        },
+        {
+          "name": "Protect",
+          "pct": 28.31
+        },
+        {
+          "name": "Liquidation",
+          "pct": 4.507
+        },
+        {
+          "name": "Icy Wind",
+          "pct": 3.38
+        },
+        {
+          "name": "Ice Fang",
+          "pct": 1.69
+        },
+        {
+          "name": "Phantom Force",
+          "pct": 1.549
+        },
+        {
+          "name": "Shadow Ball",
+          "pct": 1.549
+        }
+      ],
+      "items": [
+        {
+          "name": "Choice Scarf",
+          "pct": 65.493
+        },
+        {
+          "name": "Mystic Water",
+          "pct": 27.324
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 2.817
+        },
+        {
+          "name": "White Herb",
+          "pct": 0.986
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 0.704
+        },
+        {
+          "name": "Spell Tag",
+          "pct": 0.563
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 0.563
+        },
+        {
+          "name": "Leftovers",
+          "pct": 0.423
+        },
+        {
+          "name": "Life Orb",
+          "pct": 0.282
+        },
+        {
+          "name": "Colbur Berry",
+          "pct": 0.282
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Adaptability",
+          "pct": 68.31
+        },
+        {
+          "name": "Swift Swim",
+          "pct": 31.408
+        },
+        {
+          "name": "Adapdability",
+          "pct": 0.141
+        },
+        {
+          "name": "swift Swin",
+          "pct": 0.141
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sneasler",
+          "pct": 52.535
+        },
+        {
+          "name": "Incineroar",
+          "pct": 51.268
+        },
+        {
+          "name": "Pelipper",
+          "pct": 45.07
+        },
+        {
+          "name": "Archaludon",
+          "pct": 34.366
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 34.225
+        },
+        {
+          "name": "Kingambit",
+          "pct": 30.845
+        }
+      ]
+    },
+    {
+      "rank": "7",
+      "name": "Whimsicott",
+      "usage_pct": 20.1,
+      "role_label": "Speed control",
+      "description": "Prankster Tailwind and Encore keep it relevant in nearly every matchup spread.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/whimsicott",
+      "pokemon_key": "whimsicott",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Whimsicott",
+      "moves": [
+        {
+          "name": "Tailwind",
+          "pct": 98.756
+        },
+        {
+          "name": "Moonblast",
+          "pct": 95.179
+        },
+        {
+          "name": "Encore",
+          "pct": 73.872
+        },
+        {
+          "name": "Protect",
+          "pct": 44.946
+        },
+        {
+          "name": "Sunny Day",
+          "pct": 31.415
+        },
+        {
+          "name": "Fake Tears",
+          "pct": 11.82
+        },
+        {
+          "name": "Taunt",
+          "pct": 10.731
+        },
+        {
+          "name": "Helping Hand",
+          "pct": 6.998
+        },
+        {
+          "name": "Light Screen",
+          "pct": 5.443
+        },
+        {
+          "name": "Energy Ball",
+          "pct": 4.821
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 72.784
+        },
+        {
+          "name": "Mental Herb",
+          "pct": 10.886
+        },
+        {
+          "name": "Occa Berry",
+          "pct": 3.421
+        },
+        {
+          "name": "Leftovers",
+          "pct": 2.955
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 2.177
+        },
+        {
+          "name": "Fairy Feather",
+          "pct": 1.711
+        },
+        {
+          "name": "Bright Powder",
+          "pct": 1.711
+        },
+        {
+          "name": "Kebia Berry",
+          "pct": 1.089
+        },
+        {
+          "name": "Covert Cloak",
+          "pct": 0.778
+        },
+        {
+          "name": "White Herb",
+          "pct": 0.778
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Prankster",
+          "pct": 99.378
+        },
+        {
+          "name": "Chlorophyll",
+          "pct": 0.467
+        },
+        {
+          "name": "Infiltrator",
+          "pct": 0.156
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Incineroar",
+          "pct": 56.765
+        },
+        {
+          "name": "Garchomp",
+          "pct": 48.678
+        },
+        {
+          "name": "Sneasler",
+          "pct": 45.101
+        },
+        {
+          "name": "Charizard",
+          "pct": 43.39
+        },
+        {
+          "name": "Kingambit",
+          "pct": 22.395
+        },
+        {
+          "name": "Farigiraf",
+          "pct": 16.952
+        }
+      ]
+    },
+    {
+      "rank": "8",
+      "name": "Charizard",
+      "usage_pct": 17.8,
+      "role_label": "Mega pressure",
+      "description": "Mega Charizard variants give sun offense an immediate damage spike and mode flexibility.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/charizard",
+      "pokemon_key": "charizard",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Charizard",
+      "moves": [
+        {
+          "name": "Protect",
+          "pct": 97.373
+        },
+        {
+          "name": "Heat Wave",
+          "pct": 90.718
+        },
+        {
+          "name": "Solar Beam",
+          "pct": 79.159
+        },
+        {
+          "name": "Weather Ball",
+          "pct": 43.783
+        },
+        {
+          "name": "Overheat",
+          "pct": 25.919
+        },
+        {
+          "name": "Air Slash",
+          "pct": 23.117
+        },
+        {
+          "name": "Flare Blitz",
+          "pct": 5.429
+        },
+        {
+          "name": "Flamethrower",
+          "pct": 4.729
+        },
+        {
+          "name": "Dragon Pulse",
+          "pct": 4.203
+        },
+        {
+          "name": "Dragon Dance",
+          "pct": 3.853
+        }
+      ],
+      "items": [
+        {
+          "name": "Charizardite Y",
+          "pct": 93.695
+        },
+        {
+          "name": "Charizardite X",
+          "pct": 5.079
+        },
+        {
+          "name": "Charcoal",
+          "pct": 0.525
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 0.175
+        },
+        {
+          "name": "Charti Berry",
+          "pct": 0.175
+        },
+        {
+          "name": "Life Orb",
+          "pct": 0.175
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 0.175
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Solar Power",
+          "pct": 42.032
+        },
+        {
+          "name": "Blaze",
+          "pct": 40.455
+        },
+        {
+          "name": "Drought",
+          "pct": 15.587
+        },
+        {
+          "name": "Tough Claws",
+          "pct": 1.926
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Garchomp",
+          "pct": 71.454
+        },
+        {
+          "name": "Incineroar",
+          "pct": 64.448
+        },
+        {
+          "name": "Sneasler",
+          "pct": 54.816
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 48.862
+        },
+        {
+          "name": "Venusaur",
+          "pct": 44.834
+        },
+        {
+          "name": "Kingambit",
+          "pct": 24.518
+        }
+      ]
+    },
+    {
+      "rank": "9",
+      "name": "Floette",
+      "usage_pct": 17.8,
+      "role_label": "Special tech",
+      "description": "Light of Ruin builds force respect and open a very different damage profile.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/floette",
+      "pokemon_key": "floette",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Floette",
+      "moves": [
+        {
+          "name": "Protect",
+          "pct": 98.596
+        },
+        {
+          "name": "Calm Mind",
+          "pct": 89.649
+        },
+        {
+          "name": "Dazzling Gleam",
+          "pct": 82.456
+        },
+        {
+          "name": "Moonblast",
+          "pct": 80.526
+        },
+        {
+          "name": "Draining Kiss",
+          "pct": 29.298
+        },
+        {
+          "name": "Light of Ruin",
+          "pct": 11.404
+        },
+        {
+          "name": "Psychic",
+          "pct": 2.982
+        },
+        {
+          "name": "Giga Drain",
+          "pct": 1.93
+        },
+        {
+          "name": "Pollen Puff",
+          "pct": 0.702
+        },
+        {
+          "name": "Petal Dance",
+          "pct": 0.702
+        }
+      ],
+      "items": [
+        {
+          "name": "Floettite",
+          "pct": 98.772
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 1.053
+        },
+        {
+          "name": "floettite",
+          "pct": 0.175
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Flower Veil",
+          "pct": 79.298
+        },
+        {
+          "name": "Fairy Aura",
+          "pct": 19.649
+        },
+        {
+          "name": "Regenerator",
+          "pct": 0.526
+        },
+        {
+          "name": "Symbiosis",
+          "pct": 0.526
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Incineroar",
+          "pct": 70.175
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 52.456
+        },
+        {
+          "name": "Sneasler",
+          "pct": 45.614
+        },
+        {
+          "name": "Garchomp",
+          "pct": 45.263
+        },
+        {
+          "name": "Aerodactyl",
+          "pct": 32.105
+        },
+        {
+          "name": "Kingambit",
+          "pct": 25.789
+        }
+      ]
+    },
+    {
+      "rank": "10",
+      "name": "Rotom-Wash",
+      "usage_pct": 16.0,
+      "role_label": "Pivot utility",
+      "description": "Hydro Pump, Volt Switch, and status control make it a clean fit on balanced teams.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/rotomwash",
+      "pokemon_key": "rotomwash",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Rotom-Wash",
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "pct": 98.249
+        },
+        {
+          "name": "Thunderbolt",
+          "pct": 72.957
+        },
+        {
+          "name": "Protect",
+          "pct": 59.144
+        },
+        {
+          "name": "Will-O-Wisp",
+          "pct": 54.864
+        },
+        {
+          "name": "Volt Switch",
+          "pct": 53.502
+        },
+        {
+          "name": "Electroweb",
+          "pct": 21.206
+        },
+        {
+          "name": "Trick",
+          "pct": 8.949
+        },
+        {
+          "name": "Helping Hand",
+          "pct": 8.171
+        },
+        {
+          "name": "Discharge",
+          "pct": 6.809
+        },
+        {
+          "name": "Eerie Impulse",
+          "pct": 3.307
+        }
+      ],
+      "items": [
+        {
+          "name": "Sitrus Berry",
+          "pct": 39.494
+        },
+        {
+          "name": "Leftovers",
+          "pct": 27.626
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 22.374
+        },
+        {
+          "name": "Magnet",
+          "pct": 3.891
+        },
+        {
+          "name": "Rindo Berry",
+          "pct": 1.946
+        },
+        {
+          "name": "Quick Claw",
+          "pct": 1.751
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 0.778
+        },
+        {
+          "name": "Chesto Berry",
+          "pct": 0.584
+        },
+        {
+          "name": "Choice Specs",
+          "pct": 0.389
+        },
+        {
+          "name": "Mystic Water",
+          "pct": 0.389
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Levitate",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Garchomp",
+          "pct": 63.23
+        },
+        {
+          "name": "Incineroar",
+          "pct": 52.335
+        },
+        {
+          "name": "Sneasler",
+          "pct": 44.942
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 29.377
+        },
+        {
+          "name": "Tyranitar",
+          "pct": 26.265
+        },
+        {
+          "name": "Floette",
+          "pct": 23.152
+        }
+      ]
+    },
+    {
+      "rank": "11",
+      "name": "Pelipper",
+      "usage_pct": 16.0,
+      "role_label": "Weather setter",
+      "description": "Rain plus Tailwind lets Pelipper compress multiple support jobs into one slot.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/pelipper",
+      "pokemon_key": "pelipper",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Pelipper",
+      "moves": [
+        {
+          "name": "Hurricane",
+          "pct": 97.271
+        },
+        {
+          "name": "Weather Ball",
+          "pct": 86.94
+        },
+        {
+          "name": "Tailwind",
+          "pct": 76.803
+        },
+        {
+          "name": "Protect",
+          "pct": 64.912
+        },
+        {
+          "name": "Wide Guard",
+          "pct": 33.333
+        },
+        {
+          "name": "Muddy Water",
+          "pct": 12.281
+        },
+        {
+          "name": "Icy Wind",
+          "pct": 8.382
+        },
+        {
+          "name": "U-turn",
+          "pct": 6.433
+        },
+        {
+          "name": "Helping Hand",
+          "pct": 3.509
+        },
+        {
+          "name": "Hydro Pump",
+          "pct": 3.314
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 75.049
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 8.967
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 5.653
+        },
+        {
+          "name": "Leftovers",
+          "pct": 2.924
+        },
+        {
+          "name": "Sharp Beak",
+          "pct": 1.559
+        },
+        {
+          "name": "Quick Claw",
+          "pct": 1.365
+        },
+        {
+          "name": "Wacan Berry",
+          "pct": 1.17
+        },
+        {
+          "name": "Mystic Water",
+          "pct": 0.975
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 0.78
+        },
+        {
+          "name": "Mental Herb",
+          "pct": 0.39
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Drizzle",
+          "pct": 98.635
+        },
+        {
+          "name": "Keen Eye",
+          "pct": 0.975
+        },
+        {
+          "name": "Rain Dish",
+          "pct": 0.39
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Basculegion",
+          "pct": 62.378
+        },
+        {
+          "name": "Archaludon",
+          "pct": 57.7
+        },
+        {
+          "name": "Incineroar",
+          "pct": 51.072
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 50.097
+        },
+        {
+          "name": "Sneasler",
+          "pct": 40.156
+        },
+        {
+          "name": "Dragonite",
+          "pct": 36.647
+        }
+      ]
+    },
+    {
+      "rank": "12",
+      "name": "Tyranitar",
+      "usage_pct": 15.4,
+      "role_label": "Sand breaker",
+      "description": "Sand Stream and Tyranitarite turn it into a durable centerpiece for sand builds.",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/tyranitar",
+      "pokemon_key": "tyranitar",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Tyranitar",
+      "moves": [
+        {
+          "name": "Rock Slide",
+          "pct": 96.768
+        },
+        {
+          "name": "Protect",
+          "pct": 79.192
+        },
+        {
+          "name": "Knock Off",
+          "pct": 73.333
+        },
+        {
+          "name": "Low Kick",
+          "pct": 61.01
+        },
+        {
+          "name": "Ice Punch",
+          "pct": 14.949
+        },
+        {
+          "name": "Crunch",
+          "pct": 14.747
+        },
+        {
+          "name": "Dragon Dance",
+          "pct": 14.141
+        },
+        {
+          "name": "Stone Edge",
+          "pct": 9.899
+        },
+        {
+          "name": "Earthquake",
+          "pct": 7.273
+        },
+        {
+          "name": "High Horsepower",
+          "pct": 4.646
+        }
+      ],
+      "items": [
+        {
+          "name": "Tyranitarite",
+          "pct": 64.242
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 15.152
+        },
+        {
+          "name": "Chople Berry",
+          "pct": 8.889
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 2.626
+        },
+        {
+          "name": "Leftovers",
+          "pct": 2.222
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 1.616
+        },
+        {
+          "name": "Shuca Berry",
+          "pct": 1.414
+        },
+        {
+          "name": "Quick Claw",
+          "pct": 1.01
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 0.808
+        },
+        {
+          "name": "White Herb",
+          "pct": 0.808
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Sand Stream",
+          "pct": 99.596
+        },
+        {
+          "name": "Unnerve",
+          "pct": 0.404
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 60.202
+        },
+        {
+          "name": "Incineroar",
+          "pct": 51.515
+        },
+        {
+          "name": "Excadrill",
+          "pct": 47.879
+        },
+        {
+          "name": "Garchomp",
+          "pct": 28.889
+        },
+        {
+          "name": "Sneasler",
+          "pct": 28.485
+        },
+        {
+          "name": "Rotom-Wash",
+          "pct": 27.273
+        }
+      ]
+    }
+  ]
+}

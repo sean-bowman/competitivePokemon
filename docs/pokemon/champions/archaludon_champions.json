@@ -1,0 +1,129 @@
+{
+  "name": "Archaludon",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "moves": [
+    {
+      "name": "Electro Shot",
+      "pct": 96.098
+    },
+    {
+      "name": "Flash Cannon",
+      "pct": 89.756
+    },
+    {
+      "name": "Protect",
+      "pct": 73.171
+    },
+    {
+      "name": "Draco Meteor",
+      "pct": 57.561
+    },
+    {
+      "name": "Dragon Pulse",
+      "pct": 32.439
+    },
+    {
+      "name": "Aura Sphere",
+      "pct": 22.683
+    },
+    {
+      "name": "Snarl",
+      "pct": 11.22
+    },
+    {
+      "name": "Thunderbolt",
+      "pct": 3.659
+    },
+    {
+      "name": "Body Press",
+      "pct": 1.951
+    },
+    {
+      "name": "Steel Beam",
+      "pct": 1.707
+    }
+  ],
+  "items": [
+    {
+      "name": "Leftovers",
+      "pct": 50.488
+    },
+    {
+      "name": "Magnet",
+      "pct": 14.634
+    },
+    {
+      "name": "White Herb",
+      "pct": 10.488
+    },
+    {
+      "name": "Chople Berry",
+      "pct": 6.341
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 4.634
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 2.683
+    },
+    {
+      "name": "Shuca Berry",
+      "pct": 2.195
+    },
+    {
+      "name": "Quick Claw",
+      "pct": 1.707
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 1.22
+    },
+    {
+      "name": "Bright Powder",
+      "pct": 0.976
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Stamina",
+      "pct": 73.659
+    },
+    {
+      "name": "Sturdy",
+      "pct": 21.951
+    },
+    {
+      "name": "Stalwart",
+      "pct": 4.39
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Pelipper",
+      "pct": 72.195
+    },
+    {
+      "name": "Basculegion",
+      "pct": 59.512
+    },
+    {
+      "name": "Incineroar",
+      "pct": 51.707
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 42.195
+    },
+    {
+      "name": "Dragonite",
+      "pct": 37.073
+    },
+    {
+      "name": "Sneasler",
+      "pct": 32.439
+    }
+  ]
+}

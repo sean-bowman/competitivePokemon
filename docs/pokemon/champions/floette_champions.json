@@ -1,0 +1,106 @@
+{
+  "name": "Floette",
+  "fetched": "2026-04-14",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Floette",
+  "moves": [
+    {
+      "name": "Protect",
+      "pct": 98.596
+    },
+    {
+      "name": "Calm Mind",
+      "pct": 89.649
+    },
+    {
+      "name": "Dazzling Gleam",
+      "pct": 82.456
+    },
+    {
+      "name": "Moonblast",
+      "pct": 80.526
+    },
+    {
+      "name": "Draining Kiss",
+      "pct": 29.298
+    },
+    {
+      "name": "Light of Ruin",
+      "pct": 11.404
+    },
+    {
+      "name": "Psychic",
+      "pct": 2.982
+    },
+    {
+      "name": "Giga Drain",
+      "pct": 1.93
+    },
+    {
+      "name": "Pollen Puff",
+      "pct": 0.702
+    },
+    {
+      "name": "Petal Dance",
+      "pct": 0.702
+    }
+  ],
+  "items": [
+    {
+      "name": "Floettite",
+      "pct": 98.772
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 1.053
+    },
+    {
+      "name": "floettite",
+      "pct": 0.175
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Flower Veil",
+      "pct": 79.298
+    },
+    {
+      "name": "Fairy Aura",
+      "pct": 19.649
+    },
+    {
+      "name": "Regenerator",
+      "pct": 0.526
+    },
+    {
+      "name": "Symbiosis",
+      "pct": 0.526
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Incineroar",
+      "pct": 70.175
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 52.456
+    },
+    {
+      "name": "Sneasler",
+      "pct": 45.614
+    },
+    {
+      "name": "Garchomp",
+      "pct": 45.263
+    },
+    {
+      "name": "Aerodactyl",
+      "pct": 32.105
+    },
+    {
+      "name": "Kingambit",
+      "pct": 25.789
+    }
+  ]
+}
