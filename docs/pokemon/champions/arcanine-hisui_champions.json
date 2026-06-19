@@ -1,0 +1,94 @@
+{
+  "name": "Arcanine-Hisui",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Arcanine-Hisui",
+  "moves": [
+    {
+      "name": "Flare Blitz",
+      "pct": 100.0
+    },
+    {
+      "name": "Head Smash",
+      "pct": 80.0
+    },
+    {
+      "name": "Extreme Speed",
+      "pct": 70.0
+    },
+    {
+      "name": "Protect",
+      "pct": 70.0
+    },
+    {
+      "name": "Rock Slide",
+      "pct": 40.0
+    },
+    {
+      "name": "Wild Charge",
+      "pct": 10.0
+    },
+    {
+      "name": "Psychic Fangs",
+      "pct": 10.0
+    },
+    {
+      "name": "Iron Head",
+      "pct": 10.0
+    },
+    {
+      "name": "Close Combat",
+      "pct": 10.0
+    }
+  ],
+  "items": [
+    {
+      "name": "Focus Sash",
+      "pct": 60.0
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 30.0
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 10.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head",
+      "pct": 80.0
+    },
+    {
+      "name": "Intimidate",
+      "pct": 20.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Froslass-Mega",
+      "pct": 60.0
+    },
+    {
+      "name": "Sneasler",
+      "pct": 50.0
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 50.0
+    },
+    {
+      "name": "Kingambit",
+      "pct": 40.0
+    },
+    {
+      "name": "Grimmsnarl",
+      "pct": 30.0
+    },
+    {
+      "name": "Garchomp",
+      "pct": 30.0
+    }
+  ]
+}

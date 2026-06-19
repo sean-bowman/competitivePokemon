@@ -1,0 +1,90 @@
+{
+  "name": "Dragonite-Mega",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Dragonite-Mega",
+  "moves": [
+    {
+      "name": "Dragon Pulse",
+      "pct": 80.0
+    },
+    {
+      "name": "Protect",
+      "pct": 70.0
+    },
+    {
+      "name": "Tailwind",
+      "pct": 60.0
+    },
+    {
+      "name": "Hurricane",
+      "pct": 60.0
+    },
+    {
+      "name": "Heat Wave",
+      "pct": 40.0
+    },
+    {
+      "name": "Flamethrower",
+      "pct": 20.0
+    },
+    {
+      "name": "Ice Beam",
+      "pct": 10.0
+    },
+    {
+      "name": "Scale Shot",
+      "pct": 10.0
+    },
+    {
+      "name": "Haze",
+      "pct": 10.0
+    },
+    {
+      "name": "Thunder",
+      "pct": 10.0
+    }
+  ],
+  "items": [
+    {
+      "name": "Dragoninite",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Inner Focus",
+      "pct": 70.0
+    },
+    {
+      "name": "Multiscale",
+      "pct": 30.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Pelipper",
+      "pct": 90.0
+    },
+    {
+      "name": "Archaludon",
+      "pct": 90.0
+    },
+    {
+      "name": "Gholdengo",
+      "pct": 50.0
+    },
+    {
+      "name": "Basculegion",
+      "pct": 40.0
+    },
+    {
+      "name": "Swampert-Mega",
+      "pct": 40.0
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 40.0
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Raichu",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Raichu",
+  "moves": [
+    {
+      "name": "Fake Out",
+      "pct": 100.0
+    },
+    {
+      "name": "Charm",
+      "pct": 75.0
+    },
+    {
+      "name": "Volt Switch",
+      "pct": 62.5
+    },
+    {
+      "name": "Encore",
+      "pct": 37.5
+    },
+    {
+      "name": "Nuzzle",
+      "pct": 25.0
+    },
+    {
+      "name": "Protect",
+      "pct": 25.0
+    },
+    {
+      "name": "Reflect",
+      "pct": 12.5
+    },
+    {
+      "name": "Rising Voltage",
+      "pct": 12.5
+    },
+    {
+      "name": "Endeavor",
+      "pct": 12.5
+    },
+    {
+      "name": "Discharge",
+      "pct": 12.5
+    }
+  ],
+  "items": [
+    {
+      "name": "Focus Sash",
+      "pct": 37.5
+    },
+    {
+      "name": "Shuca Berry",
+      "pct": 25.0
+    },
+    {
+      "name": "Light Clay",
+      "pct": 12.5
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 12.5
+    },
+    {
+      "name": "Quick Claw",
+      "pct": 12.5
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Lightning Rod",
+      "pct": 87.5
+    },
+    {
+      "name": "Static",
+      "pct": 12.5
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Staraptor-Mega",
+      "pct": 75.0
+    },
+    {
+      "name": "Incineroar",
+      "pct": 37.5
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 37.5
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 37.5
+    },
+    {
+      "name": "Grimmsnarl",
+      "pct": 37.5
+    },
+    {
+      "name": "Basculegion",
+      "pct": 25.0
+    }
+  ]
+}

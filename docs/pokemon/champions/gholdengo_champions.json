@@ -1,0 +1,118 @@
+{
+  "name": "Gholdengo",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Gholdengo",
+  "moves": [
+    {
+      "name": "Shadow Ball",
+      "pct": 100.0
+    },
+    {
+      "name": "Make It Rain",
+      "pct": 97.917
+    },
+    {
+      "name": "Protect",
+      "pct": 77.083
+    },
+    {
+      "name": "Nasty Plot",
+      "pct": 66.667
+    },
+    {
+      "name": "Power Gem",
+      "pct": 29.167
+    },
+    {
+      "name": "Trick",
+      "pct": 14.583
+    },
+    {
+      "name": "Flash Cannon",
+      "pct": 4.167
+    },
+    {
+      "name": "Thunderbolt",
+      "pct": 2.083
+    },
+    {
+      "name": "Psychic",
+      "pct": 2.083
+    },
+    {
+      "name": "Dazzling Gleam",
+      "pct": 2.083
+    }
+  ],
+  "items": [
+    {
+      "name": "Life Orb",
+      "pct": 39.583
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 20.833
+    },
+    {
+      "name": "Metal Coat",
+      "pct": 14.583
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 6.25
+    },
+    {
+      "name": "Leftovers",
+      "pct": 6.25
+    },
+    {
+      "name": "White Herb",
+      "pct": 4.167
+    },
+    {
+      "name": "Wise Glasses",
+      "pct": 4.167
+    },
+    {
+      "name": "Wide Lens",
+      "pct": 2.083
+    },
+    {
+      "name": "Quick Claw",
+      "pct": 2.083
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Good as Gold",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sinistcha",
+      "pct": 45.833
+    },
+    {
+      "name": "Incineroar",
+      "pct": 39.583
+    },
+    {
+      "name": "Grimmsnarl",
+      "pct": 33.333
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 33.333
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 29.167
+    },
+    {
+      "name": "Garchomp",
+      "pct": 22.917
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Excadrill",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Excadrill",
+  "moves": [
+    {
+      "name": "Iron Head",
+      "pct": 100.0
+    },
+    {
+      "name": "Earthquake",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 100.0
+    },
+    {
+      "name": "Rock Slide",
+      "pct": 55.556
+    },
+    {
+      "name": "High Horsepower",
+      "pct": 22.222
+    },
+    {
+      "name": "Swords Dance",
+      "pct": 11.111
+    },
+    {
+      "name": "Rock Tomb",
+      "pct": 11.111
+    }
+  ],
+  "items": [
+    {
+      "name": "Focus Sash",
+      "pct": 88.889
+    },
+    {
+      "name": "Life Orb",
+      "pct": 11.111
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Sand Rush",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Tyranitar-Mega",
+      "pct": 88.889
+    },
+    {
+      "name": "Rotom-Wash",
+      "pct": 66.667
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 44.444
+    },
+    {
+      "name": "Hydreigon",
+      "pct": 44.444
+    },
+    {
+      "name": "Grimmsnarl",
+      "pct": 33.333
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 33.333
+    }
+  ]
+}

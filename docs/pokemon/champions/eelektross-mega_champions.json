@@ -1,0 +1,86 @@
+{
+  "name": "Eelektross-Mega",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Eelektross-Mega",
+  "moves": [
+    {
+      "name": "Protect",
+      "pct": 84.615
+    },
+    {
+      "name": "Thunderbolt",
+      "pct": 53.846
+    },
+    {
+      "name": "Flamethrower",
+      "pct": 38.462
+    },
+    {
+      "name": "Dragon Pulse",
+      "pct": 30.769
+    },
+    {
+      "name": "Wild Charge",
+      "pct": 23.077
+    },
+    {
+      "name": "Drain Punch",
+      "pct": 23.077
+    },
+    {
+      "name": "Supercell Slam",
+      "pct": 23.077
+    },
+    {
+      "name": "Knock Off",
+      "pct": 15.385
+    },
+    {
+      "name": "Close Combat",
+      "pct": 15.385
+    },
+    {
+      "name": "Liquidation",
+      "pct": 15.385
+    }
+  ],
+  "items": [
+    {
+      "name": "Eelektrossite",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Whimsicott",
+      "pct": 61.538
+    },
+    {
+      "name": "Basculegion",
+      "pct": 38.462
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 30.769
+    },
+    {
+      "name": "Sneasler",
+      "pct": 30.769
+    },
+    {
+      "name": "Garchomp",
+      "pct": 30.769
+    },
+    {
+      "name": "Gholdengo",
+      "pct": 23.077
+    }
+  ]
+}

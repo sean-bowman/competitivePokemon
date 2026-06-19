@@ -1,0 +1,86 @@
+{
+  "name": "Torkoal",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Torkoal",
+  "moves": [
+    {
+      "name": "Eruption",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 100.0
+    },
+    {
+      "name": "Weather Ball",
+      "pct": 66.667
+    },
+    {
+      "name": "Heat Wave",
+      "pct": 50.0
+    },
+    {
+      "name": "Earth Power",
+      "pct": 25.0
+    },
+    {
+      "name": "Solar Beam",
+      "pct": 25.0
+    },
+    {
+      "name": "Flamethrower",
+      "pct": 8.333
+    },
+    {
+      "name": "Overheat",
+      "pct": 8.333
+    },
+    {
+      "name": "Helping Hand",
+      "pct": 8.333
+    },
+    {
+      "name": "Body Press",
+      "pct": 8.333
+    }
+  ],
+  "items": [
+    {
+      "name": "Charcoal",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Drought",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Farigiraf",
+      "pct": 83.333
+    },
+    {
+      "name": "Kingambit",
+      "pct": 50.0
+    },
+    {
+      "name": "Sylveon",
+      "pct": 33.333
+    },
+    {
+      "name": "Drampa-Mega",
+      "pct": 16.667
+    },
+    {
+      "name": "Vileplume",
+      "pct": 16.667
+    },
+    {
+      "name": "Charizard-Mega-Y",
+      "pct": 16.667
+    }
+  ]
+}

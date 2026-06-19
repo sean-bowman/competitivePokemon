@@ -1,0 +1,94 @@
+{
+  "name": "Talonflame",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Talonflame",
+  "moves": [
+    {
+      "name": "Tailwind",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 69.231
+    },
+    {
+      "name": "Flare Blitz",
+      "pct": 61.538
+    },
+    {
+      "name": "Dual Wingbeat",
+      "pct": 46.154
+    },
+    {
+      "name": "Brave Bird",
+      "pct": 30.769
+    },
+    {
+      "name": "Quick Guard",
+      "pct": 30.769
+    },
+    {
+      "name": "Will-O-Wisp",
+      "pct": 15.385
+    },
+    {
+      "name": "Acrobatics",
+      "pct": 15.385
+    },
+    {
+      "name": "Feather Dance",
+      "pct": 7.692
+    },
+    {
+      "name": "Roost",
+      "pct": 7.692
+    }
+  ],
+  "items": [
+    {
+      "name": "Sharp Beak",
+      "pct": 61.538
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 23.077
+    },
+    {
+      "name": "Nothing",
+      "pct": 15.385
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Gale Wings",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Garchomp",
+      "pct": 69.231
+    },
+    {
+      "name": "Maushold",
+      "pct": 38.462
+    },
+    {
+      "name": "Kingambit",
+      "pct": 30.769
+    },
+    {
+      "name": "Basculegion",
+      "pct": 30.769
+    },
+    {
+      "name": "Sceptile-Mega",
+      "pct": 30.769
+    },
+    {
+      "name": "Sneasler",
+      "pct": 23.077
+    }
+  ]
+}

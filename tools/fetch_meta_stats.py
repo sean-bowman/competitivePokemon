@@ -9,13 +9,16 @@ Usage:
     python tools/fetch_meta_stats.py --detail          # also fetch per-Pokemon detail pages
     python tools/fetch_meta_stats.py --output path.json
 
-Data source: https://www.pikalytics.com/champions
-Page is server-rendered; no JavaScript execution required.
-The site also exposes llms-full.txt at pikalytics.com/llms-full.txt for structured text access.
+Data source: Pikalytics machine-readable AI endpoint
+    https://www.pikalytics.com/ai/pokedex/championstournaments  (markdown)
+which exposes a stable 'Best 50 Pokemon by Usage' table plus per-Pokemon detail
+pages. Preferred over scraping the HTML page, whose CSS classes change without
+notice.
 '''
 
 import argparse
 import json
+import re
 import sys
 import time
 from datetime import date
@@ -23,15 +26,15 @@ from pathlib import Path
 
 try:
     import requests
-    from bs4 import BeautifulSoup
-except ImportError as e:
-    missing = str(e).split("'")[1]
-    pkg = 'beautifulsoup4' if 'bs4' in missing else missing
-    print(f'Missing dependency: {missing}. Run: pip install requests beautifulsoup4')
+except ImportError:
+    print('Missing dependency: requests. Run: pip install requests')
     sys.exit(1)
 
 
 PIKALYTICS_CHAMPIONS = 'https://www.pikalytics.com/champions'
+# Machine-readable markdown overview (exposes a 'Best 50 Pokemon by Usage' table).
+# Used instead of scraping the HTML page, whose markup is unstable.
+PIKALYTICS_CHAMPIONS_AI = 'https://www.pikalytics.com/ai/pokedex/championstournaments'
 PIKALYTICS_POKEMON_BASE = 'https://www.pikalytics.com/pokedex/championstournaments'
 PIKALYTICS_POKEMON_AI_BASE = 'https://www.pikalytics.com/ai/pokedex/championstournaments'
 PIKALYTICS_LLMS = 'https://www.pikalytics.com/llms-full.txt'
@@ -57,54 +60,88 @@ def fetchHtml(url: str, delay: float = 0.5) -> str | None:
         return None
 
 
-def parseUsageCard(card) -> dict:
-    '''Extract structured data from a single .usage-card BeautifulSoup element.'''
-    result = {}
+def parsePercent(text: str) -> float | None:
+    '''Parse a '38.73%' style table cell into a float; None for blanks / 'N/A'.'''
+    cleaned = (text or '').strip().rstrip('%')
+    try:
+        return float(cleaned)
+    except ValueError:
+        return None
 
-    rankEl = card.find(class_='usage-rank')
-    result['rank'] = rankEl.get_text(strip=True).lstrip('#') if rankEl else None
 
-    nameEl = card.find('h3')
-    result['name'] = nameEl.get_text(strip=True) if nameEl else None
+def extractUrl(cell: str) -> str | None:
+    '''Pull the first URL out of a markdown link cell like [View](https://...).'''
+    match = re.search(r'\((https?://[^)]+)\)', cell or '')
+    return match.group(1) if match else None
 
-    pctEl = card.find(class_='usage-percent')
-    pctText = pctEl.get_text(strip=True) if pctEl else None
-    result['usage_pct'] = float(pctText.rstrip('%')) if pctText else None
 
-    labelEl = card.find(class_='usage-label')
-    result['role_label'] = labelEl.get_text(strip=True) if labelEl else None
+def parseUsageTable(md: str) -> list[dict]:
+    '''
+    Parse the 'Best 50 Pokemon by Usage' markdown table from the AI overview
+    endpoint into usage dicts matching the snapshot schema.
 
-    descEl = card.find('p')
-    result['description'] = descEl.get_text(strip=True) if descEl else None
+    The table columns are: Rank | Pokemon | Usage % | Win Rate | Record | links.
+    We anchor on the section heading and read pipe-delimited rows until the next
+    section, skipping the header and the |---| separator.
+    '''
+    lines = md.splitlines()
+    start = next(
+        (i for i, ln in enumerate(lines)
+         if ln.strip().lower().startswith('##') and 'by usage' in ln.lower()),
+        None,
+    )
+    if start is None:
+        return []
 
-    # Derive profile URL and sprite path from the card's href
-    href = card.get('href', '')
-    result['profile_url'] = f'https://www.pikalytics.com{href}' if href else None
-    result['pokemon_key'] = href.split('/')[-1] if href else None
-
-    return result
+    results: list[dict] = []
+    headerSeen = False
+    for line in lines[start + 1:]:
+        stripped = line.strip()
+        if stripped.startswith('## '):
+            break  # reached the next section
+        if not stripped.startswith('|'):
+            continue
+        cells = [c.strip() for c in stripped.strip('|').split('|')]
+        joined = ' '.join(cells).lower()
+        if 'rank' in joined and 'usage' in joined:
+            headerSeen = True  # column-header row
+            continue
+        if not headerSeen or set(''.join(cells)) <= set('-: '):
+            continue  # rows before the header, or the |---| separator
+        if len(cells) < 3:
+            continue
+        name = cells[1].replace('**', '').strip()
+        if not name:
+            continue
+        profileUrl = extractUrl(cells[5]) if len(cells) > 5 else None
+        key = profileUrl.rstrip('/').split('/')[-1] if profileUrl else slugifyName(name)
+        results.append({
+            'rank': cells[0],
+            'name': name,
+            'usage_pct': parsePercent(cells[2]),
+            'win_rate': parsePercent(cells[3]) if len(cells) > 3 else None,
+            'record': cells[4] if len(cells) > 4 else None,
+            'profile_url': profileUrl,
+            'pokemon_key': key,
+        })
+    return results
 
 
 def fetchOverview(topN: int | None = None) -> list[dict]:
     '''
-    Fetch and parse the Pikalytics Champions overview page.
-    Returns a list of usage card dicts, optionally limited to topN.
+    Fetch and parse the Pikalytics Champions usage ranking.
+
+    Reads the machine-readable AI overview endpoint (markdown) rather than scraping
+    the HTML page, whose markup changes without notice. Returns a list of usage
+    dicts, optionally limited to topN.
     '''
-    print(f'Fetching {PIKALYTICS_CHAMPIONS} ...')
-    html = fetchHtml(PIKALYTICS_CHAMPIONS)
-    if not html:
+    print(f'Fetching {PIKALYTICS_CHAMPIONS_AI} ...')
+    md = fetchHtml(PIKALYTICS_CHAMPIONS_AI)
+    if not md:
         return []
 
-    soup = BeautifulSoup(html, 'html.parser')
-    cards = soup.find_all(class_='usage-card')
-
-    print(f'  Found {len(cards)} usage cards')
-
-    results = []
-    for card in cards:
-        data = parseUsageCard(card)
-        if data.get('name'):
-            results.append(data)
+    results = parseUsageTable(md)
+    print(f'  Parsed {len(results)} Pokemon from the usage table')
 
     if topN:
         results = results[:topN]

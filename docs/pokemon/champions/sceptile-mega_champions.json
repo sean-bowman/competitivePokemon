@@ -1,0 +1,90 @@
+{
+  "name": "Sceptile-Mega",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sceptile-Mega",
+  "moves": [
+    {
+      "name": "Dragon Pulse",
+      "pct": 100.0
+    },
+    {
+      "name": "Earth Power",
+      "pct": 66.667
+    },
+    {
+      "name": "Leaf Storm",
+      "pct": 66.667
+    },
+    {
+      "name": "Protect",
+      "pct": 50.0
+    },
+    {
+      "name": "Detect",
+      "pct": 41.667
+    },
+    {
+      "name": "Energy Ball",
+      "pct": 25.0
+    },
+    {
+      "name": "Focus Blast",
+      "pct": 16.667
+    },
+    {
+      "name": "Shed Tail",
+      "pct": 16.667
+    },
+    {
+      "name": "Vacuum Wave",
+      "pct": 8.333
+    },
+    {
+      "name": "Giga Drain",
+      "pct": 8.333
+    }
+  ],
+  "items": [
+    {
+      "name": "Sceptilite",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow",
+      "pct": 66.667
+    },
+    {
+      "name": "Unburden",
+      "pct": 33.333
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Basculegion",
+      "pct": 33.333
+    },
+    {
+      "name": "Garchomp",
+      "pct": 33.333
+    },
+    {
+      "name": "Talonflame",
+      "pct": 33.333
+    },
+    {
+      "name": "Sneasler",
+      "pct": 25.0
+    },
+    {
+      "name": "Kingambit",
+      "pct": 16.667
+    },
+    {
+      "name": "Metagross-Mega",
+      "pct": 16.667
+    }
+  ]
+}

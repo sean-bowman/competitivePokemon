@@ -1,134 +1,122 @@
 {
   "name": "Kingambit",
-  "fetched": "2026-04-14",
+  "fetched": "2026-06-18",
   "source": "pikalytics_champions",
   "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Kingambit",
   "moves": [
     {
       "name": "Sucker Punch",
-      "pct": 99.769
-    },
-    {
-      "name": "Protect",
-      "pct": 93.88
+      "pct": 98.529
     },
     {
       "name": "Kowtow Cleave",
-      "pct": 88.799
+      "pct": 94.118
     },
     {
       "name": "Iron Head",
-      "pct": 55.658
+      "pct": 76.471
     },
     {
-      "name": "Swords Dance",
-      "pct": 41.224
+      "name": "Protect",
+      "pct": 72.059
     },
     {
       "name": "Low Kick",
-      "pct": 16.628
+      "pct": 30.882
     },
     {
-      "name": "Assurance",
-      "pct": 2.079
+      "name": "Swords Dance",
+      "pct": 17.647
     },
     {
       "name": "Brick Break",
-      "pct": 0.924
+      "pct": 2.941
     },
     {
-      "name": "Iron Defense",
-      "pct": 0.346
+      "name": "Assurance",
+      "pct": 2.941
     },
     {
-      "name": "Shadow Claw",
-      "pct": 0.231
+      "name": "Stealth Rock",
+      "pct": 1.471
+    },
+    {
+      "name": "Rock Tomb",
+      "pct": 1.471
     }
   ],
   "items": [
     {
       "name": "Black Glasses",
-      "pct": 63.741
+      "pct": 42.647
     },
     {
       "name": "Chople Berry",
-      "pct": 27.136
+      "pct": 26.471
     },
     {
       "name": "Focus Sash",
-      "pct": 1.386
+      "pct": 10.294
     },
     {
-      "name": "Lum Berry",
-      "pct": 1.386
-    },
-    {
-      "name": "Dread Plate",
-      "pct": 1.27
-    },
-    {
-      "name": "Leftovers",
-      "pct": 1.155
+      "name": "Life Orb",
+      "pct": 8.824
     },
     {
       "name": "Occa Berry",
-      "pct": 0.577
+      "pct": 5.882
     },
     {
       "name": "Black Belt",
-      "pct": 0.577
+      "pct": 1.471
     },
     {
-      "name": "Shuca Berry",
-      "pct": 0.462
+      "name": "Sitrus Berry",
+      "pct": 1.471
     },
     {
-      "name": "King",
-      "pct": 0.346
+      "name": "Expert Belt",
+      "pct": 1.471
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 1.471
     }
   ],
   "abilities": [
     {
       "name": "Defiant",
-      "pct": 98.152
+      "pct": 97.059
     },
     {
       "name": "Supreme Overlord",
-      "pct": 1.617
-    },
-    {
-      "name": "Pressure",
-      "pct": 0.115
-    },
-    {
-      "name": "DefiantLevel",
-      "pct": 0.115
+      "pct": 2.941
     }
   ],
   "teammates": [
     {
-      "name": "Sneasler",
-      "pct": 60.277
-    },
-    {
-      "name": "Incineroar",
-      "pct": 41.917
-    },
-    {
-      "name": "Sinistcha",
-      "pct": 32.217
-    },
-    {
       "name": "Garchomp",
-      "pct": 31.178
+      "pct": 38.235
     },
     {
       "name": "Basculegion",
-      "pct": 25.289
+      "pct": 36.765
     },
     {
-      "name": "Froslass",
-      "pct": 19.746
+      "name": "Whimsicott",
+      "pct": 32.353
+    },
+    {
+      "name": "Sneasler",
+      "pct": 25.0
+    },
+    {
+      "name": "Charizard-Mega-Y",
+      "pct": 22.059
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 22.059
     }
   ]
 }

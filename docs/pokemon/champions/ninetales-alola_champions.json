@@ -1,0 +1,106 @@
+{
+  "name": "Ninetales-Alola",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Ninetales-Alola",
+  "moves": [
+    {
+      "name": "Blizzard",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 85.714
+    },
+    {
+      "name": "Aurora Veil",
+      "pct": 50.0
+    },
+    {
+      "name": "Freeze-Dry",
+      "pct": 42.857
+    },
+    {
+      "name": "Moonblast",
+      "pct": 35.714
+    },
+    {
+      "name": "Icy Wind",
+      "pct": 35.714
+    },
+    {
+      "name": "Encore",
+      "pct": 28.571
+    },
+    {
+      "name": "Charm",
+      "pct": 7.143
+    },
+    {
+      "name": "Weather Ball",
+      "pct": 7.143
+    },
+    {
+      "name": "Howl",
+      "pct": 7.143
+    }
+  ],
+  "items": [
+    {
+      "name": "Never-Melt Ice",
+      "pct": 28.571
+    },
+    {
+      "name": "Life Orb",
+      "pct": 21.429
+    },
+    {
+      "name": "Light Clay",
+      "pct": 14.286
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 14.286
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 14.286
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 7.143
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Snow Warning",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Raichu-Mega-Y",
+      "pct": 57.143
+    },
+    {
+      "name": "Garchomp",
+      "pct": 42.857
+    },
+    {
+      "name": "Metagross-Mega",
+      "pct": 35.714
+    },
+    {
+      "name": "Basculegion",
+      "pct": 35.714
+    },
+    {
+      "name": "Kingambit",
+      "pct": 28.571
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 28.571
+    }
+  ]
+}

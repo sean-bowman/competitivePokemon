@@ -1,0 +1,74 @@
+{
+  "name": "Floette-Eternal-Mega",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Floette-Eternal-Mega",
+  "moves": [
+    {
+      "name": "Protect",
+      "pct": 100.0
+    },
+    {
+      "name": "Dazzling Gleam",
+      "pct": 96.97
+    },
+    {
+      "name": "Moonblast",
+      "pct": 81.818
+    },
+    {
+      "name": "Calm Mind",
+      "pct": 72.727
+    },
+    {
+      "name": "Light of Ruin",
+      "pct": 27.273
+    },
+    {
+      "name": "Draining Kiss",
+      "pct": 21.212
+    }
+  ],
+  "items": [
+    {
+      "name": "Floettite",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Flower Veil",
+      "pct": 96.97
+    },
+    {
+      "name": "Fairy Aura",
+      "pct": 3.03
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sinistcha",
+      "pct": 66.667
+    },
+    {
+      "name": "Incineroar",
+      "pct": 60.606
+    },
+    {
+      "name": "Garchomp",
+      "pct": 36.364
+    },
+    {
+      "name": "Kingambit",
+      "pct": 36.364
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 33.333
+    },
+    {
+      "name": "Basculegion",
+      "pct": 30.303
+    }
+  ]
+}

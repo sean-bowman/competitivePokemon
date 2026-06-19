@@ -1,0 +1,126 @@
+{
+  "name": "Annihilape",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Annihilape",
+  "moves": [
+    {
+      "name": "Rage Fist",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 83.333
+    },
+    {
+      "name": "Drain Punch",
+      "pct": 75.0
+    },
+    {
+      "name": "Bulk Up",
+      "pct": 50.0
+    },
+    {
+      "name": "Close Combat",
+      "pct": 29.167
+    },
+    {
+      "name": "Coaching",
+      "pct": 25.0
+    },
+    {
+      "name": "Taunt",
+      "pct": 12.5
+    },
+    {
+      "name": "U-turn",
+      "pct": 8.333
+    },
+    {
+      "name": "Focus Energy",
+      "pct": 4.167
+    },
+    {
+      "name": "Stealth Rock",
+      "pct": 4.167
+    }
+  ],
+  "items": [
+    {
+      "name": "Leftovers",
+      "pct": 33.333
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 16.667
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 12.5
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 12.5
+    },
+    {
+      "name": "Roseli Berry",
+      "pct": 8.333
+    },
+    {
+      "name": "Scope Lens",
+      "pct": 4.167
+    },
+    {
+      "name": "Life Orb",
+      "pct": 4.167
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 4.167
+    },
+    {
+      "name": "Metronome",
+      "pct": 4.167
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Defiant",
+      "pct": 91.667
+    },
+    {
+      "name": "Inner Focus",
+      "pct": 4.167
+    },
+    {
+      "name": "Competitive",
+      "pct": 4.167
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Swampert-Mega",
+      "pct": 37.5
+    },
+    {
+      "name": "Maushold",
+      "pct": 37.5
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 33.333
+    },
+    {
+      "name": "Incineroar",
+      "pct": 29.167
+    },
+    {
+      "name": "Pelipper",
+      "pct": 29.167
+    },
+    {
+      "name": "Archaludon",
+      "pct": 25.0
+    }
+  ]
+}

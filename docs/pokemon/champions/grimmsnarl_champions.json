@@ -1,0 +1,106 @@
+{
+  "name": "Grimmsnarl",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Grimmsnarl",
+  "moves": [
+    {
+      "name": "Light Screen",
+      "pct": 92.308
+    },
+    {
+      "name": "Reflect",
+      "pct": 82.692
+    },
+    {
+      "name": "Parting Shot",
+      "pct": 76.923
+    },
+    {
+      "name": "Spirit Break",
+      "pct": 73.077
+    },
+    {
+      "name": "Foul Play",
+      "pct": 19.231
+    },
+    {
+      "name": "Fake Out",
+      "pct": 19.231
+    },
+    {
+      "name": "Scary Face",
+      "pct": 15.385
+    },
+    {
+      "name": "Taunt",
+      "pct": 5.769
+    },
+    {
+      "name": "Sucker Punch",
+      "pct": 3.846
+    },
+    {
+      "name": "Fake Tears",
+      "pct": 3.846
+    }
+  ],
+  "items": [
+    {
+      "name": "Light Clay",
+      "pct": 90.385
+    },
+    {
+      "name": "Leftovers",
+      "pct": 1.923
+    },
+    {
+      "name": "Mental Herb",
+      "pct": 1.923
+    },
+    {
+      "name": "Babiri Berry",
+      "pct": 1.923
+    },
+    {
+      "name": "Roseli Berry",
+      "pct": 1.923
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 1.923
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Prankster",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sinistcha",
+      "pct": 65.385
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 57.692
+    },
+    {
+      "name": "Gholdengo",
+      "pct": 30.769
+    },
+    {
+      "name": "Incineroar",
+      "pct": 28.846
+    },
+    {
+      "name": "Garchomp",
+      "pct": 25.0
+    },
+    {
+      "name": "Metagross-Mega",
+      "pct": 21.154
+    }
+  ]
+}

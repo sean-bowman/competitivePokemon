@@ -1,126 +1,106 @@
 {
   "name": "Sinistcha",
-  "fetched": "2026-04-14",
+  "fetched": "2026-06-18",
   "source": "pikalytics_champions",
   "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sinistcha",
   "moves": [
     {
       "name": "Matcha Gotcha",
-      "pct": 99.369
+      "pct": 99.091
     },
     {
       "name": "Rage Powder",
-      "pct": 97.207
+      "pct": 97.273
     },
     {
       "name": "Trick Room",
-      "pct": 66.306
-    },
-    {
-      "name": "Life Dew",
-      "pct": 53.063
-    },
-    {
-      "name": "Strength Sap",
-      "pct": 31.982
+      "pct": 70.0
     },
     {
       "name": "Protect",
-      "pct": 31.892
+      "pct": 50.0
+    },
+    {
+      "name": "Life Dew",
+      "pct": 49.091
+    },
+    {
+      "name": "Strength Sap",
+      "pct": 18.182
     },
     {
       "name": "Shadow Ball",
-      "pct": 13.243
+      "pct": 7.273
     },
     {
       "name": "Imprison",
-      "pct": 2.162
+      "pct": 3.636
     },
     {
-      "name": "Calm Mind",
-      "pct": 1.171
-    },
-    {
-      "name": "Scald",
-      "pct": 1.081
+      "name": "Grassy Terrain",
+      "pct": 1.818
     }
   ],
   "items": [
     {
       "name": "Sitrus Berry",
-      "pct": 57.477
-    },
-    {
-      "name": "Leftovers",
-      "pct": 15.495
-    },
-    {
-      "name": "Occa Berry",
-      "pct": 6.847
-    },
-    {
-      "name": "Mental Herb",
-      "pct": 6.126
-    },
-    {
-      "name": "Colbur Berry",
-      "pct": 3.243
-    },
-    {
-      "name": "Coba Berry",
-      "pct": 2.162
+      "pct": 35.455
     },
     {
       "name": "Kasib Berry",
-      "pct": 1.892
+      "pct": 30.0
     },
     {
-      "name": "Bright Powder",
-      "pct": 1.892
+      "name": "Colbur Berry",
+      "pct": 10.0
     },
     {
-      "name": "Focus Sash",
-      "pct": 1.712
+      "name": "Leftovers",
+      "pct": 9.091
     },
     {
-      "name": "Quick Claw",
-      "pct": 1.081
+      "name": "Coba Berry",
+      "pct": 5.455
+    },
+    {
+      "name": "Occa Berry",
+      "pct": 5.455
+    },
+    {
+      "name": "Miracle Seed",
+      "pct": 1.818
     }
   ],
   "abilities": [
     {
       "name": "Hospitality",
-      "pct": 98.919
-    },
-    {
-      "name": "Heatproof",
-      "pct": 1.081
+      "pct": 100.0
     }
   ],
   "teammates": [
     {
       "name": "Incineroar",
-      "pct": 61.892
+      "pct": 43.636
     },
     {
-      "name": "Sneasler",
-      "pct": 43.333
+      "name": "Staraptor-Mega",
+      "pct": 34.545
     },
     {
-      "name": "Floette",
-      "pct": 26.937
+      "name": "Grimmsnarl",
+      "pct": 30.909
     },
     {
-      "name": "Tyranitar",
-      "pct": 26.847
+      "name": "Archaludon",
+      "pct": 22.727
     },
     {
-      "name": "Kingambit",
-      "pct": 25.135
+      "name": "Swampert-Mega",
+      "pct": 20.909
     },
     {
       "name": "Pelipper",
-      "pct": 23.153
+      "pct": 20.909
     }
   ]
 }

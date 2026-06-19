@@ -1,0 +1,94 @@
+{
+  "name": "Staraptor-Mega",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Staraptor-Mega",
+  "moves": [
+    {
+      "name": "Close Combat",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 98.529
+    },
+    {
+      "name": "Brave Bird",
+      "pct": 92.647
+    },
+    {
+      "name": "Roost",
+      "pct": 64.706
+    },
+    {
+      "name": "Tailwind",
+      "pct": 20.588
+    },
+    {
+      "name": "Dual Wingbeat",
+      "pct": 10.294
+    },
+    {
+      "name": "Blaze Kick",
+      "pct": 4.412
+    },
+    {
+      "name": "Quick Attack",
+      "pct": 2.941
+    },
+    {
+      "name": "U-turn",
+      "pct": 2.941
+    },
+    {
+      "name": "Substitute",
+      "pct": 1.471
+    }
+  ],
+  "items": [
+    {
+      "name": "Staraptite",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "pct": 95.588
+    },
+    {
+      "name": "Reckless",
+      "pct": 1.471
+    },
+    {
+      "name": "Contrary",
+      "pct": 1.471
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sinistcha",
+      "pct": 55.882
+    },
+    {
+      "name": "Grimmsnarl",
+      "pct": 44.118
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 42.647
+    },
+    {
+      "name": "Incineroar",
+      "pct": 38.235
+    },
+    {
+      "name": "Garchomp",
+      "pct": 32.353
+    },
+    {
+      "name": "Gholdengo",
+      "pct": 23.529
+    }
+  ]
+}

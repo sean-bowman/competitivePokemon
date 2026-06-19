@@ -1,133 +1,90 @@
 {
   "name": "Aerodactyl",
-  "fetched": "2026-04-15",
+  "fetched": "2026-06-18",
   "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Aerodactyl",
   "moves": [
     {
       "name": "Rock Slide",
-      "pct": 99.15
-    },
-    {
-      "name": "Protect",
-      "pct": 94.618
-    },
-    {
-      "name": "Dual Wingbeat",
-      "pct": 93.768
+      "pct": 100.0
     },
     {
       "name": "Tailwind",
-      "pct": 88.669
+      "pct": 90.909
+    },
+    {
+      "name": "Protect",
+      "pct": 81.818
+    },
+    {
+      "name": "Dual Wingbeat",
+      "pct": 72.727
     },
     {
       "name": "Wide Guard",
-      "pct": 8.215
+      "pct": 36.364
     },
     {
-      "name": "Iron Head",
-      "pct": 2.833
+      "name": "Taunt",
+      "pct": 9.091
     },
     {
-      "name": "Earthquake",
-      "pct": 2.266
-    },
-    {
-      "name": "Ice Fang",
-      "pct": 2.266
-    },
-    {
-      "name": "Crunch",
-      "pct": 1.416
-    },
-    {
-      "name": "Stone Edge",
-      "pct": 0.85
+      "name": "Sunny Day",
+      "pct": 9.091
     }
   ],
   "items": [
     {
       "name": "Focus Sash",
-      "pct": 69.122
-    },
-    {
-      "name": "Aerodactylite",
-      "pct": 23.229
-    },
-    {
-      "name": "Lum Berry",
-      "pct": 3.116
-    },
-    {
-      "name": "King",
-      "pct": 1.416
+      "pct": 81.818
     },
     {
       "name": "White Herb",
-      "pct": 0.567
+      "pct": 9.091
     },
     {
-      "name": "Sitrus Berry",
-      "pct": 0.567
-    },
-    {
-      "name": "Leftovers",
-      "pct": 0.567
-    },
-    {
-      "name": "Sharp Beak",
-      "pct": 0.567
-    },
-    {
-      "name": "Bright Powder",
-      "pct": 0.283
-    },
-    {
-      "name": "Choice Scarf",
-      "pct": 0.283
+      "name": "Quick Claw",
+      "pct": 9.091
     }
   ],
   "abilities": [
     {
       "name": "Unnerve",
-      "pct": 85.269
-    },
-    {
-      "name": "Pressure",
-      "pct": 7.082
-    },
-    {
-      "name": "Tough Claws",
-      "pct": 5.382
+      "pct": 81.818
     },
     {
       "name": "Rock Head",
-      "pct": 2.266
+      "pct": 9.091
+    },
+    {
+      "name": "Pressure",
+      "pct": 9.091
     }
   ],
   "teammates": [
     {
-      "name": "Incineroar",
-      "pct": 58.64
-    },
-    {
-      "name": "Sneasler",
-      "pct": 57.224
-    },
-    {
-      "name": "Floette",
-      "pct": 51.841
+      "name": "Sinistcha",
+      "pct": 45.455
     },
     {
       "name": "Garchomp",
-      "pct": 51.558
+      "pct": 36.364
     },
     {
-      "name": "Sinistcha",
-      "pct": 35.977
+      "name": "Metagross-Mega",
+      "pct": 27.273
+    },
+    {
+      "name": "Incineroar",
+      "pct": 27.273
+    },
+    {
+      "name": "Raichu-Mega-Y",
+      "pct": 27.273
     },
     {
       "name": "Kingambit",
-      "pct": 32.011
+      "pct": 27.273
     }
   ]
 }

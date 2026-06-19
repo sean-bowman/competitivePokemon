@@ -1,0 +1,70 @@
+{
+  "name": "Glimmora",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Glimmora",
+  "moves": [
+    {
+      "name": "Sludge Bomb",
+      "pct": 100.0
+    },
+    {
+      "name": "Earth Power",
+      "pct": 100.0
+    },
+    {
+      "name": "Power Gem",
+      "pct": 100.0
+    },
+    {
+      "name": "Spiky Shield",
+      "pct": 94.118
+    },
+    {
+      "name": "Protect",
+      "pct": 5.882
+    }
+  ],
+  "items": [
+    {
+      "name": "Focus Sash",
+      "pct": 94.118
+    },
+    {
+      "name": "Life Orb",
+      "pct": 5.882
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Toxic Debris",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Staraptor-Mega",
+      "pct": 64.706
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 64.706
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 58.824
+    },
+    {
+      "name": "Metagross-Mega",
+      "pct": 41.176
+    },
+    {
+      "name": "Grimmsnarl",
+      "pct": 35.294
+    },
+    {
+      "name": "Garchomp",
+      "pct": 35.294
+    }
+  ]
+}

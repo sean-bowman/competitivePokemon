@@ -1,130 +1,98 @@
 {
   "name": "Sneasler",
-  "fetched": "2026-04-14",
+  "fetched": "2026-06-18",
   "source": "pikalytics_champions",
   "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sneasler",
   "moves": [
     {
       "name": "Close Combat",
-      "pct": 99.654
-    },
-    {
-      "name": "Dire Claw",
-      "pct": 97.996
+      "pct": 100.0
     },
     {
       "name": "Fake Out",
-      "pct": 87.422
+      "pct": 96.774
+    },
+    {
+      "name": "Dire Claw",
+      "pct": 96.774
     },
     {
       "name": "Protect",
-      "pct": 74.914
+      "pct": 72.581
     },
     {
       "name": "Coaching",
-      "pct": 19.143
+      "pct": 16.129
     },
     {
-      "name": "Rock Tomb",
-      "pct": 7.256
-    },
-    {
-      "name": "Throat Chop",
-      "pct": 3.594
-    },
-    {
-      "name": "Rock Slide",
-      "pct": 2.903
-    },
-    {
-      "name": "Taunt",
-      "pct": 1.175
+      "name": "Quick Guard",
+      "pct": 4.839
     },
     {
       "name": "Gunk Shot",
-      "pct": 1.106
+      "pct": 3.226
+    },
+    {
+      "name": "Throat Chop",
+      "pct": 3.226
+    },
+    {
+      "name": "U-turn",
+      "pct": 1.613
+    },
+    {
+      "name": "Acrobatics",
+      "pct": 1.613
     }
   ],
   "items": [
     {
       "name": "White Herb",
-      "pct": 70.56
+      "pct": 72.581
     },
     {
       "name": "Focus Sash",
-      "pct": 26.054
-    },
-    {
-      "name": "Mental Herb",
-      "pct": 2.073
-    },
-    {
-      "name": "Sitrus Berry",
-      "pct": 0.415
-    },
-    {
-      "name": "Choice Scarf",
-      "pct": 0.138
-    },
-    {
-      "name": "Black Belt",
-      "pct": 0.138
-    },
-    {
-      "name": "Oran Berry",
-      "pct": 0.069
-    },
-    {
-      "name": "Silk Scarf",
-      "pct": 0.069
-    },
-    {
-      "name": "Lum Berry",
-      "pct": 0.069
-    },
-    {
-      "name": "Poison Barb",
-      "pct": 0.069
+      "pct": 27.419
     }
   ],
   "abilities": [
     {
       "name": "Unburden",
-      "pct": 89.91
+      "pct": 88.71
     },
     {
       "name": "Poison Touch",
-      "pct": 7.118
+      "pct": 9.677
     },
     {
       "name": "Pressure",
-      "pct": 2.972
+      "pct": 1.613
     }
   ],
   "teammates": [
     {
-      "name": "Incineroar",
-      "pct": 46.026
-    },
-    {
-      "name": "Garchomp",
-      "pct": 39.046
-    },
-    {
-      "name": "Kingambit",
-      "pct": 36.075
-    },
-    {
       "name": "Sinistcha",
-      "pct": 33.241
+      "pct": 35.484
     },
     {
       "name": "Basculegion",
-      "pct": 25.777
+      "pct": 29.032
     },
     {
-      "name": "Charizard",
-      "pct": 21.631
+      "name": "Incineroar",
+      "pct": 29.032
+    },
+    {
+      "name": "Kingambit",
+      "pct": 27.419
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 22.581
+    },
+    {
+      "name": "Pelipper",
+      "pct": 20.968
     }
   ]
 }

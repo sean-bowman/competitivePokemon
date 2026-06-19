@@ -42,8 +42,8 @@ with usageTab:
             'Rank': p.get('rank'),
             'Pokemon': p.get('name'),
             'Usage %': p.get('usage_pct'),
-            'Role': p.get('role_label'),
-            'Notes': p.get('description'),
+            'Win %': p.get('win_rate'),
+            'Record': p.get('record'),
         }
         for p in pokemon
     ])

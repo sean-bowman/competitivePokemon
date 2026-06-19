@@ -1,0 +1,78 @@
+{
+  "name": "Vivillon",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Vivillon",
+  "moves": [
+    {
+      "name": "Sleep Powder",
+      "pct": 100.0
+    },
+    {
+      "name": "Hurricane",
+      "pct": 100.0
+    },
+    {
+      "name": "Rage Powder",
+      "pct": 71.429
+    },
+    {
+      "name": "Protect",
+      "pct": 57.143
+    },
+    {
+      "name": "Tailwind",
+      "pct": 28.571
+    },
+    {
+      "name": "Energy Ball",
+      "pct": 28.571
+    },
+    {
+      "name": "Pollen Puff",
+      "pct": 14.286
+    }
+  ],
+  "items": [
+    {
+      "name": "Focus Sash",
+      "pct": 57.143
+    },
+    {
+      "name": "Choice Scarf",
+      "pct": 42.857
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Compound Eyes",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Farigiraf",
+      "pct": 71.429
+    },
+    {
+      "name": "Raichu-Mega-Y",
+      "pct": 57.143
+    },
+    {
+      "name": "Kingambit",
+      "pct": 42.857
+    },
+    {
+      "name": "Sylveon",
+      "pct": 42.857
+    },
+    {
+      "name": "Ninetales-Alola",
+      "pct": 28.571
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 28.571
+    }
+  ]
+}

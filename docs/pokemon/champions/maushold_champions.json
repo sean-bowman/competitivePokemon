@@ -1,0 +1,106 @@
+{
+  "name": "Maushold",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Maushold",
+  "moves": [
+    {
+      "name": "Follow Me",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 93.548
+    },
+    {
+      "name": "Super Fang",
+      "pct": 74.194
+    },
+    {
+      "name": "Population Bomb",
+      "pct": 32.258
+    },
+    {
+      "name": "Beat Up",
+      "pct": 22.581
+    },
+    {
+      "name": "Encore",
+      "pct": 19.355
+    },
+    {
+      "name": "Helping Hand",
+      "pct": 12.903
+    },
+    {
+      "name": "Rain Dance",
+      "pct": 12.903
+    },
+    {
+      "name": "Charm",
+      "pct": 12.903
+    },
+    {
+      "name": "Taunt",
+      "pct": 12.903
+    }
+  ],
+  "items": [
+    {
+      "name": "Focus Sash",
+      "pct": 38.71
+    },
+    {
+      "name": "Chople Berry",
+      "pct": 25.806
+    },
+    {
+      "name": "Wide Lens",
+      "pct": 22.581
+    },
+    {
+      "name": "Leftovers",
+      "pct": 9.677
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 3.226
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Friend Guard",
+      "pct": 87.097
+    },
+    {
+      "name": "Technician",
+      "pct": 12.903
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sinistcha",
+      "pct": 32.258
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 32.258
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 32.258
+    },
+    {
+      "name": "Garchomp",
+      "pct": 29.032
+    },
+    {
+      "name": "Gholdengo",
+      "pct": 29.032
+    },
+    {
+      "name": "Annihilape",
+      "pct": 29.032
+    }
+  ]
+}

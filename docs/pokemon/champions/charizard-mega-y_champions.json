@@ -1,0 +1,82 @@
+{
+  "name": "Charizard-Mega-Y",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Charizard-Mega-Y",
+  "moves": [
+    {
+      "name": "Heat Wave",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 100.0
+    },
+    {
+      "name": "Solar Beam",
+      "pct": 97.674
+    },
+    {
+      "name": "Weather Ball",
+      "pct": 93.023
+    },
+    {
+      "name": "Air Slash",
+      "pct": 4.651
+    },
+    {
+      "name": "Dragon Pulse",
+      "pct": 2.326
+    },
+    {
+      "name": "Blast Burn",
+      "pct": 2.326
+    }
+  ],
+  "items": [
+    {
+      "name": "Charizardite Y",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Blaze",
+      "pct": 55.814
+    },
+    {
+      "name": "Solar Power",
+      "pct": 32.558
+    },
+    {
+      "name": "Drought",
+      "pct": 11.628
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Garchomp",
+      "pct": 76.744
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 51.163
+    },
+    {
+      "name": "Basculegion",
+      "pct": 34.884
+    },
+    {
+      "name": "Kingambit",
+      "pct": 34.884
+    },
+    {
+      "name": "Incineroar",
+      "pct": 27.907
+    },
+    {
+      "name": "Venusaur",
+      "pct": 25.581
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Delphox-Mega",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Delphox-Mega",
+  "moves": [
+    {
+      "name": "Heat Wave",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 100.0
+    },
+    {
+      "name": "Psyshock",
+      "pct": 70.0
+    },
+    {
+      "name": "Nasty Plot",
+      "pct": 70.0
+    },
+    {
+      "name": "Psychic",
+      "pct": 30.0
+    },
+    {
+      "name": "Substitute",
+      "pct": 20.0
+    },
+    {
+      "name": "Encore",
+      "pct": 10.0
+    }
+  ],
+  "items": [
+    {
+      "name": "Delphoxite",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Blaze",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sinistcha",
+      "pct": 60.0
+    },
+    {
+      "name": "Kingambit",
+      "pct": 50.0
+    },
+    {
+      "name": "Incineroar",
+      "pct": 50.0
+    },
+    {
+      "name": "Sneasler",
+      "pct": 40.0
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 40.0
+    },
+    {
+      "name": "Maushold",
+      "pct": 40.0
+    }
+  ]
+}

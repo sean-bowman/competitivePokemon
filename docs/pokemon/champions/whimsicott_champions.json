@@ -1,130 +1,110 @@
 {
   "name": "Whimsicott",
-  "fetched": "2026-04-14",
+  "fetched": "2026-06-18",
   "source": "pikalytics_champions",
   "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Whimsicott",
   "moves": [
     {
       "name": "Tailwind",
-      "pct": 98.756
+      "pct": 100.0
     },
     {
       "name": "Moonblast",
-      "pct": 95.179
-    },
-    {
-      "name": "Encore",
-      "pct": 73.872
+      "pct": 93.421
     },
     {
       "name": "Protect",
-      "pct": 44.946
+      "pct": 67.105
     },
     {
-      "name": "Sunny Day",
-      "pct": 31.415
+      "name": "Encore",
+      "pct": 65.789
+    },
+    {
+      "name": "Charm",
+      "pct": 18.421
     },
     {
       "name": "Fake Tears",
-      "pct": 11.82
+      "pct": 13.158
     },
     {
-      "name": "Taunt",
-      "pct": 10.731
+      "name": "Tickle",
+      "pct": 9.211
     },
     {
-      "name": "Helping Hand",
-      "pct": 6.998
+      "name": "Sunny Day",
+      "pct": 9.211
     },
     {
       "name": "Light Screen",
-      "pct": 5.443
+      "pct": 6.579
     },
     {
-      "name": "Energy Ball",
-      "pct": 4.821
+      "name": "Taunt",
+      "pct": 5.263
     }
   ],
   "items": [
     {
       "name": "Focus Sash",
-      "pct": 72.784
-    },
-    {
-      "name": "Mental Herb",
-      "pct": 10.886
-    },
-    {
-      "name": "Occa Berry",
-      "pct": 3.421
-    },
-    {
-      "name": "Leftovers",
-      "pct": 2.955
-    },
-    {
-      "name": "Sitrus Berry",
-      "pct": 2.177
+      "pct": 67.105
     },
     {
       "name": "Fairy Feather",
-      "pct": 1.711
+      "pct": 14.474
     },
     {
-      "name": "Bright Powder",
-      "pct": 1.711
+      "name": "Coba Berry",
+      "pct": 11.842
     },
     {
-      "name": "Kebia Berry",
-      "pct": 1.089
+      "name": "Mental Herb",
+      "pct": 2.632
     },
     {
-      "name": "Covert Cloak",
-      "pct": 0.778
+      "name": "Life Orb",
+      "pct": 1.316
     },
     {
-      "name": "White Herb",
-      "pct": 0.778
+      "name": "Occa Berry",
+      "pct": 1.316
+    },
+    {
+      "name": "Leftovers",
+      "pct": 1.316
     }
   ],
   "abilities": [
     {
       "name": "Prankster",
-      "pct": 99.378
-    },
-    {
-      "name": "Chlorophyll",
-      "pct": 0.467
-    },
-    {
-      "name": "Infiltrator",
-      "pct": 0.156
+      "pct": 100.0
     }
   ],
   "teammates": [
     {
-      "name": "Incineroar",
-      "pct": 56.765
-    },
-    {
       "name": "Garchomp",
-      "pct": 48.678
+      "pct": 39.474
     },
     {
-      "name": "Sneasler",
-      "pct": 45.101
+      "name": "Staraptor-Mega",
+      "pct": 38.158
     },
     {
-      "name": "Charizard",
-      "pct": 43.39
+      "name": "Basculegion",
+      "pct": 35.526
+    },
+    {
+      "name": "Incineroar",
+      "pct": 31.579
     },
     {
       "name": "Kingambit",
-      "pct": 22.395
+      "pct": 28.947
     },
     {
-      "name": "Farigiraf",
-      "pct": 16.952
+      "name": "Charizard-Mega-Y",
+      "pct": 28.947
     }
   ]
 }

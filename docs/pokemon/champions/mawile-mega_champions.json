@@ -1,0 +1,82 @@
+{
+  "name": "Mawile-Mega",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Mawile-Mega",
+  "moves": [
+    {
+      "name": "Play Rough",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 100.0
+    },
+    {
+      "name": "Iron Head",
+      "pct": 92.308
+    },
+    {
+      "name": "Sucker Punch",
+      "pct": 61.538
+    },
+    {
+      "name": "Knock Off",
+      "pct": 23.077
+    },
+    {
+      "name": "Rock Slide",
+      "pct": 15.385
+    },
+    {
+      "name": "Brick Break",
+      "pct": 7.692
+    }
+  ],
+  "items": [
+    {
+      "name": "Mawilite",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate",
+      "pct": 61.538
+    },
+    {
+      "name": "Hyper Cutter",
+      "pct": 23.077
+    },
+    {
+      "name": "Huge Power",
+      "pct": 15.385
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Farigiraf",
+      "pct": 53.846
+    },
+    {
+      "name": "Pelipper",
+      "pct": 38.462
+    },
+    {
+      "name": "Incineroar",
+      "pct": 38.462
+    },
+    {
+      "name": "Garchomp",
+      "pct": 30.769
+    },
+    {
+      "name": "Swampert-Mega",
+      "pct": 23.077
+    },
+    {
+      "name": "Kangaskhan",
+      "pct": 23.077
+    }
+  ]
+}

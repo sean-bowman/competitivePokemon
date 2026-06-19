@@ -1,0 +1,86 @@
+{
+  "name": "Hydreigon",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Hydreigon",
+  "moves": [
+    {
+      "name": "Dark Pulse",
+      "pct": 92.857
+    },
+    {
+      "name": "Snarl",
+      "pct": 92.857
+    },
+    {
+      "name": "Draco Meteor",
+      "pct": 85.714
+    },
+    {
+      "name": "Heat Wave",
+      "pct": 57.143
+    },
+    {
+      "name": "Earth Power",
+      "pct": 35.714
+    },
+    {
+      "name": "Dragon Pulse",
+      "pct": 14.286
+    },
+    {
+      "name": "Protect",
+      "pct": 14.286
+    },
+    {
+      "name": "Breaking Swipe",
+      "pct": 7.143
+    }
+  ],
+  "items": [
+    {
+      "name": "Choice Scarf",
+      "pct": 85.714
+    },
+    {
+      "name": "Life Orb",
+      "pct": 7.143
+    },
+    {
+      "name": "Wise Glasses",
+      "pct": 7.143
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Levitate",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sinistcha",
+      "pct": 42.857
+    },
+    {
+      "name": "Tyranitar-Mega",
+      "pct": 35.714
+    },
+    {
+      "name": "Gholdengo",
+      "pct": 35.714
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 35.714
+    },
+    {
+      "name": "Excadrill",
+      "pct": 28.571
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 28.571
+    }
+  ]
+}

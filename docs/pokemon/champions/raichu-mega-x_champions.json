@@ -1,0 +1,90 @@
+{
+  "name": "Raichu-Mega-X",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Raichu-Mega-X",
+  "moves": [
+    {
+      "name": "Fake Out",
+      "pct": 94.444
+    },
+    {
+      "name": "Protect",
+      "pct": 77.778
+    },
+    {
+      "name": "Volt Tackle",
+      "pct": 55.556
+    },
+    {
+      "name": "Volt Switch",
+      "pct": 44.444
+    },
+    {
+      "name": "Rising Voltage",
+      "pct": 38.889
+    },
+    {
+      "name": "Play Rough",
+      "pct": 27.778
+    },
+    {
+      "name": "Encore",
+      "pct": 16.667
+    },
+    {
+      "name": "Electroweb",
+      "pct": 11.111
+    },
+    {
+      "name": "Drain Punch",
+      "pct": 11.111
+    },
+    {
+      "name": "Charm",
+      "pct": 11.111
+    }
+  ],
+  "items": [
+    {
+      "name": "Raichunite X",
+      "pct": 83.333
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Lightning Rod",
+      "pct": 77.778
+    },
+    {
+      "name": "Static",
+      "pct": 22.222
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Pelipper",
+      "pct": 38.889
+    },
+    {
+      "name": "Archaludon",
+      "pct": 38.889
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 38.889
+    },
+    {
+      "name": "Incineroar",
+      "pct": 38.889
+    },
+    {
+      "name": "Basculegion",
+      "pct": 38.889
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 33.333
+    }
+  ]
+}

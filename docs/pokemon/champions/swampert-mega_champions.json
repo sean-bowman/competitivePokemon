@@ -1,0 +1,94 @@
+{
+  "name": "Swampert-Mega",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Swampert-Mega",
+  "moves": [
+    {
+      "name": "Protect",
+      "pct": 97.674
+    },
+    {
+      "name": "Wave Crash",
+      "pct": 93.023
+    },
+    {
+      "name": "Ice Punch",
+      "pct": 58.14
+    },
+    {
+      "name": "Earthquake",
+      "pct": 55.814
+    },
+    {
+      "name": "High Horsepower",
+      "pct": 41.86
+    },
+    {
+      "name": "Knock Off",
+      "pct": 11.628
+    },
+    {
+      "name": "Stomping Tantrum",
+      "pct": 9.302
+    },
+    {
+      "name": "Rock Slide",
+      "pct": 6.977
+    },
+    {
+      "name": "Flip Turn",
+      "pct": 6.977
+    },
+    {
+      "name": "Liquidation",
+      "pct": 4.651
+    }
+  ],
+  "items": [
+    {
+      "name": "Swampertite",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Torrent",
+      "pct": 60.465
+    },
+    {
+      "name": "Damp",
+      "pct": 32.558
+    },
+    {
+      "name": "Swift Swim",
+      "pct": 6.977
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Pelipper",
+      "pct": 88.372
+    },
+    {
+      "name": "Archaludon",
+      "pct": 76.744
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 53.488
+    },
+    {
+      "name": "Sableye",
+      "pct": 30.233
+    },
+    {
+      "name": "Annihilape",
+      "pct": 20.93
+    },
+    {
+      "name": "Incineroar",
+      "pct": 20.93
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Metagross-Mega",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Metagross-Mega",
+  "moves": [
+    {
+      "name": "Protect",
+      "pct": 92.308
+    },
+    {
+      "name": "Psychic Fangs",
+      "pct": 92.308
+    },
+    {
+      "name": "Iron Head",
+      "pct": 56.41
+    },
+    {
+      "name": "Bullet Punch",
+      "pct": 41.026
+    },
+    {
+      "name": "Ice Punch",
+      "pct": 33.333
+    },
+    {
+      "name": "Stomping Tantrum",
+      "pct": 25.641
+    },
+    {
+      "name": "Meteor Mash",
+      "pct": 23.077
+    },
+    {
+      "name": "Rock Slide",
+      "pct": 12.821
+    },
+    {
+      "name": "Body Press",
+      "pct": 7.692
+    },
+    {
+      "name": "Thunder Punch",
+      "pct": 5.128
+    }
+  ],
+  "items": [
+    {
+      "name": "Metagrossite",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Clear Body",
+      "pct": 97.436
+    },
+    {
+      "name": "Tough Claws",
+      "pct": 2.564
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Sinistcha",
+      "pct": 41.026
+    },
+    {
+      "name": "Garchomp",
+      "pct": 33.333
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 30.769
+    },
+    {
+      "name": "Grimmsnarl",
+      "pct": 28.205
+    },
+    {
+      "name": "Incineroar",
+      "pct": 28.205
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 25.641
+    }
+  ]
+}

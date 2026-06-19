@@ -1,130 +1,126 @@
 {
   "name": "Garchomp",
-  "fetched": "2026-04-14",
+  "fetched": "2026-06-18",
   "source": "pikalytics_champions",
   "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Garchomp",
   "moves": [
     {
-      "name": "Earthquake",
-      "pct": 88.665
+      "name": "Dragon Claw",
+      "pct": 92.135
     },
     {
-      "name": "Dragon Claw",
-      "pct": 85.139
+      "name": "Earthquake",
+      "pct": 87.64
     },
     {
       "name": "Rock Slide",
-      "pct": 72.208
+      "pct": 82.022
     },
     {
       "name": "Protect",
-      "pct": 67.338
+      "pct": 76.404
     },
     {
       "name": "Stomping Tantrum",
-      "pct": 50.462
-    },
-    {
-      "name": "Swords Dance",
-      "pct": 6.717
-    },
-    {
-      "name": "Stone Edge",
-      "pct": 6.213
-    },
-    {
-      "name": "Iron Head",
-      "pct": 4.534
+      "pct": 39.326
     },
     {
       "name": "Poison Jab",
-      "pct": 4.114
+      "pct": 11.236
     },
     {
-      "name": "Bulldoze",
-      "pct": 3.778
+      "name": "Rock Tomb",
+      "pct": 3.371
+    },
+    {
+      "name": "Scale Shot",
+      "pct": 2.247
+    },
+    {
+      "name": "Stone Edge",
+      "pct": 2.247
+    },
+    {
+      "name": "Outrage",
+      "pct": 1.124
     }
   ],
   "items": [
     {
+      "name": "Life Orb",
+      "pct": 58.427
+    },
+    {
       "name": "Choice Scarf",
-      "pct": 29.639
-    },
-    {
-      "name": "White Herb",
-      "pct": 16.877
-    },
-    {
-      "name": "Soft Sand",
-      "pct": 13.266
-    },
-    {
-      "name": "Lum Berry",
-      "pct": 9.908
-    },
-    {
-      "name": "Yache Berry",
-      "pct": 5.626
-    },
-    {
-      "name": "Haban Berry",
-      "pct": 3.862
-    },
-    {
-      "name": "Garchompite",
-      "pct": 3.526
-    },
-    {
-      "name": "Bright Powder",
-      "pct": 3.359
+      "pct": 15.73
     },
     {
       "name": "Sitrus Berry",
-      "pct": 3.107
+      "pct": 10.112
     },
     {
-      "name": "Focus Sash",
-      "pct": 2.519
+      "name": "Soft Sand",
+      "pct": 6.742
+    },
+    {
+      "name": "White Herb",
+      "pct": 2.247
+    },
+    {
+      "name": "Muscle Band",
+      "pct": 2.247
+    },
+    {
+      "name": "Leftovers",
+      "pct": 1.124
+    },
+    {
+      "name": "Metronome",
+      "pct": 1.124
+    },
+    {
+      "name": "Roseli Berry",
+      "pct": 1.124
+    },
+    {
+      "name": "Lum Berry",
+      "pct": 1.124
     }
   ],
   "abilities": [
     {
       "name": "Rough Skin",
-      "pct": 88.413
+      "pct": 98.876
     },
     {
       "name": "Sand Veil",
-      "pct": 11.083
-    },
-    {
-      "name": "Sand Force",
-      "pct": 0.504
+      "pct": 1.124
     }
   ],
   "teammates": [
     {
-      "name": "Incineroar",
-      "pct": 53.233
-    },
-    {
-      "name": "Sneasler",
-      "pct": 47.439
-    },
-    {
-      "name": "Charizard",
-      "pct": 34.257
-    },
-    {
-      "name": "Rotom-Wash",
-      "pct": 27.288
+      "name": "Charizard-Mega-Y",
+      "pct": 37.079
     },
     {
       "name": "Whimsicott",
-      "pct": 26.28
+      "pct": 33.708
     },
     {
       "name": "Kingambit",
-      "pct": 22.67
+      "pct": 29.213
+    },
+    {
+      "name": "Basculegion",
+      "pct": 28.09
+    },
+    {
+      "name": "Incineroar",
+      "pct": 28.09
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 24.719
     }
   ]
 }

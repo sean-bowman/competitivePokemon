@@ -1,129 +1,94 @@
 {
   "name": "Milotic",
-  "fetched": "2026-04-15",
+  "fetched": "2026-06-18",
   "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Milotic",
   "moves": [
     {
       "name": "Scald",
-      "pct": 89.259
+      "pct": 78.571
     },
     {
       "name": "Protect",
-      "pct": 85.926
-    },
-    {
-      "name": "Ice Beam",
-      "pct": 54.074
+      "pct": 71.429
     },
     {
       "name": "Icy Wind",
-      "pct": 53.333
+      "pct": 57.143
     },
     {
       "name": "Recover",
-      "pct": 45.556
+      "pct": 35.714
     },
     {
       "name": "Life Dew",
-      "pct": 18.889
+      "pct": 35.714
+    },
+    {
+      "name": "Ice Beam",
+      "pct": 35.714
     },
     {
       "name": "Muddy Water",
-      "pct": 13.704
+      "pct": 28.571
     },
     {
       "name": "Coil",
-      "pct": 7.778
+      "pct": 21.429
     },
     {
       "name": "Hypnosis",
-      "pct": 7.778
+      "pct": 21.429
     },
     {
-      "name": "Helping Hand",
-      "pct": 7.778
+      "name": "Rain Dance",
+      "pct": 7.143
     }
   ],
   "items": [
     {
       "name": "Leftovers",
-      "pct": 75.556
+      "pct": 64.286
     },
     {
       "name": "Sitrus Berry",
-      "pct": 12.963
-    },
-    {
-      "name": "Mystic Water",
-      "pct": 3.333
-    },
-    {
-      "name": "Lum Berry",
-      "pct": 3.333
-    },
-    {
-      "name": "Wacan Berry",
-      "pct": 1.852
-    },
-    {
-      "name": "Quick Claw",
-      "pct": 0.741
-    },
-    {
-      "name": "Bright Powder",
-      "pct": 0.741
-    },
-    {
-      "name": "Rindo Berry",
-      "pct": 0.741
-    },
-    {
-      "name": "mistic water",
-      "pct": 0.37
-    },
-    {
-      "name": "Choice Scarf",
-      "pct": 0.37
+      "pct": 35.714
     }
   ],
   "abilities": [
     {
       "name": "Competitive",
-      "pct": 96.296
+      "pct": 92.857
     },
     {
       "name": "Marvel Scale",
-      "pct": 3.333
-    },
-    {
-      "name": "Cute Charm",
-      "pct": 0.37
+      "pct": 7.143
     }
   ],
   "teammates": [
     {
-      "name": "Incineroar",
-      "pct": 52.963
+      "name": "Sinistcha",
+      "pct": 42.857
     },
     {
-      "name": "Garchomp",
-      "pct": 50.0
+      "name": "Grimmsnarl",
+      "pct": 28.571
+    },
+    {
+      "name": "Incineroar",
+      "pct": 28.571
     },
     {
       "name": "Sneasler",
-      "pct": 37.407
+      "pct": 28.571
     },
     {
-      "name": "Charizard",
-      "pct": 36.667
+      "name": "Metagross-Mega",
+      "pct": 21.429
     },
     {
-      "name": "Sinistcha",
-      "pct": 30.37
-    },
-    {
-      "name": "Venusaur",
-      "pct": 25.185
+      "name": "Garchomp",
+      "pct": 21.429
     }
   ]
 }

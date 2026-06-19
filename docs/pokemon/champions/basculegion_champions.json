@@ -1,134 +1,110 @@
 {
   "name": "Basculegion",
-  "fetched": "2026-04-14",
+  "fetched": "2026-06-18",
   "source": "pikalytics_champions",
   "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Basculegion",
   "moves": [
     {
       "name": "Last Respects",
-      "pct": 97.606
-    },
-    {
-      "name": "Wave Crash",
-      "pct": 94.225
+      "pct": 100.0
     },
     {
       "name": "Aqua Jet",
-      "pct": 86.338
+      "pct": 91.667
+    },
+    {
+      "name": "Wave Crash",
+      "pct": 84.722
     },
     {
       "name": "Flip Turn",
-      "pct": 74.085
+      "pct": 51.389
     },
     {
       "name": "Protect",
-      "pct": 28.31
+      "pct": 50.0
     },
     {
       "name": "Liquidation",
-      "pct": 4.507
-    },
-    {
-      "name": "Icy Wind",
-      "pct": 3.38
+      "pct": 13.889
     },
     {
       "name": "Ice Fang",
-      "pct": 1.69
+      "pct": 2.778
     },
     {
-      "name": "Phantom Force",
-      "pct": 1.549
+      "name": "Head Smash",
+      "pct": 2.778
     },
     {
-      "name": "Shadow Ball",
-      "pct": 1.549
+      "name": "Scary Face",
+      "pct": 1.389
+    },
+    {
+      "name": "Muddy Water",
+      "pct": 1.389
     }
   ],
   "items": [
     {
       "name": "Choice Scarf",
-      "pct": 65.493
+      "pct": 47.222
     },
     {
       "name": "Mystic Water",
-      "pct": 27.324
-    },
-    {
-      "name": "Focus Sash",
-      "pct": 2.817
-    },
-    {
-      "name": "White Herb",
-      "pct": 0.986
-    },
-    {
-      "name": "Sitrus Berry",
-      "pct": 0.704
-    },
-    {
-      "name": "Spell Tag",
-      "pct": 0.563
-    },
-    {
-      "name": "Lum Berry",
-      "pct": 0.563
-    },
-    {
-      "name": "Leftovers",
-      "pct": 0.423
+      "pct": 16.667
     },
     {
       "name": "Life Orb",
-      "pct": 0.282
+      "pct": 13.889
+    },
+    {
+      "name": "Focus Sash",
+      "pct": 13.889
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 5.556
     },
     {
       "name": "Colbur Berry",
-      "pct": 0.282
+      "pct": 2.778
     }
   ],
   "abilities": [
     {
       "name": "Adaptability",
-      "pct": 68.31
+      "pct": 84.722
     },
     {
       "name": "Swift Swim",
-      "pct": 31.408
-    },
-    {
-      "name": "Adapdability",
-      "pct": 0.141
-    },
-    {
-      "name": "swift Swin",
-      "pct": 0.141
+      "pct": 15.278
     }
   ],
   "teammates": [
     {
-      "name": "Sneasler",
-      "pct": 52.535
-    },
-    {
-      "name": "Incineroar",
-      "pct": 51.268
-    },
-    {
-      "name": "Pelipper",
-      "pct": 45.07
-    },
-    {
-      "name": "Archaludon",
-      "pct": 34.366
-    },
-    {
-      "name": "Sinistcha",
-      "pct": 34.225
+      "name": "Whimsicott",
+      "pct": 37.5
     },
     {
       "name": "Kingambit",
-      "pct": 30.845
+      "pct": 34.722
+    },
+    {
+      "name": "Garchomp",
+      "pct": 34.722
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 29.167
+    },
+    {
+      "name": "Sneasler",
+      "pct": 25.0
+    },
+    {
+      "name": "Incineroar",
+      "pct": 23.611
     }
   ]
 }

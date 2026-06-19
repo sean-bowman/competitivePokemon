@@ -1,0 +1,98 @@
+{
+  "name": "Venusaur",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Venusaur",
+  "moves": [
+    {
+      "name": "Sludge Bomb",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 83.333
+    },
+    {
+      "name": "Sleep Powder",
+      "pct": 75.0
+    },
+    {
+      "name": "Earth Power",
+      "pct": 58.333
+    },
+    {
+      "name": "Energy Ball",
+      "pct": 41.667
+    },
+    {
+      "name": "Giga Drain",
+      "pct": 16.667
+    },
+    {
+      "name": "Solar Beam",
+      "pct": 8.333
+    },
+    {
+      "name": "Weather Ball",
+      "pct": 8.333
+    },
+    {
+      "name": "Leaf Storm",
+      "pct": 8.333
+    }
+  ],
+  "items": [
+    {
+      "name": "Focus Sash",
+      "pct": 58.333
+    },
+    {
+      "name": "Sitrus Berry",
+      "pct": 16.667
+    },
+    {
+      "name": "Wide Lens",
+      "pct": 8.333
+    },
+    {
+      "name": "Big Root",
+      "pct": 8.333
+    },
+    {
+      "name": "Occa Berry",
+      "pct": 8.333
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Charizard-Mega-Y",
+      "pct": 91.667
+    },
+    {
+      "name": "Garchomp",
+      "pct": 66.667
+    },
+    {
+      "name": "Incineroar",
+      "pct": 50.0
+    },
+    {
+      "name": "Farigiraf",
+      "pct": 25.0
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 16.667
+    },
+    {
+      "name": "Torkoal",
+      "pct": 16.667
+    }
+  ]
+}

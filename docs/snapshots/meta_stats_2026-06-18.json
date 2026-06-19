@@ -1,0 +1,4469 @@
+{
+  "source": "https://www.pikalytics.com/champions",
+  "fetched": "2026-06-18",
+  "format": "Pokemon Champions \u2014 Double Battles",
+  "pokemon": [
+    {
+      "rank": "1",
+      "name": "Sinistcha",
+      "usage_pct": 38.73,
+      "win_rate": 51.393,
+      "record": "7005-6625-5",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Sinistcha",
+      "pokemon_key": "Sinistcha",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sinistcha",
+      "moves": [
+        {
+          "name": "Matcha Gotcha",
+          "pct": 99.091
+        },
+        {
+          "name": "Rage Powder",
+          "pct": 97.273
+        },
+        {
+          "name": "Trick Room",
+          "pct": 70.0
+        },
+        {
+          "name": "Protect",
+          "pct": 50.0
+        },
+        {
+          "name": "Life Dew",
+          "pct": 49.091
+        },
+        {
+          "name": "Strength Sap",
+          "pct": 18.182
+        },
+        {
+          "name": "Shadow Ball",
+          "pct": 7.273
+        },
+        {
+          "name": "Imprison",
+          "pct": 3.636
+        },
+        {
+          "name": "Grassy Terrain",
+          "pct": 1.818
+        }
+      ],
+      "items": [
+        {
+          "name": "Sitrus Berry",
+          "pct": 35.455
+        },
+        {
+          "name": "Kasib Berry",
+          "pct": 30.0
+        },
+        {
+          "name": "Colbur Berry",
+          "pct": 10.0
+        },
+        {
+          "name": "Leftovers",
+          "pct": 9.091
+        },
+        {
+          "name": "Coba Berry",
+          "pct": 5.455
+        },
+        {
+          "name": "Occa Berry",
+          "pct": 5.455
+        },
+        {
+          "name": "Miracle Seed",
+          "pct": 1.818
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Hospitality",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Incineroar",
+          "pct": 43.636
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 34.545
+        },
+        {
+          "name": "Grimmsnarl",
+          "pct": 30.909
+        },
+        {
+          "name": "Archaludon",
+          "pct": 22.727
+        },
+        {
+          "name": "Swampert-Mega",
+          "pct": 20.909
+        },
+        {
+          "name": "Pelipper",
+          "pct": 20.909
+        }
+      ]
+    },
+    {
+      "rank": "2",
+      "name": "Garchomp",
+      "usage_pct": 31.34,
+      "win_rate": 53.916,
+      "record": "12357-10561-11",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Garchomp",
+      "pokemon_key": "Garchomp",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Garchomp",
+      "moves": [
+        {
+          "name": "Dragon Claw",
+          "pct": 92.135
+        },
+        {
+          "name": "Earthquake",
+          "pct": 87.64
+        },
+        {
+          "name": "Rock Slide",
+          "pct": 82.022
+        },
+        {
+          "name": "Protect",
+          "pct": 76.404
+        },
+        {
+          "name": "Stomping Tantrum",
+          "pct": 39.326
+        },
+        {
+          "name": "Poison Jab",
+          "pct": 11.236
+        },
+        {
+          "name": "Rock Tomb",
+          "pct": 3.371
+        },
+        {
+          "name": "Scale Shot",
+          "pct": 2.247
+        },
+        {
+          "name": "Stone Edge",
+          "pct": 2.247
+        },
+        {
+          "name": "Outrage",
+          "pct": 1.124
+        }
+      ],
+      "items": [
+        {
+          "name": "Life Orb",
+          "pct": 58.427
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 15.73
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 10.112
+        },
+        {
+          "name": "Soft Sand",
+          "pct": 6.742
+        },
+        {
+          "name": "White Herb",
+          "pct": 2.247
+        },
+        {
+          "name": "Muscle Band",
+          "pct": 2.247
+        },
+        {
+          "name": "Leftovers",
+          "pct": 1.124
+        },
+        {
+          "name": "Metronome",
+          "pct": 1.124
+        },
+        {
+          "name": "Roseli Berry",
+          "pct": 1.124
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 1.124
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Rough Skin",
+          "pct": 98.876
+        },
+        {
+          "name": "Sand Veil",
+          "pct": 1.124
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Charizard-Mega-Y",
+          "pct": 37.079
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 33.708
+        },
+        {
+          "name": "Kingambit",
+          "pct": 29.213
+        },
+        {
+          "name": "Basculegion",
+          "pct": 28.09
+        },
+        {
+          "name": "Incineroar",
+          "pct": 28.09
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 24.719
+        }
+      ]
+    },
+    {
+      "rank": "3",
+      "name": "Incineroar",
+      "usage_pct": 29.93,
+      "win_rate": 52.959,
+      "record": "9776-8683-11",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Incineroar",
+      "pokemon_key": "Incineroar",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Incineroar",
+      "moves": [
+        {
+          "name": "Parting Shot",
+          "pct": 100.0
+        },
+        {
+          "name": "Fake Out",
+          "pct": 98.824
+        },
+        {
+          "name": "Flare Blitz",
+          "pct": 97.647
+        },
+        {
+          "name": "Throat Chop",
+          "pct": 60.0
+        },
+        {
+          "name": "Darkest Lariat",
+          "pct": 23.529
+        },
+        {
+          "name": "Protect",
+          "pct": 8.235
+        },
+        {
+          "name": "Helping Hand",
+          "pct": 3.529
+        },
+        {
+          "name": "Will-O-Wisp",
+          "pct": 3.529
+        },
+        {
+          "name": "Taunt",
+          "pct": 2.353
+        },
+        {
+          "name": "Temper Flare",
+          "pct": 1.176
+        }
+      ],
+      "items": [
+        {
+          "name": "Sitrus Berry",
+          "pct": 63.529
+        },
+        {
+          "name": "Passho Berry",
+          "pct": 18.824
+        },
+        {
+          "name": "Chople Berry",
+          "pct": 11.765
+        },
+        {
+          "name": "Leftovers",
+          "pct": 4.706
+        },
+        {
+          "name": "Charcoal",
+          "pct": 1.176
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Intimidate",
+          "pct": 97.647
+        },
+        {
+          "name": "Blaze",
+          "pct": 2.353
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 56.471
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 30.588
+        },
+        {
+          "name": "Garchomp",
+          "pct": 29.412
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 28.235
+        },
+        {
+          "name": "Floette-Eternal-Mega",
+          "pct": 23.529
+        },
+        {
+          "name": "Gholdengo",
+          "pct": 22.353
+        }
+      ]
+    },
+    {
+      "rank": "4",
+      "name": "Whimsicott",
+      "usage_pct": 26.76,
+      "win_rate": 53.278,
+      "record": "6693-5869-7",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Whimsicott",
+      "pokemon_key": "Whimsicott",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Whimsicott",
+      "moves": [
+        {
+          "name": "Tailwind",
+          "pct": 100.0
+        },
+        {
+          "name": "Moonblast",
+          "pct": 93.421
+        },
+        {
+          "name": "Protect",
+          "pct": 67.105
+        },
+        {
+          "name": "Encore",
+          "pct": 65.789
+        },
+        {
+          "name": "Charm",
+          "pct": 18.421
+        },
+        {
+          "name": "Fake Tears",
+          "pct": 13.158
+        },
+        {
+          "name": "Tickle",
+          "pct": 9.211
+        },
+        {
+          "name": "Sunny Day",
+          "pct": 9.211
+        },
+        {
+          "name": "Light Screen",
+          "pct": 6.579
+        },
+        {
+          "name": "Taunt",
+          "pct": 5.263
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 67.105
+        },
+        {
+          "name": "Fairy Feather",
+          "pct": 14.474
+        },
+        {
+          "name": "Coba Berry",
+          "pct": 11.842
+        },
+        {
+          "name": "Mental Herb",
+          "pct": 2.632
+        },
+        {
+          "name": "Life Orb",
+          "pct": 1.316
+        },
+        {
+          "name": "Occa Berry",
+          "pct": 1.316
+        },
+        {
+          "name": "Leftovers",
+          "pct": 1.316
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Prankster",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Garchomp",
+          "pct": 39.474
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 38.158
+        },
+        {
+          "name": "Basculegion",
+          "pct": 35.526
+        },
+        {
+          "name": "Incineroar",
+          "pct": 31.579
+        },
+        {
+          "name": "Kingambit",
+          "pct": 28.947
+        },
+        {
+          "name": "Charizard-Mega-Y",
+          "pct": 28.947
+        }
+      ]
+    },
+    {
+      "rank": "5",
+      "name": "Basculegion",
+      "usage_pct": 25.35,
+      "win_rate": 54.47,
+      "record": "13922-11636-10",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Basculegion",
+      "pokemon_key": "Basculegion",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Basculegion",
+      "moves": [
+        {
+          "name": "Last Respects",
+          "pct": 100.0
+        },
+        {
+          "name": "Aqua Jet",
+          "pct": 91.667
+        },
+        {
+          "name": "Wave Crash",
+          "pct": 84.722
+        },
+        {
+          "name": "Flip Turn",
+          "pct": 51.389
+        },
+        {
+          "name": "Protect",
+          "pct": 50.0
+        },
+        {
+          "name": "Liquidation",
+          "pct": 13.889
+        },
+        {
+          "name": "Ice Fang",
+          "pct": 2.778
+        },
+        {
+          "name": "Head Smash",
+          "pct": 2.778
+        },
+        {
+          "name": "Scary Face",
+          "pct": 1.389
+        },
+        {
+          "name": "Muddy Water",
+          "pct": 1.389
+        }
+      ],
+      "items": [
+        {
+          "name": "Choice Scarf",
+          "pct": 47.222
+        },
+        {
+          "name": "Mystic Water",
+          "pct": 16.667
+        },
+        {
+          "name": "Life Orb",
+          "pct": 13.889
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 13.889
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 5.556
+        },
+        {
+          "name": "Colbur Berry",
+          "pct": 2.778
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Adaptability",
+          "pct": 84.722
+        },
+        {
+          "name": "Swift Swim",
+          "pct": 15.278
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Whimsicott",
+          "pct": 37.5
+        },
+        {
+          "name": "Kingambit",
+          "pct": 34.722
+        },
+        {
+          "name": "Garchomp",
+          "pct": 34.722
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 29.167
+        },
+        {
+          "name": "Sneasler",
+          "pct": 25.0
+        },
+        {
+          "name": "Incineroar",
+          "pct": 23.611
+        }
+      ]
+    },
+    {
+      "rank": "6",
+      "name": "Kingambit",
+      "usage_pct": 23.94,
+      "win_rate": 55.824,
+      "record": "13654-10804-10",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Kingambit",
+      "pokemon_key": "Kingambit",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Kingambit",
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "pct": 98.529
+        },
+        {
+          "name": "Kowtow Cleave",
+          "pct": 94.118
+        },
+        {
+          "name": "Iron Head",
+          "pct": 76.471
+        },
+        {
+          "name": "Protect",
+          "pct": 72.059
+        },
+        {
+          "name": "Low Kick",
+          "pct": 30.882
+        },
+        {
+          "name": "Swords Dance",
+          "pct": 17.647
+        },
+        {
+          "name": "Brick Break",
+          "pct": 2.941
+        },
+        {
+          "name": "Assurance",
+          "pct": 2.941
+        },
+        {
+          "name": "Stealth Rock",
+          "pct": 1.471
+        },
+        {
+          "name": "Rock Tomb",
+          "pct": 1.471
+        }
+      ],
+      "items": [
+        {
+          "name": "Black Glasses",
+          "pct": 42.647
+        },
+        {
+          "name": "Chople Berry",
+          "pct": 26.471
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 10.294
+        },
+        {
+          "name": "Life Orb",
+          "pct": 8.824
+        },
+        {
+          "name": "Occa Berry",
+          "pct": 5.882
+        },
+        {
+          "name": "Black Belt",
+          "pct": 1.471
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 1.471
+        },
+        {
+          "name": "Expert Belt",
+          "pct": 1.471
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 1.471
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Defiant",
+          "pct": 97.059
+        },
+        {
+          "name": "Supreme Overlord",
+          "pct": 2.941
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Garchomp",
+          "pct": 38.235
+        },
+        {
+          "name": "Basculegion",
+          "pct": 36.765
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 32.353
+        },
+        {
+          "name": "Sneasler",
+          "pct": 25.0
+        },
+        {
+          "name": "Charizard-Mega-Y",
+          "pct": 22.059
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 22.059
+        }
+      ]
+    },
+    {
+      "rank": "7",
+      "name": "Staraptor-Mega",
+      "usage_pct": 23.94,
+      "win_rate": 46.619,
+      "record": "131-150",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Staraptor-Mega",
+      "pokemon_key": "Staraptor-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Staraptor-Mega",
+      "moves": [
+        {
+          "name": "Close Combat",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 98.529
+        },
+        {
+          "name": "Brave Bird",
+          "pct": 92.647
+        },
+        {
+          "name": "Roost",
+          "pct": 64.706
+        },
+        {
+          "name": "Tailwind",
+          "pct": 20.588
+        },
+        {
+          "name": "Dual Wingbeat",
+          "pct": 10.294
+        },
+        {
+          "name": "Blaze Kick",
+          "pct": 4.412
+        },
+        {
+          "name": "Quick Attack",
+          "pct": 2.941
+        },
+        {
+          "name": "U-turn",
+          "pct": 2.941
+        },
+        {
+          "name": "Substitute",
+          "pct": 1.471
+        }
+      ],
+      "items": [
+        {
+          "name": "Staraptite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Intimidate",
+          "pct": 95.588
+        },
+        {
+          "name": "Reckless",
+          "pct": 1.471
+        },
+        {
+          "name": "Contrary",
+          "pct": 1.471
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 55.882
+        },
+        {
+          "name": "Grimmsnarl",
+          "pct": 44.118
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 42.647
+        },
+        {
+          "name": "Incineroar",
+          "pct": 38.235
+        },
+        {
+          "name": "Garchomp",
+          "pct": 32.353
+        },
+        {
+          "name": "Gholdengo",
+          "pct": 23.529
+        }
+      ]
+    },
+    {
+      "rank": "8",
+      "name": "Sneasler",
+      "usage_pct": 21.83,
+      "win_rate": 52.243,
+      "record": "10150-9278-9",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Sneasler",
+      "pokemon_key": "Sneasler",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sneasler",
+      "moves": [
+        {
+          "name": "Close Combat",
+          "pct": 100.0
+        },
+        {
+          "name": "Fake Out",
+          "pct": 96.774
+        },
+        {
+          "name": "Dire Claw",
+          "pct": 96.774
+        },
+        {
+          "name": "Protect",
+          "pct": 72.581
+        },
+        {
+          "name": "Coaching",
+          "pct": 16.129
+        },
+        {
+          "name": "Quick Guard",
+          "pct": 4.839
+        },
+        {
+          "name": "Gunk Shot",
+          "pct": 3.226
+        },
+        {
+          "name": "Throat Chop",
+          "pct": 3.226
+        },
+        {
+          "name": "U-turn",
+          "pct": 1.613
+        },
+        {
+          "name": "Acrobatics",
+          "pct": 1.613
+        }
+      ],
+      "items": [
+        {
+          "name": "White Herb",
+          "pct": 72.581
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 27.419
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Unburden",
+          "pct": 88.71
+        },
+        {
+          "name": "Poison Touch",
+          "pct": 9.677
+        },
+        {
+          "name": "Pressure",
+          "pct": 1.613
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 35.484
+        },
+        {
+          "name": "Basculegion",
+          "pct": 29.032
+        },
+        {
+          "name": "Incineroar",
+          "pct": 29.032
+        },
+        {
+          "name": "Kingambit",
+          "pct": 27.419
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 22.581
+        },
+        {
+          "name": "Pelipper",
+          "pct": 20.968
+        }
+      ]
+    },
+    {
+      "rank": "9",
+      "name": "Pelipper",
+      "usage_pct": 18.31,
+      "win_rate": 50.371,
+      "record": "2985-2941-2",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Pelipper",
+      "pokemon_key": "Pelipper",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Pelipper",
+      "moves": [
+        {
+          "name": "Hurricane",
+          "pct": 100.0
+        },
+        {
+          "name": "Weather Ball",
+          "pct": 92.308
+        },
+        {
+          "name": "Tailwind",
+          "pct": 88.462
+        },
+        {
+          "name": "Wide Guard",
+          "pct": 67.308
+        },
+        {
+          "name": "Protect",
+          "pct": 38.462
+        },
+        {
+          "name": "Helping Hand",
+          "pct": 3.846
+        },
+        {
+          "name": "Ice Beam",
+          "pct": 1.923
+        },
+        {
+          "name": "Surf",
+          "pct": 1.923
+        },
+        {
+          "name": "Soak",
+          "pct": 1.923
+        },
+        {
+          "name": "U-turn",
+          "pct": 1.923
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 38.462
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 32.692
+        },
+        {
+          "name": "Damp Rock",
+          "pct": 13.462
+        },
+        {
+          "name": "Life Orb",
+          "pct": 7.692
+        },
+        {
+          "name": "Leftovers",
+          "pct": 3.846
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 1.923
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 1.923
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Drizzle",
+          "pct": 98.077
+        },
+        {
+          "name": "Rain Dish",
+          "pct": 1.923
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Archaludon",
+          "pct": 76.923
+        },
+        {
+          "name": "Swampert-Mega",
+          "pct": 73.077
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 44.231
+        },
+        {
+          "name": "Sneasler",
+          "pct": 25.0
+        },
+        {
+          "name": "Basculegion",
+          "pct": 25.0
+        },
+        {
+          "name": "Sableye",
+          "pct": 23.077
+        }
+      ]
+    },
+    {
+      "rank": "10",
+      "name": "Grimmsnarl",
+      "usage_pct": 18.31,
+      "win_rate": 45.894,
+      "record": "95-112",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Grimmsnarl",
+      "pokemon_key": "Grimmsnarl",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Grimmsnarl",
+      "moves": [
+        {
+          "name": "Light Screen",
+          "pct": 92.308
+        },
+        {
+          "name": "Reflect",
+          "pct": 82.692
+        },
+        {
+          "name": "Parting Shot",
+          "pct": 76.923
+        },
+        {
+          "name": "Spirit Break",
+          "pct": 73.077
+        },
+        {
+          "name": "Foul Play",
+          "pct": 19.231
+        },
+        {
+          "name": "Fake Out",
+          "pct": 19.231
+        },
+        {
+          "name": "Scary Face",
+          "pct": 15.385
+        },
+        {
+          "name": "Taunt",
+          "pct": 5.769
+        },
+        {
+          "name": "Sucker Punch",
+          "pct": 3.846
+        },
+        {
+          "name": "Fake Tears",
+          "pct": 3.846
+        }
+      ],
+      "items": [
+        {
+          "name": "Light Clay",
+          "pct": 90.385
+        },
+        {
+          "name": "Leftovers",
+          "pct": 1.923
+        },
+        {
+          "name": "Mental Herb",
+          "pct": 1.923
+        },
+        {
+          "name": "Babiri Berry",
+          "pct": 1.923
+        },
+        {
+          "name": "Roseli Berry",
+          "pct": 1.923
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 1.923
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Prankster",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 65.385
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 57.692
+        },
+        {
+          "name": "Gholdengo",
+          "pct": 30.769
+        },
+        {
+          "name": "Incineroar",
+          "pct": 28.846
+        },
+        {
+          "name": "Garchomp",
+          "pct": 25.0
+        },
+        {
+          "name": "Metagross-Mega",
+          "pct": 21.154
+        }
+      ]
+    },
+    {
+      "rank": "11",
+      "name": "Gholdengo",
+      "usage_pct": 16.9,
+      "win_rate": 38.889,
+      "record": "70-110",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Gholdengo",
+      "pokemon_key": "Gholdengo",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Gholdengo",
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "pct": 100.0
+        },
+        {
+          "name": "Make It Rain",
+          "pct": 97.917
+        },
+        {
+          "name": "Protect",
+          "pct": 77.083
+        },
+        {
+          "name": "Nasty Plot",
+          "pct": 66.667
+        },
+        {
+          "name": "Power Gem",
+          "pct": 29.167
+        },
+        {
+          "name": "Trick",
+          "pct": 14.583
+        },
+        {
+          "name": "Flash Cannon",
+          "pct": 4.167
+        },
+        {
+          "name": "Thunderbolt",
+          "pct": 2.083
+        },
+        {
+          "name": "Psychic",
+          "pct": 2.083
+        },
+        {
+          "name": "Dazzling Gleam",
+          "pct": 2.083
+        }
+      ],
+      "items": [
+        {
+          "name": "Life Orb",
+          "pct": 39.583
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 20.833
+        },
+        {
+          "name": "Metal Coat",
+          "pct": 14.583
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 6.25
+        },
+        {
+          "name": "Leftovers",
+          "pct": 6.25
+        },
+        {
+          "name": "White Herb",
+          "pct": 4.167
+        },
+        {
+          "name": "Wise Glasses",
+          "pct": 4.167
+        },
+        {
+          "name": "Wide Lens",
+          "pct": 2.083
+        },
+        {
+          "name": "Quick Claw",
+          "pct": 2.083
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Good as Gold",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 45.833
+        },
+        {
+          "name": "Incineroar",
+          "pct": 39.583
+        },
+        {
+          "name": "Grimmsnarl",
+          "pct": 33.333
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 33.333
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 29.167
+        },
+        {
+          "name": "Garchomp",
+          "pct": 22.917
+        }
+      ]
+    },
+    {
+      "rank": "12",
+      "name": "Archaludon",
+      "usage_pct": 16.2,
+      "win_rate": 51.041,
+      "record": "3946-3785-4",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Archaludon",
+      "pokemon_key": "Archaludon",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Archaludon",
+      "moves": [
+        {
+          "name": "Electro Shot",
+          "pct": 97.826
+        },
+        {
+          "name": "Flash Cannon",
+          "pct": 95.652
+        },
+        {
+          "name": "Protect",
+          "pct": 91.304
+        },
+        {
+          "name": "Dragon Pulse",
+          "pct": 84.783
+        },
+        {
+          "name": "Draco Meteor",
+          "pct": 15.217
+        },
+        {
+          "name": "Aura Sphere",
+          "pct": 4.348
+        },
+        {
+          "name": "Sleep Talk",
+          "pct": 2.174
+        },
+        {
+          "name": "Breaking Swipe",
+          "pct": 2.174
+        },
+        {
+          "name": "Rest",
+          "pct": 2.174
+        },
+        {
+          "name": "Hard Press",
+          "pct": 2.174
+        }
+      ],
+      "items": [
+        {
+          "name": "Leftovers",
+          "pct": 84.783
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 4.348
+        },
+        {
+          "name": "Life Orb",
+          "pct": 4.348
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 2.174
+        },
+        {
+          "name": "Metronome",
+          "pct": 2.174
+        },
+        {
+          "name": "White Herb",
+          "pct": 2.174
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Stamina",
+          "pct": 86.957
+        },
+        {
+          "name": "Stalwart",
+          "pct": 6.522
+        },
+        {
+          "name": "Sturdy",
+          "pct": 6.522
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Pelipper",
+          "pct": 86.957
+        },
+        {
+          "name": "Swampert-Mega",
+          "pct": 71.739
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 54.348
+        },
+        {
+          "name": "Sableye",
+          "pct": 30.435
+        },
+        {
+          "name": "Basculegion",
+          "pct": 23.913
+        },
+        {
+          "name": "Sneasler",
+          "pct": 19.565
+        }
+      ]
+    },
+    {
+      "rank": "13",
+      "name": "Swampert-Mega",
+      "usage_pct": 15.14,
+      "win_rate": 46.961,
+      "record": "85-96",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Swampert-Mega",
+      "pokemon_key": "Swampert-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Swampert-Mega",
+      "moves": [
+        {
+          "name": "Protect",
+          "pct": 97.674
+        },
+        {
+          "name": "Wave Crash",
+          "pct": 93.023
+        },
+        {
+          "name": "Ice Punch",
+          "pct": 58.14
+        },
+        {
+          "name": "Earthquake",
+          "pct": 55.814
+        },
+        {
+          "name": "High Horsepower",
+          "pct": 41.86
+        },
+        {
+          "name": "Knock Off",
+          "pct": 11.628
+        },
+        {
+          "name": "Stomping Tantrum",
+          "pct": 9.302
+        },
+        {
+          "name": "Rock Slide",
+          "pct": 6.977
+        },
+        {
+          "name": "Flip Turn",
+          "pct": 6.977
+        },
+        {
+          "name": "Liquidation",
+          "pct": 4.651
+        }
+      ],
+      "items": [
+        {
+          "name": "Swampertite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Torrent",
+          "pct": 60.465
+        },
+        {
+          "name": "Damp",
+          "pct": 32.558
+        },
+        {
+          "name": "Swift Swim",
+          "pct": 6.977
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Pelipper",
+          "pct": 88.372
+        },
+        {
+          "name": "Archaludon",
+          "pct": 76.744
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 53.488
+        },
+        {
+          "name": "Sableye",
+          "pct": 30.233
+        },
+        {
+          "name": "Annihilape",
+          "pct": 20.93
+        },
+        {
+          "name": "Incineroar",
+          "pct": 20.93
+        }
+      ]
+    },
+    {
+      "rank": "14",
+      "name": "Charizard-Mega-Y",
+      "usage_pct": 15.14,
+      "win_rate": 54.381,
+      "record": "8820-7398-10",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Charizard-Mega-Y",
+      "pokemon_key": "Charizard-Mega-Y",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Charizard-Mega-Y",
+      "moves": [
+        {
+          "name": "Heat Wave",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 100.0
+        },
+        {
+          "name": "Solar Beam",
+          "pct": 97.674
+        },
+        {
+          "name": "Weather Ball",
+          "pct": 93.023
+        },
+        {
+          "name": "Air Slash",
+          "pct": 4.651
+        },
+        {
+          "name": "Dragon Pulse",
+          "pct": 2.326
+        },
+        {
+          "name": "Blast Burn",
+          "pct": 2.326
+        }
+      ],
+      "items": [
+        {
+          "name": "Charizardite Y",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Blaze",
+          "pct": 55.814
+        },
+        {
+          "name": "Solar Power",
+          "pct": 32.558
+        },
+        {
+          "name": "Drought",
+          "pct": 11.628
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Garchomp",
+          "pct": 76.744
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 51.163
+        },
+        {
+          "name": "Basculegion",
+          "pct": 34.884
+        },
+        {
+          "name": "Kingambit",
+          "pct": 34.884
+        },
+        {
+          "name": "Incineroar",
+          "pct": 27.907
+        },
+        {
+          "name": "Venusaur",
+          "pct": 25.581
+        }
+      ]
+    },
+    {
+      "rank": "15",
+      "name": "Metagross-Mega",
+      "usage_pct": 13.73,
+      "win_rate": 51.829,
+      "record": "85-79",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Metagross-Mega",
+      "pokemon_key": "Metagross-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Metagross-Mega",
+      "moves": [
+        {
+          "name": "Protect",
+          "pct": 92.308
+        },
+        {
+          "name": "Psychic Fangs",
+          "pct": 92.308
+        },
+        {
+          "name": "Iron Head",
+          "pct": 56.41
+        },
+        {
+          "name": "Bullet Punch",
+          "pct": 41.026
+        },
+        {
+          "name": "Ice Punch",
+          "pct": 33.333
+        },
+        {
+          "name": "Stomping Tantrum",
+          "pct": 25.641
+        },
+        {
+          "name": "Meteor Mash",
+          "pct": 23.077
+        },
+        {
+          "name": "Rock Slide",
+          "pct": 12.821
+        },
+        {
+          "name": "Body Press",
+          "pct": 7.692
+        },
+        {
+          "name": "Thunder Punch",
+          "pct": 5.128
+        }
+      ],
+      "items": [
+        {
+          "name": "Metagrossite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Clear Body",
+          "pct": 97.436
+        },
+        {
+          "name": "Tough Claws",
+          "pct": 2.564
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 41.026
+        },
+        {
+          "name": "Garchomp",
+          "pct": 33.333
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 30.769
+        },
+        {
+          "name": "Grimmsnarl",
+          "pct": 28.205
+        },
+        {
+          "name": "Incineroar",
+          "pct": 28.205
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 25.641
+        }
+      ]
+    },
+    {
+      "rank": "16",
+      "name": "Farigiraf",
+      "usage_pct": 13.03,
+      "win_rate": 49.533,
+      "record": "3713-3783-2",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Farigiraf",
+      "pokemon_key": "Farigiraf",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Farigiraf",
+      "moves": [
+        {
+          "name": "Trick Room",
+          "pct": 97.297
+        },
+        {
+          "name": "Psychic",
+          "pct": 70.27
+        },
+        {
+          "name": "Protect",
+          "pct": 54.054
+        },
+        {
+          "name": "Helping Hand",
+          "pct": 48.649
+        },
+        {
+          "name": "Hyper Voice",
+          "pct": 35.135
+        },
+        {
+          "name": "Thunderbolt",
+          "pct": 24.324
+        },
+        {
+          "name": "Twin Beam",
+          "pct": 18.919
+        },
+        {
+          "name": "Roar",
+          "pct": 16.216
+        },
+        {
+          "name": "Imprison",
+          "pct": 10.811
+        },
+        {
+          "name": "Psychic Noise",
+          "pct": 5.405
+        }
+      ],
+      "items": [
+        {
+          "name": "Sitrus Berry",
+          "pct": 75.676
+        },
+        {
+          "name": "Colbur Berry",
+          "pct": 16.216
+        },
+        {
+          "name": "Mental Herb",
+          "pct": 5.405
+        },
+        {
+          "name": "Leftovers",
+          "pct": 2.703
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Armor Tail",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sylveon",
+          "pct": 40.541
+        },
+        {
+          "name": "Kingambit",
+          "pct": 40.541
+        },
+        {
+          "name": "Torkoal",
+          "pct": 27.027
+        },
+        {
+          "name": "Garchomp",
+          "pct": 27.027
+        },
+        {
+          "name": "Mawile-Mega",
+          "pct": 18.919
+        },
+        {
+          "name": "Charizard-Mega-Y",
+          "pct": 18.919
+        }
+      ]
+    },
+    {
+      "rank": "17",
+      "name": "Floette-Eternal-Mega",
+      "usage_pct": 11.62,
+      "win_rate": null,
+      "record": "N/A",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Floette-Eternal-Mega",
+      "pokemon_key": "Floette-Eternal-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Floette-Eternal-Mega",
+      "moves": [
+        {
+          "name": "Protect",
+          "pct": 100.0
+        },
+        {
+          "name": "Dazzling Gleam",
+          "pct": 96.97
+        },
+        {
+          "name": "Moonblast",
+          "pct": 81.818
+        },
+        {
+          "name": "Calm Mind",
+          "pct": 72.727
+        },
+        {
+          "name": "Light of Ruin",
+          "pct": 27.273
+        },
+        {
+          "name": "Draining Kiss",
+          "pct": 21.212
+        }
+      ],
+      "items": [
+        {
+          "name": "Floettite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Flower Veil",
+          "pct": 96.97
+        },
+        {
+          "name": "Fairy Aura",
+          "pct": 3.03
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 66.667
+        },
+        {
+          "name": "Incineroar",
+          "pct": 60.606
+        },
+        {
+          "name": "Garchomp",
+          "pct": 36.364
+        },
+        {
+          "name": "Kingambit",
+          "pct": 36.364
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 33.333
+        },
+        {
+          "name": "Basculegion",
+          "pct": 30.303
+        }
+      ]
+    },
+    {
+      "rank": "18",
+      "name": "Sylveon",
+      "usage_pct": 10.92,
+      "win_rate": 51.625,
+      "record": "3907-3661-1",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Sylveon",
+      "pokemon_key": "Sylveon",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sylveon",
+      "moves": [
+        {
+          "name": "Hyper Voice",
+          "pct": 100.0
+        },
+        {
+          "name": "Hyper Beam",
+          "pct": 80.645
+        },
+        {
+          "name": "Quick Attack",
+          "pct": 77.419
+        },
+        {
+          "name": "Detect",
+          "pct": 54.839
+        },
+        {
+          "name": "Protect",
+          "pct": 41.935
+        },
+        {
+          "name": "Yawn",
+          "pct": 12.903
+        },
+        {
+          "name": "Calm Mind",
+          "pct": 12.903
+        },
+        {
+          "name": "Moonblast",
+          "pct": 9.677
+        },
+        {
+          "name": "Baby-Doll Eyes",
+          "pct": 3.226
+        },
+        {
+          "name": "Shadow Ball",
+          "pct": 3.226
+        }
+      ],
+      "items": [
+        {
+          "name": "Fairy Feather",
+          "pct": 77.419
+        },
+        {
+          "name": "Life Orb",
+          "pct": 16.129
+        },
+        {
+          "name": "Leftovers",
+          "pct": 6.452
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Pixilate",
+          "pct": 93.548
+        },
+        {
+          "name": "Cute Charm",
+          "pct": 6.452
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Farigiraf",
+          "pct": 48.387
+        },
+        {
+          "name": "Garchomp",
+          "pct": 48.387
+        },
+        {
+          "name": "Kingambit",
+          "pct": 45.161
+        },
+        {
+          "name": "Basculegion",
+          "pct": 29.032
+        },
+        {
+          "name": "Metagross-Mega",
+          "pct": 25.806
+        },
+        {
+          "name": "Charizard-Mega-Y",
+          "pct": 25.806
+        }
+      ]
+    },
+    {
+      "rank": "19",
+      "name": "Maushold",
+      "usage_pct": 10.92,
+      "win_rate": 50.437,
+      "record": "1673-1644",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Maushold",
+      "pokemon_key": "Maushold",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Maushold",
+      "moves": [
+        {
+          "name": "Follow Me",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 93.548
+        },
+        {
+          "name": "Super Fang",
+          "pct": 74.194
+        },
+        {
+          "name": "Population Bomb",
+          "pct": 32.258
+        },
+        {
+          "name": "Beat Up",
+          "pct": 22.581
+        },
+        {
+          "name": "Encore",
+          "pct": 19.355
+        },
+        {
+          "name": "Helping Hand",
+          "pct": 12.903
+        },
+        {
+          "name": "Rain Dance",
+          "pct": 12.903
+        },
+        {
+          "name": "Charm",
+          "pct": 12.903
+        },
+        {
+          "name": "Taunt",
+          "pct": 12.903
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 38.71
+        },
+        {
+          "name": "Chople Berry",
+          "pct": 25.806
+        },
+        {
+          "name": "Wide Lens",
+          "pct": 22.581
+        },
+        {
+          "name": "Leftovers",
+          "pct": 9.677
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 3.226
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Friend Guard",
+          "pct": 87.097
+        },
+        {
+          "name": "Technician",
+          "pct": 12.903
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 32.258
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 32.258
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 32.258
+        },
+        {
+          "name": "Garchomp",
+          "pct": 29.032
+        },
+        {
+          "name": "Gholdengo",
+          "pct": 29.032
+        },
+        {
+          "name": "Annihilape",
+          "pct": 29.032
+        }
+      ]
+    },
+    {
+      "rank": "20",
+      "name": "Raichu-Mega-Y",
+      "usage_pct": 10.56,
+      "win_rate": 46.875,
+      "record": "60-68",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Raichu-Mega-Y",
+      "pokemon_key": "Raichu-Mega-Y",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Raichu-Mega-Y",
+      "moves": [
+        {
+          "name": "Zap Cannon",
+          "pct": 100.0
+        },
+        {
+          "name": "Focus Blast",
+          "pct": 93.333
+        },
+        {
+          "name": "Protect",
+          "pct": 66.667
+        },
+        {
+          "name": "Fake Out",
+          "pct": 50.0
+        },
+        {
+          "name": "Volt Switch",
+          "pct": 26.667
+        },
+        {
+          "name": "Dazzling Gleam",
+          "pct": 13.333
+        },
+        {
+          "name": "Nasty Plot",
+          "pct": 10.0
+        },
+        {
+          "name": "Surf",
+          "pct": 6.667
+        },
+        {
+          "name": "Alluring Voice",
+          "pct": 6.667
+        },
+        {
+          "name": "Fake Tears",
+          "pct": 3.333
+        }
+      ],
+      "items": [
+        {
+          "name": "Raichunite Y",
+          "pct": 76.667
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Lightning Rod",
+          "pct": 83.333
+        },
+        {
+          "name": "No Guard",
+          "pct": 13.333
+        },
+        {
+          "name": "Static",
+          "pct": 3.333
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Kingambit",
+          "pct": 36.667
+        },
+        {
+          "name": "Basculegion",
+          "pct": 33.333
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 30.0
+        },
+        {
+          "name": "Garchomp",
+          "pct": 30.0
+        },
+        {
+          "name": "Ninetales-Alola",
+          "pct": 26.667
+        },
+        {
+          "name": "Incineroar",
+          "pct": 26.667
+        }
+      ]
+    },
+    {
+      "rank": "21",
+      "name": "Rotom-Wash",
+      "usage_pct": 8.45,
+      "win_rate": 47.794,
+      "record": "2490-2720-3",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Rotom-Wash",
+      "pokemon_key": "Rotom-Wash",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Rotom-Wash",
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "pct": 100.0
+        },
+        {
+          "name": "Will-O-Wisp",
+          "pct": 79.167
+        },
+        {
+          "name": "Protect",
+          "pct": 75.0
+        },
+        {
+          "name": "Thunderbolt",
+          "pct": 70.833
+        },
+        {
+          "name": "Volt Switch",
+          "pct": 33.333
+        },
+        {
+          "name": "Electroweb",
+          "pct": 29.167
+        },
+        {
+          "name": "Trick",
+          "pct": 4.167
+        },
+        {
+          "name": "Discharge",
+          "pct": 4.167
+        },
+        {
+          "name": "Rest",
+          "pct": 4.167
+        }
+      ],
+      "items": [
+        {
+          "name": "Sitrus Berry",
+          "pct": 45.833
+        },
+        {
+          "name": "Leftovers",
+          "pct": 33.333
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 20.833
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Levitate",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Incineroar",
+          "pct": 50.0
+        },
+        {
+          "name": "Garchomp",
+          "pct": 50.0
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 41.667
+        },
+        {
+          "name": "Gholdengo",
+          "pct": 29.167
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 29.167
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 25.0
+        }
+      ]
+    },
+    {
+      "rank": "22",
+      "name": "Annihilape",
+      "usage_pct": 8.45,
+      "win_rate": 47.126,
+      "record": "41-46",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Annihilape",
+      "pokemon_key": "Annihilape",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Annihilape",
+      "moves": [
+        {
+          "name": "Rage Fist",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 83.333
+        },
+        {
+          "name": "Drain Punch",
+          "pct": 75.0
+        },
+        {
+          "name": "Bulk Up",
+          "pct": 50.0
+        },
+        {
+          "name": "Close Combat",
+          "pct": 29.167
+        },
+        {
+          "name": "Coaching",
+          "pct": 25.0
+        },
+        {
+          "name": "Taunt",
+          "pct": 12.5
+        },
+        {
+          "name": "U-turn",
+          "pct": 8.333
+        },
+        {
+          "name": "Focus Energy",
+          "pct": 4.167
+        },
+        {
+          "name": "Stealth Rock",
+          "pct": 4.167
+        }
+      ],
+      "items": [
+        {
+          "name": "Leftovers",
+          "pct": 33.333
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 16.667
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 12.5
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 12.5
+        },
+        {
+          "name": "Roseli Berry",
+          "pct": 8.333
+        },
+        {
+          "name": "Scope Lens",
+          "pct": 4.167
+        },
+        {
+          "name": "Life Orb",
+          "pct": 4.167
+        },
+        {
+          "name": "Lum Berry",
+          "pct": 4.167
+        },
+        {
+          "name": "Metronome",
+          "pct": 4.167
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Defiant",
+          "pct": 91.667
+        },
+        {
+          "name": "Inner Focus",
+          "pct": 4.167
+        },
+        {
+          "name": "Competitive",
+          "pct": 4.167
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Swampert-Mega",
+          "pct": 37.5
+        },
+        {
+          "name": "Maushold",
+          "pct": 37.5
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 33.333
+        },
+        {
+          "name": "Incineroar",
+          "pct": 29.167
+        },
+        {
+          "name": "Pelipper",
+          "pct": 29.167
+        },
+        {
+          "name": "Archaludon",
+          "pct": 25.0
+        }
+      ]
+    },
+    {
+      "rank": "23",
+      "name": "Sableye",
+      "usage_pct": 6.69,
+      "win_rate": 45.018,
+      "record": "1156-1412-1",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Sableye",
+      "pokemon_key": "Sableye",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sableye",
+      "moves": [
+        {
+          "name": "Light Screen",
+          "pct": 84.211
+        },
+        {
+          "name": "Rain Dance",
+          "pct": 78.947
+        },
+        {
+          "name": "Reflect",
+          "pct": 68.421
+        },
+        {
+          "name": "Will-O-Wisp",
+          "pct": 42.105
+        },
+        {
+          "name": "Encore",
+          "pct": 36.842
+        },
+        {
+          "name": "Foul Play",
+          "pct": 21.053
+        },
+        {
+          "name": "Fake Out",
+          "pct": 21.053
+        },
+        {
+          "name": "Thunder Wave",
+          "pct": 10.526
+        },
+        {
+          "name": "Quash",
+          "pct": 10.526
+        },
+        {
+          "name": "Detect",
+          "pct": 5.263
+        }
+      ],
+      "items": [
+        {
+          "name": "Roseli Berry",
+          "pct": 52.632
+        },
+        {
+          "name": "Light Clay",
+          "pct": 47.368
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Prankster",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Archaludon",
+          "pct": 73.684
+        },
+        {
+          "name": "Swampert-Mega",
+          "pct": 68.421
+        },
+        {
+          "name": "Pelipper",
+          "pct": 63.158
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 42.105
+        },
+        {
+          "name": "Basculegion",
+          "pct": 26.316
+        },
+        {
+          "name": "Annihilape",
+          "pct": 21.053
+        }
+      ]
+    },
+    {
+      "rank": "24",
+      "name": "Raichu-Mega-X",
+      "usage_pct": 6.34,
+      "win_rate": 38.235,
+      "record": "26-42",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Raichu-Mega-X",
+      "pokemon_key": "Raichu-Mega-X",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Raichu-Mega-X",
+      "moves": [
+        {
+          "name": "Fake Out",
+          "pct": 94.444
+        },
+        {
+          "name": "Protect",
+          "pct": 77.778
+        },
+        {
+          "name": "Volt Tackle",
+          "pct": 55.556
+        },
+        {
+          "name": "Volt Switch",
+          "pct": 44.444
+        },
+        {
+          "name": "Rising Voltage",
+          "pct": 38.889
+        },
+        {
+          "name": "Play Rough",
+          "pct": 27.778
+        },
+        {
+          "name": "Encore",
+          "pct": 16.667
+        },
+        {
+          "name": "Electroweb",
+          "pct": 11.111
+        },
+        {
+          "name": "Drain Punch",
+          "pct": 11.111
+        },
+        {
+          "name": "Charm",
+          "pct": 11.111
+        }
+      ],
+      "items": [
+        {
+          "name": "Raichunite X",
+          "pct": 83.333
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Lightning Rod",
+          "pct": 77.778
+        },
+        {
+          "name": "Static",
+          "pct": 22.222
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Pelipper",
+          "pct": 38.889
+        },
+        {
+          "name": "Archaludon",
+          "pct": 38.889
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 38.889
+        },
+        {
+          "name": "Incineroar",
+          "pct": 38.889
+        },
+        {
+          "name": "Basculegion",
+          "pct": 38.889
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 33.333
+        }
+      ]
+    },
+    {
+      "rank": "25",
+      "name": "Froslass-Mega",
+      "usage_pct": 6.34,
+      "win_rate": 55.899,
+      "record": "3211-2533-3",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Froslass-Mega",
+      "pokemon_key": "Froslass-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Froslass-Mega",
+      "moves": [
+        {
+          "name": "Blizzard",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 94.444
+        },
+        {
+          "name": "Shadow Ball",
+          "pct": 72.222
+        },
+        {
+          "name": "Aurora Veil",
+          "pct": 72.222
+        },
+        {
+          "name": "Weather Ball",
+          "pct": 11.111
+        },
+        {
+          "name": "Rain Dance",
+          "pct": 11.111
+        },
+        {
+          "name": "Haze",
+          "pct": 5.556
+        },
+        {
+          "name": "Disable",
+          "pct": 5.556
+        },
+        {
+          "name": "Substitute",
+          "pct": 5.556
+        },
+        {
+          "name": "Psychic",
+          "pct": 5.556
+        }
+      ],
+      "items": [
+        {
+          "name": "Froslassite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Cursed Body",
+          "pct": 83.333
+        },
+        {
+          "name": "Snow Cloak",
+          "pct": 16.667
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Kingambit",
+          "pct": 50.0
+        },
+        {
+          "name": "Sneasler",
+          "pct": 44.444
+        },
+        {
+          "name": "Garchomp",
+          "pct": 38.889
+        },
+        {
+          "name": "Arcanine-Hisui",
+          "pct": 33.333
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 27.778
+        },
+        {
+          "name": "Basculegion",
+          "pct": 22.222
+        }
+      ]
+    },
+    {
+      "rank": "26",
+      "name": "Glimmora",
+      "usage_pct": 5.99,
+      "win_rate": 52.145,
+      "record": "1907-1750-2",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Glimmora",
+      "pokemon_key": "Glimmora",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Glimmora",
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "pct": 100.0
+        },
+        {
+          "name": "Earth Power",
+          "pct": 100.0
+        },
+        {
+          "name": "Power Gem",
+          "pct": 100.0
+        },
+        {
+          "name": "Spiky Shield",
+          "pct": 94.118
+        },
+        {
+          "name": "Protect",
+          "pct": 5.882
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 94.118
+        },
+        {
+          "name": "Life Orb",
+          "pct": 5.882
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Toxic Debris",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Staraptor-Mega",
+          "pct": 64.706
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 64.706
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 58.824
+        },
+        {
+          "name": "Metagross-Mega",
+          "pct": 41.176
+        },
+        {
+          "name": "Grimmsnarl",
+          "pct": 35.294
+        },
+        {
+          "name": "Garchomp",
+          "pct": 35.294
+        }
+      ]
+    },
+    {
+      "rank": "27",
+      "name": "Tyranitar-Mega",
+      "usage_pct": 5.99,
+      "win_rate": 49.719,
+      "record": "2124-2148-2",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Tyranitar-Mega",
+      "pokemon_key": "Tyranitar-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Tyranitar-Mega",
+      "moves": [
+        {
+          "name": "Rock Slide",
+          "pct": 100.0
+        },
+        {
+          "name": "Knock Off",
+          "pct": 88.235
+        },
+        {
+          "name": "Protect",
+          "pct": 88.235
+        },
+        {
+          "name": "Low Kick",
+          "pct": 64.706
+        },
+        {
+          "name": "Ice Punch",
+          "pct": 23.529
+        },
+        {
+          "name": "Dragon Dance",
+          "pct": 17.647
+        },
+        {
+          "name": "Crunch",
+          "pct": 11.765
+        },
+        {
+          "name": "Stomping Tantrum",
+          "pct": 5.882
+        }
+      ],
+      "items": [
+        {
+          "name": "Tyranitarite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Sand Stream",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Corviknight",
+          "pct": 47.059
+        },
+        {
+          "name": "Excadrill",
+          "pct": 47.059
+        },
+        {
+          "name": "Rotom-Wash",
+          "pct": 35.294
+        },
+        {
+          "name": "Garchomp",
+          "pct": 29.412
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 29.412
+        },
+        {
+          "name": "Grimmsnarl",
+          "pct": 29.412
+        }
+      ]
+    },
+    {
+      "rank": "28",
+      "name": "Ninetales-Alola",
+      "usage_pct": 4.93,
+      "win_rate": 50.0,
+      "record": "1231-1231-1",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Ninetales-Alola",
+      "pokemon_key": "Ninetales-Alola",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Ninetales-Alola",
+      "moves": [
+        {
+          "name": "Blizzard",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 85.714
+        },
+        {
+          "name": "Aurora Veil",
+          "pct": 50.0
+        },
+        {
+          "name": "Freeze-Dry",
+          "pct": 42.857
+        },
+        {
+          "name": "Moonblast",
+          "pct": 35.714
+        },
+        {
+          "name": "Icy Wind",
+          "pct": 35.714
+        },
+        {
+          "name": "Encore",
+          "pct": 28.571
+        },
+        {
+          "name": "Charm",
+          "pct": 7.143
+        },
+        {
+          "name": "Weather Ball",
+          "pct": 7.143
+        },
+        {
+          "name": "Howl",
+          "pct": 7.143
+        }
+      ],
+      "items": [
+        {
+          "name": "Never-Melt Ice",
+          "pct": 28.571
+        },
+        {
+          "name": "Life Orb",
+          "pct": 21.429
+        },
+        {
+          "name": "Light Clay",
+          "pct": 14.286
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 14.286
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 14.286
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 7.143
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Snow Warning",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Raichu-Mega-Y",
+          "pct": 57.143
+        },
+        {
+          "name": "Garchomp",
+          "pct": 42.857
+        },
+        {
+          "name": "Metagross-Mega",
+          "pct": 35.714
+        },
+        {
+          "name": "Basculegion",
+          "pct": 35.714
+        },
+        {
+          "name": "Kingambit",
+          "pct": 28.571
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 28.571
+        }
+      ]
+    },
+    {
+      "rank": "29",
+      "name": "Aerodactyl-Mega",
+      "usage_pct": 4.93,
+      "win_rate": 53.908,
+      "record": "3226-2758-3",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Aerodactyl-Mega",
+      "pokemon_key": "Aerodactyl-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Aerodactyl-Mega",
+      "moves": [
+        {
+          "name": "Rock Slide",
+          "pct": 100.0
+        },
+        {
+          "name": "Dual Wingbeat",
+          "pct": 100.0
+        },
+        {
+          "name": "Tailwind",
+          "pct": 92.857
+        },
+        {
+          "name": "Protect",
+          "pct": 64.286
+        },
+        {
+          "name": "Ice Fang",
+          "pct": 35.714
+        },
+        {
+          "name": "Wide Guard",
+          "pct": 7.143
+        }
+      ],
+      "items": [
+        {
+          "name": "Aerodactylite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Unnerve",
+          "pct": 92.857
+        },
+        {
+          "name": "Pressure",
+          "pct": 7.143
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Kingambit",
+          "pct": 57.143
+        },
+        {
+          "name": "Garchomp",
+          "pct": 50.0
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 42.857
+        },
+        {
+          "name": "Sylveon",
+          "pct": 42.857
+        },
+        {
+          "name": "Incineroar",
+          "pct": 35.714
+        },
+        {
+          "name": "Farigiraf",
+          "pct": 28.571
+        }
+      ]
+    },
+    {
+      "rank": "30",
+      "name": "Hydreigon",
+      "usage_pct": 4.93,
+      "win_rate": 51.039,
+      "record": "1056-1013",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Hydreigon",
+      "pokemon_key": "Hydreigon",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Hydreigon",
+      "moves": [
+        {
+          "name": "Dark Pulse",
+          "pct": 92.857
+        },
+        {
+          "name": "Snarl",
+          "pct": 92.857
+        },
+        {
+          "name": "Draco Meteor",
+          "pct": 85.714
+        },
+        {
+          "name": "Heat Wave",
+          "pct": 57.143
+        },
+        {
+          "name": "Earth Power",
+          "pct": 35.714
+        },
+        {
+          "name": "Dragon Pulse",
+          "pct": 14.286
+        },
+        {
+          "name": "Protect",
+          "pct": 14.286
+        },
+        {
+          "name": "Breaking Swipe",
+          "pct": 7.143
+        }
+      ],
+      "items": [
+        {
+          "name": "Choice Scarf",
+          "pct": 85.714
+        },
+        {
+          "name": "Life Orb",
+          "pct": 7.143
+        },
+        {
+          "name": "Wise Glasses",
+          "pct": 7.143
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Levitate",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 42.857
+        },
+        {
+          "name": "Tyranitar-Mega",
+          "pct": 35.714
+        },
+        {
+          "name": "Gholdengo",
+          "pct": 35.714
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 35.714
+        },
+        {
+          "name": "Excadrill",
+          "pct": 28.571
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 28.571
+        }
+      ]
+    },
+    {
+      "rank": "31",
+      "name": "Milotic",
+      "usage_pct": 4.93,
+      "win_rate": 45.485,
+      "record": "1224-1467",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Milotic",
+      "pokemon_key": "Milotic",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Milotic",
+      "moves": [
+        {
+          "name": "Scald",
+          "pct": 78.571
+        },
+        {
+          "name": "Protect",
+          "pct": 71.429
+        },
+        {
+          "name": "Icy Wind",
+          "pct": 57.143
+        },
+        {
+          "name": "Recover",
+          "pct": 35.714
+        },
+        {
+          "name": "Life Dew",
+          "pct": 35.714
+        },
+        {
+          "name": "Ice Beam",
+          "pct": 35.714
+        },
+        {
+          "name": "Muddy Water",
+          "pct": 28.571
+        },
+        {
+          "name": "Coil",
+          "pct": 21.429
+        },
+        {
+          "name": "Hypnosis",
+          "pct": 21.429
+        },
+        {
+          "name": "Rain Dance",
+          "pct": 7.143
+        }
+      ],
+      "items": [
+        {
+          "name": "Leftovers",
+          "pct": 64.286
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 35.714
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Competitive",
+          "pct": 92.857
+        },
+        {
+          "name": "Marvel Scale",
+          "pct": 7.143
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 42.857
+        },
+        {
+          "name": "Grimmsnarl",
+          "pct": 28.571
+        },
+        {
+          "name": "Incineroar",
+          "pct": 28.571
+        },
+        {
+          "name": "Sneasler",
+          "pct": 28.571
+        },
+        {
+          "name": "Metagross-Mega",
+          "pct": 21.429
+        },
+        {
+          "name": "Garchomp",
+          "pct": 21.429
+        }
+      ]
+    },
+    {
+      "rank": "32",
+      "name": "Eelektross-Mega",
+      "usage_pct": 4.58,
+      "win_rate": 50.0,
+      "record": "21-21",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Eelektross-Mega",
+      "pokemon_key": "Eelektross-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Eelektross-Mega",
+      "moves": [
+        {
+          "name": "Protect",
+          "pct": 84.615
+        },
+        {
+          "name": "Thunderbolt",
+          "pct": 53.846
+        },
+        {
+          "name": "Flamethrower",
+          "pct": 38.462
+        },
+        {
+          "name": "Dragon Pulse",
+          "pct": 30.769
+        },
+        {
+          "name": "Wild Charge",
+          "pct": 23.077
+        },
+        {
+          "name": "Drain Punch",
+          "pct": 23.077
+        },
+        {
+          "name": "Supercell Slam",
+          "pct": 23.077
+        },
+        {
+          "name": "Knock Off",
+          "pct": 15.385
+        },
+        {
+          "name": "Close Combat",
+          "pct": 15.385
+        },
+        {
+          "name": "Liquidation",
+          "pct": 15.385
+        }
+      ],
+      "items": [
+        {
+          "name": "Eelektrossite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Levitate",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Whimsicott",
+          "pct": 61.538
+        },
+        {
+          "name": "Basculegion",
+          "pct": 38.462
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 30.769
+        },
+        {
+          "name": "Sneasler",
+          "pct": 30.769
+        },
+        {
+          "name": "Garchomp",
+          "pct": 30.769
+        },
+        {
+          "name": "Gholdengo",
+          "pct": 23.077
+        }
+      ]
+    },
+    {
+      "rank": "33",
+      "name": "Talonflame",
+      "usage_pct": 4.58,
+      "win_rate": 48.469,
+      "record": "1725-1834",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Talonflame",
+      "pokemon_key": "Talonflame",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Talonflame",
+      "moves": [
+        {
+          "name": "Tailwind",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 69.231
+        },
+        {
+          "name": "Flare Blitz",
+          "pct": 61.538
+        },
+        {
+          "name": "Dual Wingbeat",
+          "pct": 46.154
+        },
+        {
+          "name": "Brave Bird",
+          "pct": 30.769
+        },
+        {
+          "name": "Quick Guard",
+          "pct": 30.769
+        },
+        {
+          "name": "Will-O-Wisp",
+          "pct": 15.385
+        },
+        {
+          "name": "Acrobatics",
+          "pct": 15.385
+        },
+        {
+          "name": "Feather Dance",
+          "pct": 7.692
+        },
+        {
+          "name": "Roost",
+          "pct": 7.692
+        }
+      ],
+      "items": [
+        {
+          "name": "Sharp Beak",
+          "pct": 61.538
+        },
+        {
+          "name": "Focus Sash",
+          "pct": 23.077
+        },
+        {
+          "name": "Nothing",
+          "pct": 15.385
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Gale Wings",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Garchomp",
+          "pct": 69.231
+        },
+        {
+          "name": "Maushold",
+          "pct": 38.462
+        },
+        {
+          "name": "Kingambit",
+          "pct": 30.769
+        },
+        {
+          "name": "Basculegion",
+          "pct": 30.769
+        },
+        {
+          "name": "Sceptile-Mega",
+          "pct": 30.769
+        },
+        {
+          "name": "Sneasler",
+          "pct": 23.077
+        }
+      ]
+    },
+    {
+      "rank": "34",
+      "name": "Mawile-Mega",
+      "usage_pct": 4.58,
+      "win_rate": 49.057,
+      "record": "26-27",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Mawile-Mega",
+      "pokemon_key": "Mawile-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Mawile-Mega",
+      "moves": [
+        {
+          "name": "Play Rough",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 100.0
+        },
+        {
+          "name": "Iron Head",
+          "pct": 92.308
+        },
+        {
+          "name": "Sucker Punch",
+          "pct": 61.538
+        },
+        {
+          "name": "Knock Off",
+          "pct": 23.077
+        },
+        {
+          "name": "Rock Slide",
+          "pct": 15.385
+        },
+        {
+          "name": "Brick Break",
+          "pct": 7.692
+        }
+      ],
+      "items": [
+        {
+          "name": "Mawilite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Intimidate",
+          "pct": 61.538
+        },
+        {
+          "name": "Hyper Cutter",
+          "pct": 23.077
+        },
+        {
+          "name": "Huge Power",
+          "pct": 15.385
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Farigiraf",
+          "pct": 53.846
+        },
+        {
+          "name": "Pelipper",
+          "pct": 38.462
+        },
+        {
+          "name": "Incineroar",
+          "pct": 38.462
+        },
+        {
+          "name": "Garchomp",
+          "pct": 30.769
+        },
+        {
+          "name": "Swampert-Mega",
+          "pct": 23.077
+        },
+        {
+          "name": "Kangaskhan",
+          "pct": 23.077
+        }
+      ]
+    },
+    {
+      "rank": "35",
+      "name": "Sceptile-Mega",
+      "usage_pct": 4.23,
+      "win_rate": 41.304,
+      "record": "19-27",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Sceptile-Mega",
+      "pokemon_key": "Sceptile-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sceptile-Mega",
+      "moves": [
+        {
+          "name": "Dragon Pulse",
+          "pct": 100.0
+        },
+        {
+          "name": "Earth Power",
+          "pct": 66.667
+        },
+        {
+          "name": "Leaf Storm",
+          "pct": 66.667
+        },
+        {
+          "name": "Protect",
+          "pct": 50.0
+        },
+        {
+          "name": "Detect",
+          "pct": 41.667
+        },
+        {
+          "name": "Energy Ball",
+          "pct": 25.0
+        },
+        {
+          "name": "Focus Blast",
+          "pct": 16.667
+        },
+        {
+          "name": "Shed Tail",
+          "pct": 16.667
+        },
+        {
+          "name": "Vacuum Wave",
+          "pct": 8.333
+        },
+        {
+          "name": "Giga Drain",
+          "pct": 8.333
+        }
+      ],
+      "items": [
+        {
+          "name": "Sceptilite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Overgrow",
+          "pct": 66.667
+        },
+        {
+          "name": "Unburden",
+          "pct": 33.333
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Basculegion",
+          "pct": 33.333
+        },
+        {
+          "name": "Garchomp",
+          "pct": 33.333
+        },
+        {
+          "name": "Talonflame",
+          "pct": 33.333
+        },
+        {
+          "name": "Sneasler",
+          "pct": 25.0
+        },
+        {
+          "name": "Kingambit",
+          "pct": 16.667
+        },
+        {
+          "name": "Metagross-Mega",
+          "pct": 16.667
+        }
+      ]
+    },
+    {
+      "rank": "36",
+      "name": "Torkoal",
+      "usage_pct": 4.23,
+      "win_rate": 45.786,
+      "record": "1081-1280",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Torkoal",
+      "pokemon_key": "Torkoal",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Torkoal",
+      "moves": [
+        {
+          "name": "Eruption",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 100.0
+        },
+        {
+          "name": "Weather Ball",
+          "pct": 66.667
+        },
+        {
+          "name": "Heat Wave",
+          "pct": 50.0
+        },
+        {
+          "name": "Earth Power",
+          "pct": 25.0
+        },
+        {
+          "name": "Solar Beam",
+          "pct": 25.0
+        },
+        {
+          "name": "Flamethrower",
+          "pct": 8.333
+        },
+        {
+          "name": "Overheat",
+          "pct": 8.333
+        },
+        {
+          "name": "Helping Hand",
+          "pct": 8.333
+        },
+        {
+          "name": "Body Press",
+          "pct": 8.333
+        }
+      ],
+      "items": [
+        {
+          "name": "Charcoal",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Drought",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Farigiraf",
+          "pct": 83.333
+        },
+        {
+          "name": "Kingambit",
+          "pct": 50.0
+        },
+        {
+          "name": "Sylveon",
+          "pct": 33.333
+        },
+        {
+          "name": "Drampa-Mega",
+          "pct": 16.667
+        },
+        {
+          "name": "Vileplume",
+          "pct": 16.667
+        },
+        {
+          "name": "Charizard-Mega-Y",
+          "pct": 16.667
+        }
+      ]
+    },
+    {
+      "rank": "37",
+      "name": "Venusaur",
+      "usage_pct": 4.23,
+      "win_rate": 48.334,
+      "record": "1159-1239-3",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Venusaur",
+      "pokemon_key": "Venusaur",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Venusaur",
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 83.333
+        },
+        {
+          "name": "Sleep Powder",
+          "pct": 75.0
+        },
+        {
+          "name": "Earth Power",
+          "pct": 58.333
+        },
+        {
+          "name": "Energy Ball",
+          "pct": 41.667
+        },
+        {
+          "name": "Giga Drain",
+          "pct": 16.667
+        },
+        {
+          "name": "Solar Beam",
+          "pct": 8.333
+        },
+        {
+          "name": "Weather Ball",
+          "pct": 8.333
+        },
+        {
+          "name": "Leaf Storm",
+          "pct": 8.333
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 58.333
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 16.667
+        },
+        {
+          "name": "Wide Lens",
+          "pct": 8.333
+        },
+        {
+          "name": "Big Root",
+          "pct": 8.333
+        },
+        {
+          "name": "Occa Berry",
+          "pct": 8.333
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Chlorophyll",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Charizard-Mega-Y",
+          "pct": 91.667
+        },
+        {
+          "name": "Garchomp",
+          "pct": 66.667
+        },
+        {
+          "name": "Incineroar",
+          "pct": 50.0
+        },
+        {
+          "name": "Farigiraf",
+          "pct": 25.0
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 16.667
+        },
+        {
+          "name": "Torkoal",
+          "pct": 16.667
+        }
+      ]
+    },
+    {
+      "rank": "38",
+      "name": "Aerodactyl",
+      "usage_pct": 3.87,
+      "win_rate": 49.368,
+      "record": "1561-1601-1",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Aerodactyl",
+      "pokemon_key": "Aerodactyl",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Aerodactyl",
+      "moves": [
+        {
+          "name": "Rock Slide",
+          "pct": 100.0
+        },
+        {
+          "name": "Tailwind",
+          "pct": 90.909
+        },
+        {
+          "name": "Protect",
+          "pct": 81.818
+        },
+        {
+          "name": "Dual Wingbeat",
+          "pct": 72.727
+        },
+        {
+          "name": "Wide Guard",
+          "pct": 36.364
+        },
+        {
+          "name": "Taunt",
+          "pct": 9.091
+        },
+        {
+          "name": "Sunny Day",
+          "pct": 9.091
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 81.818
+        },
+        {
+          "name": "White Herb",
+          "pct": 9.091
+        },
+        {
+          "name": "Quick Claw",
+          "pct": 9.091
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Unnerve",
+          "pct": 81.818
+        },
+        {
+          "name": "Rock Head",
+          "pct": 9.091
+        },
+        {
+          "name": "Pressure",
+          "pct": 9.091
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 45.455
+        },
+        {
+          "name": "Garchomp",
+          "pct": 36.364
+        },
+        {
+          "name": "Metagross-Mega",
+          "pct": 27.273
+        },
+        {
+          "name": "Incineroar",
+          "pct": 27.273
+        },
+        {
+          "name": "Raichu-Mega-Y",
+          "pct": 27.273
+        },
+        {
+          "name": "Kingambit",
+          "pct": 27.273
+        }
+      ]
+    },
+    {
+      "rank": "39",
+      "name": "Arcanine-Hisui",
+      "usage_pct": 3.52,
+      "win_rate": 56.462,
+      "record": "917-707-1",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Arcanine-Hisui",
+      "pokemon_key": "Arcanine-Hisui",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Arcanine-Hisui",
+      "moves": [
+        {
+          "name": "Flare Blitz",
+          "pct": 100.0
+        },
+        {
+          "name": "Head Smash",
+          "pct": 80.0
+        },
+        {
+          "name": "Extreme Speed",
+          "pct": 70.0
+        },
+        {
+          "name": "Protect",
+          "pct": 70.0
+        },
+        {
+          "name": "Rock Slide",
+          "pct": 40.0
+        },
+        {
+          "name": "Wild Charge",
+          "pct": 10.0
+        },
+        {
+          "name": "Psychic Fangs",
+          "pct": 10.0
+        },
+        {
+          "name": "Iron Head",
+          "pct": 10.0
+        },
+        {
+          "name": "Close Combat",
+          "pct": 10.0
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 60.0
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 30.0
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 10.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Rock Head",
+          "pct": 80.0
+        },
+        {
+          "name": "Intimidate",
+          "pct": 20.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Froslass-Mega",
+          "pct": 60.0
+        },
+        {
+          "name": "Sneasler",
+          "pct": 50.0
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 50.0
+        },
+        {
+          "name": "Kingambit",
+          "pct": 40.0
+        },
+        {
+          "name": "Grimmsnarl",
+          "pct": 30.0
+        },
+        {
+          "name": "Garchomp",
+          "pct": 30.0
+        }
+      ]
+    },
+    {
+      "rank": "40",
+      "name": "Corviknight",
+      "usage_pct": 3.52,
+      "win_rate": 50.06,
+      "record": "1673-1669-1",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Corviknight",
+      "pokemon_key": "Corviknight",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Corviknight",
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "pct": 100.0
+        },
+        {
+          "name": "Tailwind",
+          "pct": 70.0
+        },
+        {
+          "name": "Bulk Up",
+          "pct": 60.0
+        },
+        {
+          "name": "Roost",
+          "pct": 60.0
+        },
+        {
+          "name": "Iron Head",
+          "pct": 50.0
+        },
+        {
+          "name": "Protect",
+          "pct": 50.0
+        },
+        {
+          "name": "Body Press",
+          "pct": 10.0
+        }
+      ],
+      "items": [
+        {
+          "name": "Leftovers",
+          "pct": 60.0
+        },
+        {
+          "name": "Occa Berry",
+          "pct": 30.0
+        },
+        {
+          "name": "Sharp Beak",
+          "pct": 10.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Mirror Armor",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Tyranitar-Mega",
+          "pct": 80.0
+        },
+        {
+          "name": "Garchomp",
+          "pct": 50.0
+        },
+        {
+          "name": "Hydreigon",
+          "pct": 30.0
+        },
+        {
+          "name": "Excadrill",
+          "pct": 30.0
+        },
+        {
+          "name": "Rotom-Wash",
+          "pct": 30.0
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 20.0
+        }
+      ]
+    },
+    {
+      "rank": "41",
+      "name": "Delphox-Mega",
+      "usage_pct": 3.52,
+      "win_rate": 51.735,
+      "record": "1743-1626-3",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Delphox-Mega",
+      "pokemon_key": "Delphox-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Delphox-Mega",
+      "moves": [
+        {
+          "name": "Heat Wave",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 100.0
+        },
+        {
+          "name": "Psyshock",
+          "pct": 70.0
+        },
+        {
+          "name": "Nasty Plot",
+          "pct": 70.0
+        },
+        {
+          "name": "Psychic",
+          "pct": 30.0
+        },
+        {
+          "name": "Substitute",
+          "pct": 20.0
+        },
+        {
+          "name": "Encore",
+          "pct": 10.0
+        }
+      ],
+      "items": [
+        {
+          "name": "Delphoxite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Blaze",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Sinistcha",
+          "pct": 60.0
+        },
+        {
+          "name": "Kingambit",
+          "pct": 50.0
+        },
+        {
+          "name": "Incineroar",
+          "pct": 50.0
+        },
+        {
+          "name": "Sneasler",
+          "pct": 40.0
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 40.0
+        },
+        {
+          "name": "Maushold",
+          "pct": 40.0
+        }
+      ]
+    },
+    {
+      "rank": "42",
+      "name": "Dragonite-Mega",
+      "usage_pct": 3.52,
+      "win_rate": 54.578,
+      "record": "2568-2137-2",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Dragonite-Mega",
+      "pokemon_key": "Dragonite-Mega",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Dragonite-Mega",
+      "moves": [
+        {
+          "name": "Dragon Pulse",
+          "pct": 80.0
+        },
+        {
+          "name": "Protect",
+          "pct": 70.0
+        },
+        {
+          "name": "Tailwind",
+          "pct": 60.0
+        },
+        {
+          "name": "Hurricane",
+          "pct": 60.0
+        },
+        {
+          "name": "Heat Wave",
+          "pct": 40.0
+        },
+        {
+          "name": "Flamethrower",
+          "pct": 20.0
+        },
+        {
+          "name": "Ice Beam",
+          "pct": 10.0
+        },
+        {
+          "name": "Scale Shot",
+          "pct": 10.0
+        },
+        {
+          "name": "Haze",
+          "pct": 10.0
+        },
+        {
+          "name": "Thunder",
+          "pct": 10.0
+        }
+      ],
+      "items": [
+        {
+          "name": "Dragoninite",
+          "pct": 100.0
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Inner Focus",
+          "pct": 70.0
+        },
+        {
+          "name": "Multiscale",
+          "pct": 30.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Pelipper",
+          "pct": 90.0
+        },
+        {
+          "name": "Archaludon",
+          "pct": 90.0
+        },
+        {
+          "name": "Gholdengo",
+          "pct": 50.0
+        },
+        {
+          "name": "Basculegion",
+          "pct": 40.0
+        },
+        {
+          "name": "Swampert-Mega",
+          "pct": 40.0
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 40.0
+        }
+      ]
+    },
+    {
+      "rank": "43",
+      "name": "Excadrill",
+      "usage_pct": 3.17,
+      "win_rate": 50.052,
+      "record": "970-968-1",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Excadrill",
+      "pokemon_key": "Excadrill",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Excadrill",
+      "moves": [
+        {
+          "name": "Iron Head",
+          "pct": 100.0
+        },
+        {
+          "name": "Earthquake",
+          "pct": 100.0
+        },
+        {
+          "name": "Protect",
+          "pct": 100.0
+        },
+        {
+          "name": "Rock Slide",
+          "pct": 55.556
+        },
+        {
+          "name": "High Horsepower",
+          "pct": 22.222
+        },
+        {
+          "name": "Swords Dance",
+          "pct": 11.111
+        },
+        {
+          "name": "Rock Tomb",
+          "pct": 11.111
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 88.889
+        },
+        {
+          "name": "Life Orb",
+          "pct": 11.111
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Sand Rush",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Tyranitar-Mega",
+          "pct": 88.889
+        },
+        {
+          "name": "Rotom-Wash",
+          "pct": 66.667
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 44.444
+        },
+        {
+          "name": "Hydreigon",
+          "pct": 44.444
+        },
+        {
+          "name": "Grimmsnarl",
+          "pct": 33.333
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 33.333
+        }
+      ]
+    },
+    {
+      "rank": "44",
+      "name": "Raichu",
+      "usage_pct": 2.82,
+      "win_rate": 31.754,
+      "record": "67-144",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Raichu",
+      "pokemon_key": "Raichu",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Raichu",
+      "moves": [
+        {
+          "name": "Fake Out",
+          "pct": 100.0
+        },
+        {
+          "name": "Charm",
+          "pct": 75.0
+        },
+        {
+          "name": "Volt Switch",
+          "pct": 62.5
+        },
+        {
+          "name": "Encore",
+          "pct": 37.5
+        },
+        {
+          "name": "Nuzzle",
+          "pct": 25.0
+        },
+        {
+          "name": "Protect",
+          "pct": 25.0
+        },
+        {
+          "name": "Reflect",
+          "pct": 12.5
+        },
+        {
+          "name": "Rising Voltage",
+          "pct": 12.5
+        },
+        {
+          "name": "Endeavor",
+          "pct": 12.5
+        },
+        {
+          "name": "Discharge",
+          "pct": 12.5
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 37.5
+        },
+        {
+          "name": "Shuca Berry",
+          "pct": 25.0
+        },
+        {
+          "name": "Light Clay",
+          "pct": 12.5
+        },
+        {
+          "name": "Sitrus Berry",
+          "pct": 12.5
+        },
+        {
+          "name": "Quick Claw",
+          "pct": 12.5
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Lightning Rod",
+          "pct": 87.5
+        },
+        {
+          "name": "Static",
+          "pct": 12.5
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Staraptor-Mega",
+          "pct": 75.0
+        },
+        {
+          "name": "Incineroar",
+          "pct": 37.5
+        },
+        {
+          "name": "Sinistcha",
+          "pct": 37.5
+        },
+        {
+          "name": "Whimsicott",
+          "pct": 37.5
+        },
+        {
+          "name": "Grimmsnarl",
+          "pct": 37.5
+        },
+        {
+          "name": "Basculegion",
+          "pct": 25.0
+        }
+      ]
+    },
+    {
+      "rank": "45",
+      "name": "Vivillon",
+      "usage_pct": 2.46,
+      "win_rate": 54.369,
+      "record": "1543-1295",
+      "profile_url": "https://www.pikalytics.com/pokedex/championstournaments/Vivillon",
+      "pokemon_key": "Vivillon",
+      "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Vivillon",
+      "moves": [
+        {
+          "name": "Sleep Powder",
+          "pct": 100.0
+        },
+        {
+          "name": "Hurricane",
+          "pct": 100.0
+        },
+        {
+          "name": "Rage Powder",
+          "pct": 71.429
+        },
+        {
+          "name": "Protect",
+          "pct": 57.143
+        },
+        {
+          "name": "Tailwind",
+          "pct": 28.571
+        },
+        {
+          "name": "Energy Ball",
+          "pct": 28.571
+        },
+        {
+          "name": "Pollen Puff",
+          "pct": 14.286
+        }
+      ],
+      "items": [
+        {
+          "name": "Focus Sash",
+          "pct": 57.143
+        },
+        {
+          "name": "Choice Scarf",
+          "pct": 42.857
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Compound Eyes",
+          "pct": 100.0
+        }
+      ],
+      "teammates": [
+        {
+          "name": "Farigiraf",
+          "pct": 71.429
+        },
+        {
+          "name": "Raichu-Mega-Y",
+          "pct": 57.143
+        },
+        {
+          "name": "Kingambit",
+          "pct": 42.857
+        },
+        {
+          "name": "Sylveon",
+          "pct": 42.857
+        },
+        {
+          "name": "Ninetales-Alola",
+          "pct": 28.571
+        },
+        {
+          "name": "Staraptor-Mega",
+          "pct": 28.571
+        }
+      ]
+    }
+  ]
+}

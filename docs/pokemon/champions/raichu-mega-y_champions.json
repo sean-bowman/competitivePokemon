@@ -1,0 +1,94 @@
+{
+  "name": "Raichu-Mega-Y",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Raichu-Mega-Y",
+  "moves": [
+    {
+      "name": "Zap Cannon",
+      "pct": 100.0
+    },
+    {
+      "name": "Focus Blast",
+      "pct": 93.333
+    },
+    {
+      "name": "Protect",
+      "pct": 66.667
+    },
+    {
+      "name": "Fake Out",
+      "pct": 50.0
+    },
+    {
+      "name": "Volt Switch",
+      "pct": 26.667
+    },
+    {
+      "name": "Dazzling Gleam",
+      "pct": 13.333
+    },
+    {
+      "name": "Nasty Plot",
+      "pct": 10.0
+    },
+    {
+      "name": "Surf",
+      "pct": 6.667
+    },
+    {
+      "name": "Alluring Voice",
+      "pct": 6.667
+    },
+    {
+      "name": "Fake Tears",
+      "pct": 3.333
+    }
+  ],
+  "items": [
+    {
+      "name": "Raichunite Y",
+      "pct": 76.667
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Lightning Rod",
+      "pct": 83.333
+    },
+    {
+      "name": "No Guard",
+      "pct": 13.333
+    },
+    {
+      "name": "Static",
+      "pct": 3.333
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Kingambit",
+      "pct": 36.667
+    },
+    {
+      "name": "Basculegion",
+      "pct": 33.333
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 30.0
+    },
+    {
+      "name": "Garchomp",
+      "pct": 30.0
+    },
+    {
+      "name": "Ninetales-Alola",
+      "pct": 26.667
+    },
+    {
+      "name": "Incineroar",
+      "pct": 26.667
+    }
+  ]
+}

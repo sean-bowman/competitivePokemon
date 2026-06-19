@@ -1,0 +1,82 @@
+{
+  "name": "Corviknight",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Corviknight",
+  "moves": [
+    {
+      "name": "Brave Bird",
+      "pct": 100.0
+    },
+    {
+      "name": "Tailwind",
+      "pct": 70.0
+    },
+    {
+      "name": "Bulk Up",
+      "pct": 60.0
+    },
+    {
+      "name": "Roost",
+      "pct": 60.0
+    },
+    {
+      "name": "Iron Head",
+      "pct": 50.0
+    },
+    {
+      "name": "Protect",
+      "pct": 50.0
+    },
+    {
+      "name": "Body Press",
+      "pct": 10.0
+    }
+  ],
+  "items": [
+    {
+      "name": "Leftovers",
+      "pct": 60.0
+    },
+    {
+      "name": "Occa Berry",
+      "pct": 30.0
+    },
+    {
+      "name": "Sharp Beak",
+      "pct": 10.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Mirror Armor",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Tyranitar-Mega",
+      "pct": 80.0
+    },
+    {
+      "name": "Garchomp",
+      "pct": 50.0
+    },
+    {
+      "name": "Hydreigon",
+      "pct": 30.0
+    },
+    {
+      "name": "Excadrill",
+      "pct": 30.0
+    },
+    {
+      "name": "Rotom-Wash",
+      "pct": 30.0
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 20.0
+    }
+  ]
+}

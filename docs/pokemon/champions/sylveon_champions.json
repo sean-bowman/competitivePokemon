@@ -1,0 +1,98 @@
+{
+  "name": "Sylveon",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sylveon",
+  "moves": [
+    {
+      "name": "Hyper Voice",
+      "pct": 100.0
+    },
+    {
+      "name": "Hyper Beam",
+      "pct": 80.645
+    },
+    {
+      "name": "Quick Attack",
+      "pct": 77.419
+    },
+    {
+      "name": "Detect",
+      "pct": 54.839
+    },
+    {
+      "name": "Protect",
+      "pct": 41.935
+    },
+    {
+      "name": "Yawn",
+      "pct": 12.903
+    },
+    {
+      "name": "Calm Mind",
+      "pct": 12.903
+    },
+    {
+      "name": "Moonblast",
+      "pct": 9.677
+    },
+    {
+      "name": "Baby-Doll Eyes",
+      "pct": 3.226
+    },
+    {
+      "name": "Shadow Ball",
+      "pct": 3.226
+    }
+  ],
+  "items": [
+    {
+      "name": "Fairy Feather",
+      "pct": 77.419
+    },
+    {
+      "name": "Life Orb",
+      "pct": 16.129
+    },
+    {
+      "name": "Leftovers",
+      "pct": 6.452
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Pixilate",
+      "pct": 93.548
+    },
+    {
+      "name": "Cute Charm",
+      "pct": 6.452
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Farigiraf",
+      "pct": 48.387
+    },
+    {
+      "name": "Garchomp",
+      "pct": 48.387
+    },
+    {
+      "name": "Kingambit",
+      "pct": 45.161
+    },
+    {
+      "name": "Basculegion",
+      "pct": 29.032
+    },
+    {
+      "name": "Metagross-Mega",
+      "pct": 25.806
+    },
+    {
+      "name": "Charizard-Mega-Y",
+      "pct": 25.806
+    }
+  ]
+}

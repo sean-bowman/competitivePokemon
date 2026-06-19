@@ -1,0 +1,90 @@
+{
+  "name": "Froslass-Mega",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Froslass-Mega",
+  "moves": [
+    {
+      "name": "Blizzard",
+      "pct": 100.0
+    },
+    {
+      "name": "Protect",
+      "pct": 94.444
+    },
+    {
+      "name": "Shadow Ball",
+      "pct": 72.222
+    },
+    {
+      "name": "Aurora Veil",
+      "pct": 72.222
+    },
+    {
+      "name": "Weather Ball",
+      "pct": 11.111
+    },
+    {
+      "name": "Rain Dance",
+      "pct": 11.111
+    },
+    {
+      "name": "Haze",
+      "pct": 5.556
+    },
+    {
+      "name": "Disable",
+      "pct": 5.556
+    },
+    {
+      "name": "Substitute",
+      "pct": 5.556
+    },
+    {
+      "name": "Psychic",
+      "pct": 5.556
+    }
+  ],
+  "items": [
+    {
+      "name": "Froslassite",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Cursed Body",
+      "pct": 83.333
+    },
+    {
+      "name": "Snow Cloak",
+      "pct": 16.667
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Kingambit",
+      "pct": 50.0
+    },
+    {
+      "name": "Sneasler",
+      "pct": 44.444
+    },
+    {
+      "name": "Garchomp",
+      "pct": 38.889
+    },
+    {
+      "name": "Arcanine-Hisui",
+      "pct": 33.333
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 27.778
+    },
+    {
+      "name": "Basculegion",
+      "pct": 22.222
+    }
+  ]
+}

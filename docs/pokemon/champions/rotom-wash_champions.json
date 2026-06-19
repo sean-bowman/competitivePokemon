@@ -1,90 +1,58 @@
 {
   "name": "Rotom-Wash",
-  "fetched": "2026-04-14",
+  "fetched": "2026-06-18",
   "source": "pikalytics_champions",
   "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Rotom-Wash",
   "moves": [
     {
       "name": "Hydro Pump",
-      "pct": 98.249
-    },
-    {
-      "name": "Thunderbolt",
-      "pct": 72.957
-    },
-    {
-      "name": "Protect",
-      "pct": 59.144
+      "pct": 100.0
     },
     {
       "name": "Will-O-Wisp",
-      "pct": 54.864
+      "pct": 79.167
+    },
+    {
+      "name": "Protect",
+      "pct": 75.0
+    },
+    {
+      "name": "Thunderbolt",
+      "pct": 70.833
     },
     {
       "name": "Volt Switch",
-      "pct": 53.502
+      "pct": 33.333
     },
     {
       "name": "Electroweb",
-      "pct": 21.206
+      "pct": 29.167
     },
     {
       "name": "Trick",
-      "pct": 8.949
-    },
-    {
-      "name": "Helping Hand",
-      "pct": 8.171
+      "pct": 4.167
     },
     {
       "name": "Discharge",
-      "pct": 6.809
+      "pct": 4.167
     },
     {
-      "name": "Eerie Impulse",
-      "pct": 3.307
+      "name": "Rest",
+      "pct": 4.167
     }
   ],
   "items": [
     {
       "name": "Sitrus Berry",
-      "pct": 39.494
+      "pct": 45.833
     },
     {
       "name": "Leftovers",
-      "pct": 27.626
+      "pct": 33.333
     },
     {
       "name": "Choice Scarf",
-      "pct": 22.374
-    },
-    {
-      "name": "Magnet",
-      "pct": 3.891
-    },
-    {
-      "name": "Rindo Berry",
-      "pct": 1.946
-    },
-    {
-      "name": "Quick Claw",
-      "pct": 1.751
-    },
-    {
-      "name": "Lum Berry",
-      "pct": 0.778
-    },
-    {
-      "name": "Chesto Berry",
-      "pct": 0.584
-    },
-    {
-      "name": "Choice Specs",
-      "pct": 0.389
-    },
-    {
-      "name": "Mystic Water",
-      "pct": 0.389
+      "pct": 20.833
     }
   ],
   "abilities": [
@@ -95,28 +63,28 @@
   ],
   "teammates": [
     {
-      "name": "Garchomp",
-      "pct": 63.23
-    },
-    {
       "name": "Incineroar",
-      "pct": 52.335
+      "pct": 50.0
     },
     {
-      "name": "Sneasler",
-      "pct": 44.942
+      "name": "Garchomp",
+      "pct": 50.0
+    },
+    {
+      "name": "Staraptor-Mega",
+      "pct": 41.667
+    },
+    {
+      "name": "Gholdengo",
+      "pct": 29.167
+    },
+    {
+      "name": "Whimsicott",
+      "pct": 29.167
     },
     {
       "name": "Sinistcha",
-      "pct": 29.377
-    },
-    {
-      "name": "Tyranitar",
-      "pct": 26.265
-    },
-    {
-      "name": "Floette",
-      "pct": 23.152
+      "pct": 25.0
     }
   ]
 }

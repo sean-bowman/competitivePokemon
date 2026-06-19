@@ -1,130 +1,106 @@
 {
   "name": "Incineroar",
-  "fetched": "2026-04-14",
+  "fetched": "2026-06-18",
   "source": "pikalytics_champions",
   "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Incineroar",
   "moves": [
     {
-      "name": "Fake Out",
-      "pct": 99.025
+      "name": "Parting Shot",
+      "pct": 100.0
     },
     {
-      "name": "Parting Shot",
-      "pct": 96.041
+      "name": "Fake Out",
+      "pct": 98.824
     },
     {
       "name": "Flare Blitz",
-      "pct": 85.37
+      "pct": 97.647
     },
     {
       "name": "Throat Chop",
-      "pct": 43.431
+      "pct": 60.0
     },
     {
       "name": "Darkest Lariat",
-      "pct": 38.669
+      "pct": 23.529
     },
     {
       "name": "Protect",
-      "pct": 13.941
-    },
-    {
-      "name": "Will-O-Wisp",
-      "pct": 6.139
-    },
-    {
-      "name": "Taunt",
-      "pct": 4.188
+      "pct": 8.235
     },
     {
       "name": "Helping Hand",
-      "pct": 4.016
+      "pct": 3.529
     },
     {
-      "name": "Snarl",
-      "pct": 2.869
+      "name": "Will-O-Wisp",
+      "pct": 3.529
+    },
+    {
+      "name": "Taunt",
+      "pct": 2.353
+    },
+    {
+      "name": "Temper Flare",
+      "pct": 1.176
     }
   ],
   "items": [
     {
       "name": "Sitrus Berry",
-      "pct": 56.168
-    },
-    {
-      "name": "Chople Berry",
-      "pct": 15.491
-    },
-    {
-      "name": "Shuca Berry",
-      "pct": 12.622
-    },
-    {
-      "name": "Lum Berry",
-      "pct": 4.877
-    },
-    {
-      "name": "Leftovers",
-      "pct": 3.901
+      "pct": 63.529
     },
     {
       "name": "Passho Berry",
-      "pct": 2.123
+      "pct": 18.824
     },
     {
-      "name": "White Herb",
-      "pct": 0.975
+      "name": "Chople Berry",
+      "pct": 11.765
     },
     {
-      "name": "Black Glasses",
-      "pct": 0.688
-    },
-    {
-      "name": "Quick Claw",
-      "pct": 0.631
+      "name": "Leftovers",
+      "pct": 4.706
     },
     {
       "name": "Charcoal",
-      "pct": 0.516
+      "pct": 1.176
     }
   ],
   "abilities": [
     {
       "name": "Intimidate",
-      "pct": 98.164
+      "pct": 97.647
     },
     {
       "name": "Blaze",
-      "pct": 1.779
-    },
-    {
-      "name": "Intimidaci",
-      "pct": 0.057
+      "pct": 2.353
     }
   ],
   "teammates": [
     {
       "name": "Sinistcha",
-      "pct": 39.415
+      "pct": 56.471
     },
     {
-      "name": "Sneasler",
-      "pct": 38.21
+      "name": "Staraptor-Mega",
+      "pct": 30.588
     },
     {
       "name": "Garchomp",
-      "pct": 36.374
-    },
-    {
-      "name": "Floette",
-      "pct": 22.949
-    },
-    {
-      "name": "Charizard",
-      "pct": 21.113
+      "pct": 29.412
     },
     {
       "name": "Whimsicott",
-      "pct": 20.941
+      "pct": 28.235
+    },
+    {
+      "name": "Floette-Eternal-Mega",
+      "pct": 23.529
+    },
+    {
+      "name": "Gholdengo",
+      "pct": 22.353
     }
   ]
 }

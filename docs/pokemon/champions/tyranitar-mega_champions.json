@@ -1,0 +1,78 @@
+{
+  "name": "Tyranitar-Mega",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Tyranitar-Mega",
+  "moves": [
+    {
+      "name": "Rock Slide",
+      "pct": 100.0
+    },
+    {
+      "name": "Knock Off",
+      "pct": 88.235
+    },
+    {
+      "name": "Protect",
+      "pct": 88.235
+    },
+    {
+      "name": "Low Kick",
+      "pct": 64.706
+    },
+    {
+      "name": "Ice Punch",
+      "pct": 23.529
+    },
+    {
+      "name": "Dragon Dance",
+      "pct": 17.647
+    },
+    {
+      "name": "Crunch",
+      "pct": 11.765
+    },
+    {
+      "name": "Stomping Tantrum",
+      "pct": 5.882
+    }
+  ],
+  "items": [
+    {
+      "name": "Tyranitarite",
+      "pct": 100.0
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Sand Stream",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Corviknight",
+      "pct": 47.059
+    },
+    {
+      "name": "Excadrill",
+      "pct": 47.059
+    },
+    {
+      "name": "Rotom-Wash",
+      "pct": 35.294
+    },
+    {
+      "name": "Garchomp",
+      "pct": 29.412
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 29.412
+    },
+    {
+      "name": "Grimmsnarl",
+      "pct": 29.412
+    }
+  ]
+}

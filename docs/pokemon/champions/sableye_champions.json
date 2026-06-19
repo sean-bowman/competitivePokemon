@@ -1,0 +1,90 @@
+{
+  "name": "Sableye",
+  "fetched": "2026-06-18",
+  "source": "pikalytics_champions",
+  "detail_url": "https://www.pikalytics.com/ai/pokedex/championstournaments/Sableye",
+  "moves": [
+    {
+      "name": "Light Screen",
+      "pct": 84.211
+    },
+    {
+      "name": "Rain Dance",
+      "pct": 78.947
+    },
+    {
+      "name": "Reflect",
+      "pct": 68.421
+    },
+    {
+      "name": "Will-O-Wisp",
+      "pct": 42.105
+    },
+    {
+      "name": "Encore",
+      "pct": 36.842
+    },
+    {
+      "name": "Foul Play",
+      "pct": 21.053
+    },
+    {
+      "name": "Fake Out",
+      "pct": 21.053
+    },
+    {
+      "name": "Thunder Wave",
+      "pct": 10.526
+    },
+    {
+      "name": "Quash",
+      "pct": 10.526
+    },
+    {
+      "name": "Detect",
+      "pct": 5.263
+    }
+  ],
+  "items": [
+    {
+      "name": "Roseli Berry",
+      "pct": 52.632
+    },
+    {
+      "name": "Light Clay",
+      "pct": 47.368
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Prankster",
+      "pct": 100.0
+    }
+  ],
+  "teammates": [
+    {
+      "name": "Archaludon",
+      "pct": 73.684
+    },
+    {
+      "name": "Swampert-Mega",
+      "pct": 68.421
+    },
+    {
+      "name": "Pelipper",
+      "pct": 63.158
+    },
+    {
+      "name": "Sinistcha",
+      "pct": 42.105
+    },
+    {
+      "name": "Basculegion",
+      "pct": 26.316
+    },
+    {
+      "name": "Annihilape",
+      "pct": 21.053
+    }
+  ]
+}
