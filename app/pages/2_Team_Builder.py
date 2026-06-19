@@ -17,7 +17,7 @@ import streamlit as st
 
 from app import dataAccess, legality, teamStore, theme
 
-theme.applyTheme('Team Builder')
+theme.applyTheme()
 
 NATURES = [
     'Hardy', 'Lonely', 'Brave', 'Adamant', 'Naughty', 'Bold', 'Docile', 'Relaxed',
@@ -72,13 +72,13 @@ with toolbar[0]:
 with toolbar[1]:
     st.write('')
     st.write('')
-    if st.button('Load', use_container_width=True, disabled=(pick == '—')):
+    if st.button('Load', width='stretch', disabled=(pick == '—')):
         _loadIntoBuilder(options[pick])
         st.rerun()
 with toolbar[2]:
     st.write('')
     st.write('')
-    if st.button('New team', use_container_width=True):
+    if st.button('New team', width='stretch'):
         st.session_state['team'] = teamStore.emptyTeam()
         st.session_state['builderRev'] += 1
         st.rerun()
@@ -193,7 +193,7 @@ save = st.columns([1, 1, 3])
 with save[0]:
     exportMd = st.checkbox('Export markdown', value=True)
 with save[1]:
-    if st.button('Save team', use_container_width=True, type='primary'):
+    if st.button('Save team', width='stretch', type='primary'):
         from datetime import date
         assembled['updated'] = str(date.today())
         if not assembled.get('created'):

@@ -5,7 +5,17 @@ Applies a dark, technical copper-amber palette consistently across pages via a
 small CSS injection and exposes the palette constants used by the plotly charts.
 '''
 
+from pathlib import Path
+
 import streamlit as st
+
+# The product's single canonical name. Shown in the browser tab on every page so
+# the tool is always identified by its main name, regardless of which page is open.
+APP_NAME = 'Pokemon Champions Meta Lab'
+
+# Pokeball logo, used as both the browser-tab favicon and the persistent sidebar
+# logo. Resolved relative to this file so it works from any working directory.
+POKEBALL = str(Path(__file__).resolve().parent / 'assets' / 'pokeball.png')
 
 # Copper-amber dark technical palette
 BG = '#1a1e2a'
@@ -53,9 +63,16 @@ _CSS = f'''
 '''
 
 
-def applyTheme(pageTitle: str, icon: str = '🔴') -> None:
-    '''Set page config and inject the shared CSS. Call once at the top of each page.'''
-    st.set_page_config(page_title=pageTitle, page_icon=icon, layout='wide')
+def applyTheme() -> None:
+    '''
+    Configure the page and apply shared branding. Call once at the top of each page.
+
+    The browser tab always shows APP_NAME (the tool's main name) with the pokeball
+    favicon, so the identity is consistent across page visits; the pokeball also
+    appears as the persistent sidebar logo, and the shared CSS is injected.
+    '''
+    st.set_page_config(page_title=APP_NAME, page_icon=POKEBALL, layout='wide')
+    st.logo(POKEBALL, icon_image=POKEBALL, size='large')
     st.markdown(_CSS, unsafe_allow_html=True)
 
 

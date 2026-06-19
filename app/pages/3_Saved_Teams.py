@@ -15,7 +15,7 @@ import streamlit as st
 
 from app import dataAccess, teamStore, theme
 
-theme.applyTheme('Saved Teams')
+theme.applyTheme()
 
 st.title('Saved Teams')
 
@@ -53,11 +53,11 @@ for slot in team.get('slots', []):
         'Nature': slot.get('nature'),
         'Moves': ' / '.join(m for m in moves if m),
     })
-st.dataframe(pd.DataFrame(rows), use_container_width=True, hide_index=True)
+st.dataframe(pd.DataFrame(rows), width='stretch', hide_index=True)
 
 actions = st.columns([1, 1, 3])
 with actions[0]:
-    if st.button('Edit in builder', use_container_width=True):
+    if st.button('Edit in builder', width='stretch'):
         base = teamStore.emptyTeam()
         base.update(team)
         st.session_state['team'] = base
@@ -67,7 +67,7 @@ with actions[1]:
     st.download_button(
         'Download markdown', data=teamStore.exportMarkdown(team),
         file_name=f'{team.get("slug", "team")}.md', mime='text/markdown',
-        use_container_width=True,
+        width='stretch',
     )
 
 with st.expander('Markdown preview'):

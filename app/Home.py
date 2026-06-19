@@ -19,7 +19,7 @@ import streamlit as st
 
 from app import charts, dataAccess, refresh, theme
 
-theme.applyTheme('Pokemon Champions Meta Lab')
+theme.applyTheme()
 
 st.title('Pokemon Champions Meta Lab')
 st.caption('Interactive meta explorer and team builder for Pokemon Champions VGC.')
@@ -46,7 +46,7 @@ left, right = st.columns([3, 2])
 with left:
     st.subheader('Top usage')
     if snapshot and snapshot.get('pokemon'):
-        st.plotly_chart(charts.usageBar(snapshot['pokemon'], topN=15), use_container_width=True)
+        st.plotly_chart(charts.usageBar(snapshot['pokemon'], topN=15), width='stretch')
     else:
         st.info('Usage chart appears once a snapshot is available.')
 
@@ -58,7 +58,7 @@ with right:
     )
     topN = st.slider('Top N Pokemon', min_value=10, max_value=60, value=30, step=5)
     fetchDetail = st.checkbox('Also fetch per-Pokemon detail (slower)', value=True)
-    if st.button('Refresh from Pikalytics', use_container_width=True):
+    if st.button('Refresh from Pikalytics', width='stretch'):
         with st.spinner('Fetching latest Champions meta…'):
             result = refresh.refreshMeta(topN=topN, fetchDetail=fetchDetail)
         if result['ok']:
