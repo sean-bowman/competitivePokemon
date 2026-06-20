@@ -29,7 +29,7 @@ if snapshot is None:
     st.stop()
 
 st.caption(
-    f'{snapshot.get("format", "—")} · snapshot {snapshot.get("fetched", "—")} · '
+    f'{snapshot.get("format", ", ")} · snapshot {snapshot.get("fetched", ", ")} · '
     f'{len(allDetail)} Pokemon with detailed data'
 )
 
@@ -63,11 +63,11 @@ with detailTab:
         with header[0]:
             if profile:
                 types = ' / '.join(t.title() for t in profile.get('types', []))
-                st.markdown(f'**Type:** {types or "—"}')
+                st.markdown(f'**Type:** {types or ": "}')
                 abilities = profile.get('abilities', {})
                 normal = ', '.join(a.replace('-', ' ').title() for a in abilities.get('normal', []))
                 hidden = (abilities.get('hidden') or '').replace('-', ' ').title()
-                st.markdown(f'**Abilities:** {normal or "—"}' + (f' · _Hidden:_ {hidden}' if hidden else ''))
+                st.markdown(f'**Abilities:** {normal or ": "}' + (f' · _Hidden:_ {hidden}' if hidden else ''))
             else:
                 st.caption('No PokeAPI profile committed for this Pokemon (e.g. a Mega form).')
         with header[1]:

@@ -1,11 +1,11 @@
-# Competitive Pokemon Research Resources — Annotated Bibliography
+# Competitive Pokemon Research Resources -- Annotated Bibliography
 
 **Session:** 2026-04-14  
 **Purpose:** Persistent reference catalogue for competitive Pokemon team building and meta game analysis. Intended to be read by Claude agents operating in this repository to guide research and tool targeting. Entries are grouped by category and marked with intended use cases.
 
 ---
 
-## Category 1: Pokemon Champions — Official
+## Category 1: Pokemon Champions -- Official
 
 ### Pokemon Champions Official Site
 - **URL:** https://champions.pokemon.com/en-us/
@@ -13,12 +13,12 @@
 - **Relevance:** The official landing page for Pokemon Champions, the new free-to-play competitive battling game launched April 8, 2026. Primary authoritative source for game announcements, format updates, and official ruleset documents.
 - **Key findings:**
   - Pokemon Champions is free-to-start on Nintendo Switch and Switch 2, with mobile releases planned for 2026
-  - Game is exclusively focused on competitive battling — no exploration, story, or catching
+  - Game is exclusively focused on competitive battling: no exploration, story, or catching
   - 186 Pokemon available at launch; players can import Pokemon via Pokemon HOME
   - Supports Single Battles and Double Battles
   - As of 2026, all official VGC tournaments are played on Pokemon Champions, replacing Scarlet/Violet
 
-### Nintendo — Pokemon Champions Announcement
+### Nintendo -- Pokemon Champions Announcement
 - **URL:** https://www.nintendo.com/us/whatsnew/get-battling-with-the-new-free-to-start-game-pokemon-champions/
 - **Accessed:** 2026-04-14
 - **Relevance:** Nintendo's official announcement page covering launch details, platform availability, and game overview.
@@ -30,7 +30,7 @@
 
 ---
 
-## Category 2: Meta Analysis — Pokemon Champions Specific
+## Category 2: Meta Analysis -- Pokemon Champions Specific
 
 ### Pikalytics Champions
 - **URL:** https://www.pikalytics.com/champions

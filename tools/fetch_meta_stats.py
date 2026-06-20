@@ -198,7 +198,7 @@ def fetchPokemonDetail(pokemonKey: str, displayName: str = '') -> dict:
     Returns moves, items, abilities, and teammates as lists of {name, pct} dicts.
 
     Uses the machine-readable markdown endpoint (/ai/pokedex/championstournaments/<name>)
-    which returns English names regardless of viewer locale — more reliable than
+    which returns English names regardless of viewer locale: more reliable than
     HTML scraping the standard detail page.
 
     Falls back to display name if the pokemonKey URL 404s (e.g. Rotom-Wash vs rotomwash).
@@ -257,7 +257,7 @@ def buildSnapshot(usageList: list[dict], fetchDetail: bool = False) -> dict:
     snapshot = {
         'source': PIKALYTICS_CHAMPIONS,
         'fetched': today,
-        'format': 'Pokemon Champions — Double Battles',
+        'format': 'Pokemon Champions: Double Battles',
         'pokemon': [],
     }
 
@@ -286,7 +286,7 @@ def saveSnapshot(snapshot: dict, outputPath: Path) -> None:
 def printSummary(snapshot: dict) -> None:
     '''Print a ranked usage table to stdout.'''
     pokemon = snapshot.get('pokemon', [])
-    print(f'\n=== {snapshot["format"]} — Usage Rankings ({snapshot["fetched"]}) ===')
+    print(f'\n=== {snapshot["format"]}: Usage Rankings ({snapshot["fetched"]}) ===')
     print(f'  {"Rank":<6} {"Pokemon":<20} {"Usage":>7}  Role')
     print(f'  {"-"*60}')
     for p in pokemon:

@@ -1,5 +1,5 @@
 '''
-Pokemon Champions Meta Lab — Streamlit entrypoint.
+Pokemon Champions Meta Lab: Streamlit entrypoint.
 
 Run from the repository root:
     streamlit run app/Home.py
@@ -34,10 +34,10 @@ if snapshot is None:
     )
 else:
     col1, col2, col3 = st.columns(3)
-    col1.metric('Snapshot date', snapshot.get('fetched', '—'))
+    col1.metric('Snapshot date', snapshot.get('fetched', ': '))
     col2.metric('Pokemon ranked', len(snapshot.get('pokemon', [])))
     col3.metric('Detailed dataset', f'{len(roster)} Pokemon')
-    st.caption(f'Format: {snapshot.get("format", "—")} · source: {snapshot.get("source", "—")}')
+    st.caption(f'Format: {snapshot.get("format", ", ")} · source: {snapshot.get("source", ", ")}')
 
 st.divider()
 

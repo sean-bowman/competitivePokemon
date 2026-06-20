@@ -68,11 +68,11 @@ saved = teamStore.listTeams()
 toolbar = st.columns([3, 1, 1])
 with toolbar[0]:
     options = {t['name']: t['slug'] for t in saved}
-    pick = st.selectbox('Load saved team', ['—'] + list(options.keys()), index=0)
+    pick = st.selectbox('Load saved team', [': '] + list(options.keys()), index=0)
 with toolbar[1]:
     st.write('')
     st.write('')
-    if st.button('Load', width='stretch', disabled=(pick == '—')):
+    if st.button('Load', width='stretch', disabled=(pick == ': ')):
         _loadIntoBuilder(options[pick])
         st.rerun()
 with toolbar[2]:
@@ -138,7 +138,7 @@ for i in range(1, 7):
         for j in range(4):
             with moveCols[j]:
                 mv = editableSelect(f'Move {j + 1}', f'move_{rev}_{i}_{j}', moveOpts,
-                                    slotMoves[j] or None, '—')
+                                    slotMoves[j] or None, ': ')
                 moves.append(mv or '')
 
         st.caption('EV spread (max 252 per stat, 508 total)')
@@ -154,7 +154,7 @@ for i in range(1, 7):
         evTotal = sum(evs.values())
         natureCols = st.columns([2, 2])
         with natureCols[0]:
-            nature = editableSelect('Nature', f'nat_{rev}_{i}', NATURES, slot.get('nature') or None, '—')
+            nature = editableSelect('Nature', f'nat_{rev}_{i}', NATURES, slot.get('nature') or None, ': ')
         with natureCols[1]:
             st.metric('EV total', f'{evTotal} / 508')
 

@@ -1,4 +1,4 @@
-# Competitive Pokemon — Reference Overview
+# Competitive Pokemon -- Reference Overview
 
 **Audience:** Claude agents operating in this repository. This document provides foundational context on competitive Pokemon battling to enable informed team building assistance.
 
@@ -24,21 +24,21 @@ There are 18 types. Type matchups determine damage multipliers:
 Understanding type matchups is the foundation of every defensive and offensive decision.
 
 ### Abilities
-Each Pokemon has 1–3 possible abilities (1 active at a time). Abilities passively modify battle behavior — they can boost damage, alter type matchups, activate effects on switch-in, or fundamentally change how a Pokemon functions. Examples:
-- **Multiscale** (Dragonite): Halves damage taken while at full HP — transforms Dragonite from a pokemon that fears being one-shotted to a reliable setup sweeper or wallbreaker
-- **Intimidate**: Lowers opponent's Attack by 1 stage on switch-in — premier support ability in Doubles
-- **Levitate**: Makes the user immune to Ground moves — changes defensive type coverage entirely
+Each Pokemon has 1–3 possible abilities (1 active at a time). Abilities passively modify battle behavior: they can boost damage, alter type matchups, activate effects on switch-in, or fundamentally change how a Pokemon functions. Examples:
+- **Multiscale** (Dragonite): Halves damage taken while at full HP: transforms Dragonite from a pokemon that fears being one-shotted to a reliable setup sweeper or wallbreaker
+- **Intimidate**: Lowers opponent's Attack by 1 stage on switch-in: premier support ability in Doubles
+- **Levitate**: Makes the user immune to Ground moves: changes defensive type coverage entirely
 
 ### Items
 Each Pokemon holds one item. Items are central to competitive team building.
 
-**Item Clause:** In all official competitive formats (VGC, Pokemon Champions), no two Pokemon on the same team may hold the same item. This is a hard rule enforced in every official battle. Always verify the full team's item list before finalizing — a team summary table listing all 6 Pokemon with their items is the recommended way to catch violations early.
+**Item Clause:** In all official competitive formats (VGC, Pokemon Champions), no two Pokemon on the same team may hold the same item. This is a hard rule enforced in every official battle. Always verify the full team's item list before finalizing: a team summary table listing all 6 Pokemon with their items is the recommended way to catch violations early.
 - **Choice items** (Choice Band/Specs/Scarf): Lock the user into one move but boost Attack, Sp. Atk, or Speed by 1.5x respectively
-- **Leftovers/Black Sludge**: Passive HP recovery each turn — enables defensive longevity
+- **Leftovers/Black Sludge**: Passive HP recovery each turn: enables defensive longevity
 - **Life Orb**: 1.3x damage boost at the cost of 10% HP per attacking move
 - **Mega Stones**: Trigger Mega Evolution when held; Pokemon Champions uses Victory Points to purchase these
-- **Focus Sash**: Survive any single hit at 1 HP (if starting at full HP) — guarantees a revenge KO or hazard set
-- **Eviolite**: Doubles Defense and Sp. Def of unevolved Pokemon — makes some NFEs bulkier than their evolutions
+- **Focus Sash**: Survive any single hit at 1 HP (if starting at full HP): guarantees a revenge KO or hazard set
+- **Eviolite**: Doubles Defense and Sp. Def of unevolved Pokemon: makes some NFEs bulkier than their evolutions
 
 ---
 
@@ -53,20 +53,20 @@ Each Pokemon holds one item. Items are central to competitive team building.
 - Positioning: field effects, terrain, and weather interact with both your Pokemon and both opponents simultaneously
 - Turn order becomes more complex (4 Pokemon acting per turn, each at their own Speed)
 
-**Team preview:** In official formats, both players see all 6 opposing Pokemon before selecting which 4 to bring. This makes team building more complex — your team must be able to handle a wide variety of leads and back-team compositions, not just a single opponent.
+**Team preview:** In official formats, both players see all 6 opposing Pokemon before selecting which 4 to bring. This makes team building more complex: your team must be able to handle a wide variety of leads and back-team compositions, not just a single opponent.
 
 ### Singles Tier System (Smogon)
 Smogon tiers determine which Pokemon are legal in each format based on usage statistics compiled monthly from Pokemon Showdown ladder data:
 
 | Tier | Description |
 |------|-------------|
-| **Ubers** | Banned from standard OU — too powerful for balanced play. Includes most legendaries. |
+| **Ubers** | Banned from standard OU: too powerful for balanced play. Includes most legendaries. |
 | **OU (OverUsed)** | Standard competitive tier. Pokemon used in >4.52% of high-ladder games. |
 | **UU (UnderUsed)** | Pokemon too weak for OU but strong enough to dominate lower tiers. |
 | **RU (RarelyUsed)** | Next tier below UU. |
 | **NU (NeverUsed)** | Pokemon rarely used even in lower tiers. |
 | **PU** | The lowest usage tier. |
-| **Anything Goes (AG)** | No restrictions — Ubers, Z-moves, megas, everything. |
+| **Anything Goes (AG)** | No restrictions: Ubers, Z-moves, megas, everything. |
 
 Smogon tiers are relevant for Pokemon Showdown practice and for understanding the relative power level of different Pokemon, but they do not directly map to Pokemon Champions legality.
 
@@ -88,8 +88,8 @@ As of 2026, Pokemon Champions is the official platform for all VGC events.
 ### Win Condition
 The core question of team building: how does this team actually win games? Common win conditions:
 - **Offensive sweeper:** Set up (Dragon Dance, Swords Dance, Nasty Plot), then sweep with boosted stats
-- **Wallbreaker:** Hit too hard for the opponent to sustain — wear down defensive cores without needing setup
-- **Stall:** Win via attrition — entry hazards, status, recovery, and chip damage outlast the opponent's team
+- **Wallbreaker:** Hit too hard for the opponent to sustain: wear down defensive cores without needing setup
+- **Stall:** Win via attrition: entry hazards, status, recovery, and chip damage outlast the opponent's team
 - **Trick Room:** Reverse Speed priority for 5 turns; your "slow" Pokemon now moves first
 - **Weather/Terrain teams:** Leverage Rain, Sun, Sand, or Hail for passive damage, Speed boosts, or move power boosts
 
@@ -97,16 +97,16 @@ The core question of team building: how does this team actually win games? Commo
 A core is two or more Pokemon that synergize to handle each other's weaknesses. Classic example: a Dragon/Fire core, where the Fire type handles Ice/Steel moves that Dragon fears, and the Dragon type handles Water moves that Fire fears. Identifying your primary core and its common checks is the first step in team building around any particular Pokemon.
 
 ### Speed Tiers
-Speed determines turn order in battle. The competitive meta is organized around speed tiers — the Speed stat values at which Pokemon naturally outspeed or are outsped by key threats. Common benchmarks in Generation 9 formats include 100 Speed (base Dragonite), 110 (many Fast Pokemon), 120 (Weavile), 130 (Regieleki), etc. Setting EVs to hit or exceed a specific speed tier is a key optimization decision.
+Speed determines turn order in battle. The competitive meta is organized around speed tiers: the Speed stat values at which Pokemon naturally outspeed or are outsped by key threats. Common benchmarks in Generation 9 formats include 100 Speed (base Dragonite), 110 (many Fast Pokemon), 120 (Weavile), 130 (Regieleki), etc. Setting EVs to hit or exceed a specific speed tier is a key optimization decision.
 
 Speed can be modified by:
 - **Priority moves** (Extreme Speed, Sucker Punch, Fake Out): Act before normal moves regardless of Speed
-- **Choice Scarf:** 1.5x Speed — allows slower Pokemon to outspeed fast threats
-- **Tailwind (Doubles):** Doubles team Speed for 4 turns — enables otherwise too-slow teams
-- **Trick Room (Doubles):** Reverses Speed priority — enables "slow" bulky Pokemon to move first
+- **Choice Scarf:** 1.5x Speed: allows slower Pokemon to outspeed fast threats
+- **Tailwind (Doubles):** Doubles team Speed for 4 turns: enables otherwise too-slow teams
+- **Trick Room (Doubles):** Reverses Speed priority: enables "slow" bulky Pokemon to move first
 
 ### Role Compression
-In a 6-Pokemon team, each slot must justify itself. Role compression means choosing a Pokemon that fills multiple roles simultaneously — a Pokemon that is both a speed control setter AND a physical attacker, for example. Leaning too hard on hyper-specialized Pokemon can leave the team vulnerable to specific threats it has no answer for.
+In a 6-Pokemon team, each slot must justify itself. Role compression means choosing a Pokemon that fills multiple roles simultaneously: a Pokemon that is both a speed control setter AND a physical attacker, for example. Leaning too hard on hyper-specialized Pokemon can leave the team vulnerable to specific threats it has no answer for.
 
 ### Entry Hazards (Singles)
 Hazards are less central in Doubles/VGC but are important in Singles formats:

@@ -3,7 +3,7 @@ Refresh helpers that reuse the existing CLI scrapers in tools/.
 
 These wrap tools.fetch_meta_stats and tools.fetch_pokemon_data so the Streamlit
 refresh button can pull fresh data on demand. Calls are blocking and run inside a
-st.spinner — adequate for a single-user portfolio app; no background job system.
+st.spinner: adequate for a single-user portfolio app; no background job system.
 
 Network failures degrade gracefully: fetchOverview returns [] on error, which we
 surface as a warning while the app keeps reading the last committed snapshot.
@@ -27,7 +27,7 @@ def refreshMeta(topN: int = 30, fetchDetail: bool = True) -> dict:
     '''
     usageList = metaTool.fetchOverview(topN=topN)
     if not usageList:
-        return {'ok': False, 'message': 'Fetch failed — showing last committed snapshot.'}
+        return {'ok': False, 'message': 'Fetch failed: showing last committed snapshot.'}
 
     snapshot = metaTool.buildSnapshot(usageList, fetchDetail=fetchDetail)
     outputPath = dataAccess.SNAPSHOT_DIR / f'meta_stats_{date.today()}.json'

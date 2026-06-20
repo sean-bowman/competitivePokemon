@@ -43,7 +43,7 @@ def emptyTeam(name: str = 'New Team') -> dict:
         'schemaVersion': 1,
         'name': name,
         'slug': slugifyTeam(name),
-        'format': 'Pokemon Champions — Double Battles (VGC)',
+        'format': 'Pokemon Champions: Double Battles (VGC)',
         'winCondition': '',
         'created': str(date.today()),
         'updated': '',
@@ -119,7 +119,7 @@ def saveTeam(team: dict, exportMarkdownDoc: bool = True) -> dict:
 def _formatEvs(evs: dict) -> str:
     '''Render an EV dict as '252 SpAtk / 252 HP / 4 SpDef', omitting zeros.'''
     parts = [f'{evs.get(k, 0)} {EV_LABELS[k]}' for k in EV_ORDER if int(evs.get(k, 0) or 0) > 0]
-    return ' / '.join(parts) if parts else '—'
+    return ' / '.join(parts) if parts else ': '
 
 
 def exportMarkdown(team: dict) -> str:
@@ -127,7 +127,7 @@ def exportMarkdown(team: dict) -> str:
     lines: list[str] = []
     lines.append(f'# Build: {team.get("name", "Untitled")}')
     lines.append('')
-    lines.append(f'**Format:** {team.get("format", "—")}')
+    lines.append(f'**Format:** {team.get("format", ": ")}')
     if team.get('created'):
         lines.append(f'**Created:** {team["created"]}')
     if team.get('updated'):
@@ -169,12 +169,12 @@ def exportMarkdown(team: dict) -> str:
     for slot in team.get('slots', []):
         if not slot.get('pokemon'):
             continue
-        lines.append(f'### {slot.get("slot")}. {slot.get("pokemon")} @ {slot.get("item") or "—"}')
+        lines.append(f'### {slot.get("slot")}. {slot.get("pokemon")} @ {slot.get("item") or ": "}')
         lines.append('')
         lines.append('```text')
-        lines.append(f'Ability: {slot.get("ability") or "—"}')
+        lines.append(f'Ability: {slot.get("ability") or ": "}')
         lines.append(f'EVs: {_formatEvs(slot.get("evs", {}))}')
-        lines.append(f'Nature: {slot.get("nature") or "—"}')
+        lines.append(f'Nature: {slot.get("nature") or ": "}')
         for move in slot.get('moves', []):
             if move:
                 lines.append(f'- {move}')

@@ -125,7 +125,7 @@ def fetchPokemon(name: str) -> dict | None:
     if pokemonData is None:
         print(f'  {name} not found in PokeAPI.')
         print('  This may be a recently introduced Pokemon (e.g., new Mega form from Legends: Z-A).')
-        print('  Consider supplementing manually — see docs/pokemon/ for JSON format.')
+        print('  Consider supplementing manually: see docs/pokemon/ for JSON format.')
         return None
 
     print(f'  Found: {pokemonData["name"]} (ID #{pokemonData["id"]})')

@@ -1,7 +1,7 @@
 '''
 Team validation against Pokemon Champions rules.
 
-Checks are intentionally soft — they return messages, never block saving — because
+Checks are intentionally soft, they return messages, never block saving, because
 the curated legal pool (docs/champions_legal_pool.json) is incomplete and expected
 to expand. Each check yields {level, message} where level is 'error' | 'warning'.
 '''
@@ -73,7 +73,7 @@ def checkItemLegality(team: dict, legalPool: dict) -> list[dict]:
                         'message': f'{slot["pokemon"]}: "{item}" is not available in Champions.'})
         elif available and norm not in available:
             out.append({'level': _LEVEL_WARNING,
-                        'message': f'{slot["pokemon"]}: "{item}" is not in the known legal pool — verify.'})
+                        'message': f'{slot["pokemon"]}: "{item}" is not in the known legal pool: verify.'})
     return out
 
 

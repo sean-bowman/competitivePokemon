@@ -154,7 +154,7 @@ def parseBuild(path: Path) -> dict:
         'schemaVersion': 1,
         'name': name,
         'slug': slugifyTeam(name),
-        'format': meta.get('format', 'Pokemon Champions — Double Battles (VGC)'),
+        'format': meta.get('format', 'Pokemon Champions: Double Battles (VGC)'),
         'winCondition': meta.get('winCondition', ''),
         'created': meta.get('created', ''),
         'updated': meta.get('updated', ''),

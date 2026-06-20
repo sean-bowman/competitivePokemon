@@ -33,9 +33,9 @@ if team is None:
     st.stop()
 
 meta = st.columns(3)
-meta[0].metric('Format', team.get('format', '—').split('—')[-1].strip() or '—')
-meta[1].metric('Created', team.get('created', '—'))
-meta[2].metric('Meta snapshot', team.get('metaSnapshot', '—'))
+meta[0].metric('Format', team.get('format', ', ').split(', ')[-1].strip() or ', ')
+meta[1].metric('Created', team.get('created', ': '))
+meta[2].metric('Meta snapshot', team.get('metaSnapshot', ': '))
 if team.get('winCondition'):
     st.markdown(f'**Win condition:** {team["winCondition"]}')
 

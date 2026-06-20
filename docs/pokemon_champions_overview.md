@@ -1,4 +1,4 @@
-# Pokemon Champions — Game Reference
+# Pokemon Champions -- Game Reference
 
 **Audience:** Claude agents operating in this repository. This document provides specific context on Pokemon Champions to ensure advice and team building suggestions are in alignment with the game's ruleset, roster, and mechanics.
 
@@ -6,9 +6,9 @@
 
 ## What Is Pokemon Champions?
 
-Pokemon Champions is a free-to-play competitive battling game developed by The Pokemon Company, released April 8, 2026 on Nintendo Switch and Nintendo Switch 2. Unlike mainline Pokemon games, it has no exploration, catching, or story — the game is 100% focused on competitive battles. A mobile release is planned for 2026.
+Pokemon Champions is a free-to-play competitive battling game developed by The Pokemon Company, released April 8, 2026 on Nintendo Switch and Nintendo Switch 2. Unlike mainline Pokemon games, it has no exploration, catching, or story: the game is 100% focused on competitive battles. A mobile release is planned for 2026.
 
-**Significance:** As of the 2026 season, all official VGC (Video Game Championships) tournaments are played on Pokemon Champions. This makes it the authoritative competitive platform — results from previous seasons on Scarlet/Violet are not directly comparable.
+**Significance:** As of the 2026 season, all official VGC (Video Game Championships) tournaments are played on Pokemon Champions. This makes it the authoritative competitive platform: results from previous seasons on Scarlet/Violet are not directly comparable.
 
 ---
 
@@ -94,7 +94,7 @@ Champions uses the same fundamental battle mechanics as the mainline games:
 - Level 50 cap (all Pokemon adjusted to Level 50 for battle regardless of actual level)
 - Species Clause: no duplicate Pokemon per team
 - Item Clause: no duplicate items per team
-- Specific banned moves or abilities may be defined per season — always check official rules at:
+- Specific banned moves or abilities may be defined per season: always check official rules at:
   https://play.pokemon.com/en-us/resources/rules/?category=vgc
 
 ---
@@ -104,25 +104,25 @@ Champions uses the same fundamental battle mechanics as the mainline games:
 Unlike Scarlet/Violet where Showdown usage stats were the primary source, Pokemon Champions has its own dedicated meta tracking tools:
 
 ### Primary Sources (in recommended order)
-1. **Pikalytics Champions** — https://www.pikalytics.com/champions
+1. **Pikalytics Champions**: https://www.pikalytics.com/champions
    - Real-time usage statistics from the Champions ranked ladder
    - Per-Pokemon: usage %, common moves, items, abilities, teammates
    - Most up-to-date quantitative meta picture
 
-2. **ChampionsLab** — https://championslab.xyz/meta
+2. **ChampionsLab**: https://championslab.xyz/meta
    - Community meta analysis and team database
    - Tier assessments and meta narrative
 
-3. **Game8 Pokemon Champions** — https://game8.co/games/Pokemon-Champions
+3. **Game8 Pokemon Champions**: https://game8.co/games/Pokemon-Champions
    - Individual Pokemon guides with recommended EV spreads and movesets
    - Best team recommendations updated by professional game guide editors
    - Tier list: https://game8.co/games/Pokemon-Champions/archives/592465
 
-4. **Victory Road** — https://victoryroad.pro/
+4. **Victory Road**: https://victoryroad.pro/
    - Tournament team sheets from regional and national events
    - Most reliable source for what's actually winning official tournaments
 
-5. **StrataDex** — https://stratadex.net/tierlist
+5. **StrataDex**: https://stratadex.net/tierlist
    - Community tier list for quick viability checks
 
 ### Automated Snapshot Tool
@@ -144,14 +144,14 @@ Players familiar with Gen 9 VGC (Scarlet/Violet) should note the following key d
 
 **The most significant mechanic shift:** Terastallization (the defining mechanic of S/V) is replaced by Mega Evolution as the primary battle transformation mechanic. This fundamentally changes team building philosophy:
 
-- **Tera** allowed any Pokemon to change type once per battle — enabling defensive pivots or STAB coverage changes mid-game
-- **Mega Evolution** permanently transforms one Pokemon into a pre-defined enhanced form for the rest of the battle — the choice of which Pokemon to Mega is strategic but the outcome (typing, stats, ability) is predictable and known to the opponent
+- **Tera** allowed any Pokemon to change type once per battle: enabling defensive pivots or STAB coverage changes mid-game
+- **Mega Evolution** permanently transforms one Pokemon into a pre-defined enhanced form for the rest of the battle: the choice of which Pokemon to Mega is strategic but the outcome (typing, stats, ability) is predictable and known to the opponent
 
 Teams built around abusing Tera should be completely reconceived. Teams built around a strong Mega user have a more fixed but potentially more powerful transformation available.
 
 ---
 
-## Item and Move Availability — Critical Constraint
+## Item and Move Availability -- Critical Constraint
 
 Pokemon Champions launched with a **curated, limited item and move pool** that differs from mainline games. Do not assume items or moves available in Scarlet/Violet or other games are legal in Champions. This is one of the most common sources of error when building teams.
 
@@ -176,7 +176,7 @@ Choice Scarf, Focus Sash, Rocky Helmet, Damp Rock, Sitrus Berry, Lum Berry, Cher
 
 ### Move Availability Per Pokemon
 
-Champions uses a curated learnset per Pokemon — moves are selected from a defined list rather than inherited from mainline games. **Moves available in Scarlet/Violet may not be in a Pokemon's Champions learnset.**
+Champions uses a curated learnset per Pokemon: moves are selected from a defined list rather than inherited from mainline games. **Moves available in Scarlet/Violet may not be in a Pokemon's Champions learnset.**
 
 Notable example: Incineroar cannot learn Knock Off in Champions despite the move existing in the game for other Pokemon.
 
@@ -191,12 +191,12 @@ Do not copy movesets from Smogon analyses or Scarlet/Violet VGC references witho
 
 ## Team Building Workflow for Pokemon Champions
 
-1. **Verify the target format** — Singles or Doubles? Current season's restricted Pokemon list?
-2. **Check current Pikalytics Champions usage** — What are the top 20 Pokemon appearing? What are common archetypes?
-3. **Identify a win condition** — Which Pokemon will be your primary threat? (e.g., Mega Dragonite as a Doubles wallbreaker/sweeper)
-4. **Check Game8 guide** for that Pokemon's recommended sets in the Champions meta specifically — do not use Smogon or S/V sets without verifying Champions availability
+1. **Verify the target format**: Singles or Doubles? Current season's restricted Pokemon list?
+2. **Check current Pikalytics Champions usage**: What are the top 20 Pokemon appearing? What are common archetypes?
+3. **Identify a win condition**: Which Pokemon will be your primary threat? (e.g., Mega Dragonite as a Doubles wallbreaker/sweeper)
+4. **Check Game8 guide** for that Pokemon's recommended sets in the Champions meta specifically: do not use Smogon or S/V sets without verifying Champions availability
 5. **Verify every item and move** against Champions-specific sources before writing a build document
-6. **Build support structure** around the win condition — speed control, redirection, hazard setting (if Singles), type coverage
+6. **Build support structure** around the win condition: speed control, redirection, hazard setting (if Singles), type coverage
 7. **Cross-reference Victory Road** for similar team compositions that have placed well in events
 8. **Document the team** in `docs/teams/` with full details for future reference
 
@@ -204,4 +204,4 @@ Do not copy movesets from Smogon analyses or Scarlet/Violet VGC references witho
 
 ## Research Session Documentation
 
-Each time meta research is conducted, save a snapshot to `docs/snapshots/` using the fetch script, and consider saving a session summary to `docs/` as a new annotated bibliography entry. This builds an archive of how the meta evolved over time — useful for understanding trends and revisiting past decisions.
+Each time meta research is conducted, save a snapshot to `docs/snapshots/` using the fetch script, and consider saving a session summary to `docs/` as a new annotated bibliography entry. This builds an archive of how the meta evolved over time: useful for understanding trends and revisiting past decisions.
